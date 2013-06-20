@@ -20,5 +20,5 @@ In addition, if you would like to discuss alternatives or extra privileges as pa
 
 If you are interested in helping us run a great and affordable unconference, please email us at [info@socratesuk.org][info@socratesuk.org].
 
-[London Software Craftsmanship Community]: http://www.meetup.com/london-software-craftsmanship/
+[London Software Craftsmanship Community]: http://londonswcraft.com/
 [info@socratesuk.org]: mailto:info@socratesuk.org
