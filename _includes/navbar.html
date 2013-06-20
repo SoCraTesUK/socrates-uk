@@ -1,0 +1,19 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    <li{% if page.name == 'Home' %} class="active"{% endif %}><a href="index.html">Home</a></li>
+                    <li{% if page.name == 'Details' %} class="active"{% endif %}><a href="details.html">Details</a></li>
+                    <li><a href="mailto:info@socratesuk.org">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

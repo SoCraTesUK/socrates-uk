@@ -19,34 +19,11 @@
     </head>
 
     <body>
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="navbar-inner">
-                <div class="container">
-                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-
-                    <div class="nav-collapse collapse">
-                        <ul class="nav">
-                            <li{% if page.name == 'Home' %} class="active"{% endif %}><a href="index.html">Home</a></li>
-                            <li{% if page.name == 'Details' %} class="active"{% endif %}><a href="details.html">Details</a></li>
-                            <li><a href="mailto:info@socratesuk.org">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {% include navbar.html %}
 
         <div class="container">
             <div class="row-fluid">
-                <img class="span2" src="img/logo.png"/>
-                <div class="span10">
-                    <h1>SoCraTes UK 2013</h1>
-                    <h3>International Software Craftsmanship gathering</h3>
-                    <h4>19th – 22nd September, <a href="http://cotswoldconferencecentre.com/location/how-to-get-here/farncombe-estate/" target="_blank">Farncombe Estate</a></h4>
-                </div>
+                {% include header.html %}
             </div>
 
             <div class="row-fluid">
@@ -55,16 +32,7 @@
                 </div>
 
                 <div class="span4">
-                    <h3 >Sponsors</h3>
-                    <a href="http://skillsmatter.com/" target="_blank"><img class="logo" src="img/logo-skillsmatter.gif"></a>
-                    <a href="http://www.unrulymedia.com/" target="_blank"><img class="logo" src="img/logo-unruly.png"></a>
-                    <p>Interested in sponsoring us? <a href="mailto:info@socratesuk.org">Get in touch.</a></p>
-
-
-                    <h4>Organisation</h4>
-                    <a href="http://www.londonswcraft.com/" target="_blank"><img src="img/LSCC_small.png" height="207" width="280"></a>
-                    </br>
-                    <a href="http://londonswcraft.com" target="_blank">London Software Craftsmanship Community</a></p>
+                    {% include aside.html %}
                 </div>
             </div>
         </div>
