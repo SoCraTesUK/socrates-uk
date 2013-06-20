@@ -13,7 +13,7 @@ The gathering will happen from the evening of Thursday 19th September until the 
 
 ### What can you expect?
 
-Set as a self-organized open space over 2 days, expect highly interesting discussions and practical sessions with extremelly passionated and talented software craftsmen like you.
+Set as a self-organized open space over two days, expect highly interesting discussions and practical sessions with extremelly passionated and talented software craftsmen like you.
 
 As we are all staying in the same beautiful countryside hotel, besides all the great technical content during the day, expect to have some fun and drinks until late in the evening. Don't be surprised to see people banging on guitars and other instruments, playing games and, of course, having some drinks in the garden. Just join the fun.
 
@@ -43,7 +43,7 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
-We will open registration soon. To keep up to date with news [follow us on twitter.][@socrates_uk]
+We will open registration soon. To keep up to date with news, [follow us on twitter][@socrates_uk].
 
 [@socrates_uk]: https://twitter.com/socrates_uk
 
