@@ -7,7 +7,9 @@ name: Home
 
 A retreat for 70 open-minded craftspeople who strive to improve their craft and the software industry as a whole.
 
-The gathering will happen from the evening of Thursday 19th September until the evening of Saturday 21st. On Sunday 22nd, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
+The gathering will happen from the evening of **Thursday 19th September** until the evening of **Saturday 21st**. On **Sunday 22nd**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
+
+Registration opens on **Friday 28th June** at **11:00am** BST (UTC+1). Check this page or [our Twitter account][@socrates_uk] then for the link to reserve a space. We expect places to move quickly, so keep an eye on the clock!
 
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
@@ -45,10 +47,10 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 We will open registration soon. To keep up to date with news, [follow us on twitter][@socrates_uk].
 
-[@socrates_uk]: https://twitter.com/socrates_uk
-
 ### Inspiration
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
 [SoCraTes Germany]: http://www.socrates-conference.de/
+
+[@socrates_uk]: https://twitter.com/socrates_uk
