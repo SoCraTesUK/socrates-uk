@@ -5,7 +5,7 @@ name: Home
 
 ### What is SoCraTes?
 
-A retreat for 70 open-minded craftspeople who strive to improve their craft and the software industry as a whole.
+A retreat for open-minded craftspeople who strive to improve their craft and the software industry as a whole.
 
 The gathering will happen from the evening of **Thursday 19th September** until the evening of **Saturday 21st**. On **Sunday 22nd**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
 
