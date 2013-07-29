@@ -1,9 +1,11 @@
 <aside>
-    <section id="sponsors">
+    <section>
         <h3>Sponsors</h3>
-        {% for sponsor in site.sponsors %}
-            <p class="sponsor"><a href="{{ sponsor.url }}"><img class="logo" src="img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"/></a></p>
-        {% endfor %}
+        <div id="sponsors">
+            {% for sponsor in site.sponsors %}
+                <p class="sponsor"><a href="{{ sponsor.url }}"><img class="logo" src="img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"/></a></p>
+            {% endfor %}
+        </div>
         <p>Interested in sponsoring us? <a href="mailto:info@socratesuk.org">Get in touch.</a></p>
     </section>
 
