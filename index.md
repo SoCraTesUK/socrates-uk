@@ -52,7 +52,7 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
-We will open registration soon. To keep up to date with news, [follow us on twitter][@socrates_uk].
+Registrations are open on [Eventbrite][Eventbrite]. To keep up to date with news, [follow us on twitter][@socrates_uk].
 
 ### Inspiration
 
