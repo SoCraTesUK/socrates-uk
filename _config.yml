@@ -1,22 +1,22 @@
 sponsors:
   - name: 8th Light
     url: http://www.8thlight.com/
-    logo: 8L_logo.jpg
+    logo: 8thlight.png
+  - name: Equal Experts
+    url: http://www.equalexperts.com/
+    logo: equalexperts.png
   - name: GitHub
     url: http://www.github.com/
     logo: github.png
   - name: Mozaic Works
     url: http://www.mozaicworks.com/
     logo: mozaicworks.png
-  - name: Skills Matter
-    url: http://skillsmatter.com/
-    logo: skillsmatter.gif
-  - name: Unruly Media
-    url: http://www.unrulymedia.com/
-    logo: unruly.png
   - name: Pivotal Labs
     url: http://pivotallabs.com/
     logo: pivotallabs.png
-  - name: Equal Experts
-    url: http://www.equalexperts.com/
-    logo: equalexperts.png
+  - name: Skills Matter
+    url: http://skillsmatter.com/
+    logo: skillsmatter.png
+  - name: Unruly Media
+    url: http://www.unrulymedia.com/
+    logo: unruly.png
