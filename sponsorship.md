@@ -13,7 +13,7 @@ In exchange for financial backing, we would provide:
 - a mention at the beginning and end of the conference
 - your logo on our website
 - mentions on social media channels
-- your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship][London Software Craftsmanship Community] mailing list with over 1100 craftsmen and women
+- your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship][London Software Craftsmanship Community] mailing list with over 1400 craftsmen and women
 - your merchandise available to everyone at the conference
 
 In addition, if you would like to discuss alternatives or extra privileges as part of your sponsorship, please let us know. We will be happy to work with you to come up with something that benefits everyone.

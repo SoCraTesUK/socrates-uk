@@ -7,14 +7,18 @@ name: Home
 
 A retreat for open-minded craftspeople who strive to improve their craft and the software industry as a whole.
 
-The gathering will happen from the evening of **Thursday 19th September** until the evening of **Saturday 21st**. On **Sunday 22nd**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
+The gathering will happen from the evening of **Thursday 12th June** until the evening of **Saturday 14th**. On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
 
-Registration opens on **Friday 28th June** at **11:00am** BST (UTC+1). Register using the form below, or [head over to Eventbrite][Eventbrite].
+Registration opens on **Friday 11th January** at **11:00am** GMT (UTC+0).
+
+<!--
+Register using the form below, or [head over to Eventbrite][Eventbrite].
 
 <div style="width:100%; text-align:left;">
     <iframe src="http://www.eventbrite.co.uk/tickets-external?eid=6777522753&amp;ref=etckt&amp;v=2" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">&nbsp;</iframe>
     <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Sell Tickets Online</a> <span style="color:#ddd;">through</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk?ref=etckt">Eventbrite</a></div>
 </div>
+-->
 
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 

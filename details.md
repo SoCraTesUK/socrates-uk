@@ -17,7 +17,7 @@ There is a <a href="https://github.com/lscc/socrates-uk/wiki">wiki</a> for atten
 
 This is a non-profit gathering and the only fees will be hotel accommodation (including meals & non-alcoholic beverages) and transportation to the venue. All attendees, including the organisers, will be paying these fees.
 
-Eventbrite will be used for registration, with a £100 up-front non-refundable deposit required to secure a ticket.
+Eventbrite will be used for registration, with a £100 up-front **non-refundable deposit** required to secure a ticket.
 
 The final balance, which includes the deposit, will be settled upon checking out of the hotel.
 
@@ -30,18 +30,18 @@ We are also looking to secure **sponsorship** which will go directly towards bri
 
 #### Accommodation
 
-There are 20 twin and 30 single rooms, all with en-suite facilities. Attendees can choose to stay for two or three nights. The cost, without sponsorhip discounts, will be:
+There are 19 twin and 62 single rooms, all with en-suite facilities. Attendees can choose to stay for two or three nights. The cost, without sponsorhip discounts, will be:
 
-1. Thu 19, Fri 20 - Single room: £100.00 deposit + £145.00 paid on checking out
-2. Thu 19, Fri 20 - Twin room: £100.00 deposit + £125.00 paid on checking out
-3. Thu 19, Fri 20, Sat 21 - Single room: £100.00 deposit + £260.00 paid on checking out
-4. Thu 19, Fri 20, Sat 21 - Twin room: £100.00 deposit + £230.00 paid on checking out
+1. Thu 12 to Sat 14 (2 nights) – Single Room: £100.00 non-refundable deposit + £150.00 (paid on checkout) = £250
+2. Thu 12 to Sat 14 (2 nights) – Twin Room: £100.00 non-refundable deposit + £130.00 (paid on checkout) = £230
+3. Thu 12 to Sun 15 (3 nights) – Single Room: £100.00 non-refundable deposit + £275.00 (paid on checkout) = £375
+4. Thu 12 to Sun 15 (3 nights) – Twin Room: £100.00 non-refundable deposit + £245.00 (paid on checkout) = £345
 
 **Note: the deposit is non-refundable.**
 
 The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee and tea will be available throughout the day. Drinks are **not** included.
 
-**Check-in** will be on Thursday 19th September, after 12pm. SoCraTes UK will start at 5pm, just before dinner.
+**Check-in** will be on Thursday 12th June, after 12pm. SoCraTes UK will start at 5pm, just before dinner.
 
 If you'd like to share a room with someone you already know, don't worry: go to the <a href='https://github.com/lscc/socrates-uk/wiki'>wiki</a> where you can register your preference.
 
