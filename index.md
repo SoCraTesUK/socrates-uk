@@ -9,7 +9,7 @@ A retreat for open-minded craftspeople who strive to improve their craft and the
 
 The gathering will happen from the evening of **Thursday 12th June** until the evening of **Saturday 14th**. On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
 
-Registration opens on **Friday 10th January** at **11:00am** GMT (UTC+0).
+Registration will open soon.
 
 <!--
 Register using the form below, or [head over to Eventbrite][Eventbrite].
