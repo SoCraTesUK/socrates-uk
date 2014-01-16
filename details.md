@@ -37,7 +37,7 @@ There are twin and single rooms, all with en-suite facilities. Attendees can cho
 3. Thu 12 to Sun 15 (3 nights) – Single Room: £150.00 non-refundable deposit + £225.00 (paid on checkout) = £375
 4. Thu 12 to Sun 15 (3 nights) – Twin Room: £150.00 non-refundable deposit + £195.00 (paid on checkout) = £345
 
-**Note: the deposit is NON-REFUNDABLE.** If after you bought the ticket you realise that you can't make it, you call sell it to someone else. Just sent us the name of the person that will be attending in your place. The person will be liable for paying the remaing amount to the hotel during check out.
+**Note: the deposit is NON-REFUNDABLE.** If after you bought the ticket you realise that you can't make it, you call sell it to someone else. Just sent us the name of the person that will be attending in your place. **You will be liable for paying the remaining amount to the hotel during check out—you will have a room booked in your name.**
 
 The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee and tea will be available throughout the day. Drinks are **not** included.
 
