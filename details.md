@@ -17,7 +17,7 @@ There is a <a href="https://github.com/lscc/socrates-uk/wiki">wiki</a> for atten
 
 This is a non-profit gathering and the only fees will be hotel accommodation (including meals & non-alcoholic beverages) and transportation to the venue. All attendees, including the organisers, will be paying these fees.
 
-Eventbrite will be used for registration, with a £100 up-front **non-refundable deposit** required to secure a ticket.
+Eventbrite will be used for registration, with an up-front **non-refundable deposit** required to secure a ticket.
 
 The final balance, which includes the deposit, will be settled upon checking out of the hotel.
 
