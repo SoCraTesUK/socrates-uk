@@ -9,8 +9,11 @@ A retreat for open-minded craftspeople who strive to improve their craft and the
 
 The gathering will happen from the evening of **Thursday 12th June** until the evening of **Saturday 14th**. On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
 
+**REGISTRATIONS WILL OPEN ON TUESDAY, 21st OF JANUARY 12:00pm GMT.**
+
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
+<!--
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
 Register using the form below, or [head over to Eventbrite][Eventbrite].
@@ -25,6 +28,7 @@ Register using the form below, or [head over to Eventbrite][Eventbrite].
 </div>
 
 [Eventbrite]: http://socratesuk2014.eventbrite.co.uk?ref=elink
+-->
 
 ### What can you expect?
 
@@ -58,7 +62,10 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
+**REGISTRATIONS WILL OPEN ON TUESDAY, 21st OF JANUARY 12:00pm GMT.**
+<!--
 Registrations will be open soon on [Eventbrite][Eventbrite]. To keep up to date with news, [follow us on twitter][@socrates_uk].
+-->
 
 ### Inspiration
 
