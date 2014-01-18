@@ -13,6 +13,7 @@ The gathering will happen from the evening of **Thursday 12th June** until the e
 
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
+<spam>
 <!--
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
@@ -29,6 +30,7 @@ Register using the form below, or [head over to Eventbrite][Eventbrite].
     </div>
 </div>
 -->
+</spam>
 
 [Eventbrite]: http://socratesuk2014.eventbrite.co.uk?ref=elink
 
