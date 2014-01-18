@@ -62,7 +62,7 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
-**REGISTRATIONS WILL OPEN ON TUESDAY, 21st OF JANUARY 12:00pm GMT.**
+**REGISTRATIONS WILL OPEN ON TUESDAY, 21st OF JANUARY 12:00pm GMT**
 <!--
 Registrations will be open soon on [Eventbrite][Eventbrite]. To keep up to date with news, [follow us on twitter][@socrates_uk].
 -->
