@@ -17,7 +17,9 @@ The gathering will happen from the evening of **Thursday 12th June** until the e
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
 Register using the form below, or [head over to Eventbrite][Eventbrite].
+-->
 
+<!--
 <div style="width:100%; text-align:left;" >
     <iframe  src="https://www.eventbrite.co.uk/tickets-external?eid=10210972293&amp;ref=etckt&amp;v=2" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">&nbsp;</iframe>
     <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
@@ -26,9 +28,9 @@ Register using the form below, or [head over to Eventbrite][Eventbrite].
         <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk?ref=etckt">Eventbrite</a>
     </div>
 </div>
+-->
 
 [Eventbrite]: http://socratesuk2014.eventbrite.co.uk?ref=elink
--->
 
 ### What can you expect?
 
