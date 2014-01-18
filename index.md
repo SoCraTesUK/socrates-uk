@@ -13,15 +13,13 @@ The gathering will happen from the evening of **Thursday 12th June** until the e
 
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
-<!--
+<!---
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
 Register using the form below, or [head over to Eventbrite][Eventbrite].
 -->
 
-Blah
-
-<!--
+<!---
 <div style="width:100%; text-align:left;" >
     <iframe  src="https://www.eventbrite.co.uk/tickets-external?eid=10210972293&amp;ref=etckt&amp;v=2" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">&nbsp;</iframe>
     <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
@@ -66,10 +64,7 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
-**REGISTRATIONS WILL OPEN ON TUESDAY, 21st OF JANUARY 12:00pm GMT**
-<!--
-Registrations will be open soon on [Eventbrite][Eventbrite]. To keep up to date with news, [follow us on twitter][@socrates_uk].
--->
+Registrations open on Tuesday, 21st of January 12:00pm GMT.
 
 ### Inspiration
 
