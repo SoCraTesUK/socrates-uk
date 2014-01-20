@@ -37,9 +37,9 @@ There are twin and single rooms, all with en-suite facilities. Attendees can cho
 3. Thu 12 to Sun 15 (3 nights) – Single Room: £150.00 non-refundable deposit + £225.00 (paid on checkout) = £375
 4. Thu 12 to Sun 15 (3 nights) – Twin Room: £150.00 non-refundable deposit + £195.00 (paid on checkout) = £345
 
-**Note: the deposit is NON-REFUNDABLE.** If after you bought the ticket you realise that you can't make it, you call sell it to someone else. Just sent us the name of the person that will be attending in your place. **You will be liable for paying the remaining amount to the hotel during check out—you will have a room booked in your name.**
+**Note: the deposit is NON-REFUNDABLE.** If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place. **You will be liable for paying the remaining amount to the hotel during check out—you will have a room booked in your name.**
 
-The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee and tea will be available throughout the day. Drinks are **not** included.
+The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks are **not** included.
 
 **Check-in** will be on Thursday 12th June, after 12pm. SoCraTes UK will start at 5pm, just before dinner.
 
@@ -61,7 +61,7 @@ The best place to find out how to get there is [Farncombe's site][Farncombe Esta
 
 If you're in London or coming from abroad we recommend you get the train from **Paddington** headed to Hereford or Great Malvern and get off at **Moreton-in-Marsh**. It takes between one and a half and two hours depending on the service you take.
 
-Please let us know if you're coming through this route and at what time. We will arrange for taxis to pick up attendees in groups from the station. Each taxi should be no more than £25 each way.
+We will provide numbers for local taxi companies soon - it should cost no more than £25 each way.
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
 
