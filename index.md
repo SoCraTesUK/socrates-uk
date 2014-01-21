@@ -24,6 +24,8 @@ Register using the form below, or [head over to Eventbrite][Eventbrite].
 
 [Eventbrite]: http://socratesuk2014.eventbrite.co.uk?ref=elink
 
+**Waiting list:** If there are no more tickets available, don't worry. Add yourself to the waiting list provided by [Eventbrite][Eventbrite]. We will contact you if we get more rooms from the hotel.
+
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
 ### What can you expect?
