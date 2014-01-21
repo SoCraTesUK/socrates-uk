@@ -39,11 +39,11 @@ There are twin and single rooms, all with en-suite facilities. Attendees can cho
 
 **Note: the deposit is NON-REFUNDABLE.** If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place. **You will be liable for paying the remaining amount to the hotel during check out—you will have a room booked in your name.**
 
+**Twin Room:** Buying a ticket for a twin room means that you are reserving **one** bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry: go to the our <a href='https://github.com/lscc/socrates-uk/wiki'>wiki</a> and register your preference.
+
 The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks are **not** included.
 
 **Check-in** will be on Thursday 12th June, after 12pm. SoCraTes UK will start at 5pm, just before dinner.
-
-If you'd like to share a room with someone you already know, don't worry: go to the <a href='https://github.com/lscc/socrates-uk/wiki'>wiki</a> where you can register your preference.
 
 ### Location and how to get there
 

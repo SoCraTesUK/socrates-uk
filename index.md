@@ -9,28 +9,22 @@ A retreat for open-minded craftspeople who strive to improve their craft and the
 
 The gathering will happen from the evening of **Thursday 12th June** until the evening of **Saturday 14th**. On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
 
-**REGISTRATIONS WILL OPEN ON TUESDAY, 21st OF JANUARY 12:00pm GMT.**
-
-<p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
-
-<!---
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
 Register using the form below, or [head over to Eventbrite][Eventbrite].
--->
 
-<!---
 <div style="width:100%; text-align:left;" >
-    <iframe  src="https://www.eventbrite.co.uk/tickets-external?eid=10210972293&amp;ref=etckt&amp;v=2" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">&nbsp;</iframe>
+    <iframe  src="https://www.eventbrite.co.uk/tickets-external?eid=10210972293&amp;ref=etckt&amp;v=2" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">&nbsp;</iframe>
     <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
         <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Sell Tickets</a>
         <span style="color:#ddd;">through</span>
         <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk?ref=etckt">Eventbrite</a>
     </div>
 </div>
--->
 
 [Eventbrite]: http://socratesuk2014.eventbrite.co.uk?ref=elink
+
+<p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
 ### What can you expect?
 
@@ -64,7 +58,7 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
-Registrations open on Tuesday, 21st of January 12:00pm GMT.
+Registrations open on Tuesday, 21st of January 12:00pm (mid-day) GMT.
 
 ### Inspiration
 
