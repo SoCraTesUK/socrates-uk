@@ -1,0 +1,27 @@
+# Logfile created on 2014-03-19 11:20:40 +0000 by logger.rb/44203
+I, [2014-03-19T11:20:40.713050 #15921]  INFO -- : 0:  RedCloth (4.2.9) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/RedCloth-4.2.9.gemspec
+I, [2014-03-19T11:20:41.091209 #15921]  INFO -- : 0:  blankslate (2.1.2.4) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/blankslate-2.1.2.4.gemspec
+I, [2014-03-19T11:20:41.842311 #15921]  INFO -- : 0:  fast-stemmer (1.0.2) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/fast-stemmer-1.0.2.gemspec
+I, [2014-03-19T11:20:42.308285 #15921]  INFO -- : 0:  classifier (1.3.4) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/classifier-1.3.4.gemspec
+I, [2014-03-19T11:20:42.862578 #15921]  INFO -- : 0:  colorator (0.1) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/colorator-0.1.gemspec
+I, [2014-03-19T11:20:43.489876 #15921]  INFO -- : 0:  highline (1.6.20) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/highline-1.6.20.gemspec
+I, [2014-03-19T11:20:43.982472 #15921]  INFO -- : 0:  commander (4.1.5) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/commander-4.1.5.gemspec
+I, [2014-03-19T11:20:49.651458 #15921]  INFO -- : 0:  ffi (1.9.3) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-03-19T11:20:50.196405 #15921]  INFO -- : 0:  liquid (2.5.5) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/liquid-2.5.5.gemspec
+I, [2014-03-19T11:20:50.884543 #15921]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-03-19T11:20:51.345069 #15921]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-03-19T11:20:51.816016 #15921]  INFO -- : 0:  rb-kqueue (0.2.0) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/rb-kqueue-0.2.0.gemspec
+I, [2014-03-19T11:20:52.269346 #15921]  INFO -- : 0:  listen (1.3.1) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/listen-1.3.1.gemspec
+I, [2014-03-19T11:20:53.013076 #15921]  INFO -- : 0:  maruku (0.7.0) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/maruku-0.7.0.gemspec
+I, [2014-03-19T11:20:54.457395 #15921]  INFO -- : 0:  posix-spawn (0.3.8) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/posix-spawn-0.3.8.gemspec
+I, [2014-03-19T11:20:56.127733 #15921]  INFO -- : 0:  yajl-ruby (1.1.0) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/yajl-ruby-1.1.0.gemspec
+I, [2014-03-19T11:20:57.748150 #15921]  INFO -- : 0:  pygments.rb (0.5.4) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/pygments.rb-0.5.4.gemspec
+I, [2014-03-19T11:20:59.611430 #15921]  INFO -- : 0:  redcarpet (2.3.0) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/redcarpet-2.3.0.gemspec
+I, [2014-03-19T11:21:00.079879 #15921]  INFO -- : 0:  safe_yaml (0.9.7) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/safe_yaml-0.9.7.gemspec
+I, [2014-03-19T11:21:00.644752 #15921]  INFO -- : 0:  parslet (1.5.0) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/parslet-1.5.0.gemspec
+I, [2014-03-19T11:21:01.103664 #15921]  INFO -- : 0:  toml (0.1.0) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/toml-0.1.0.gemspec
+I, [2014-03-19T11:21:01.922944 #15921]  INFO -- : 0:  jekyll (1.4.3) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/jekyll-1.4.3.gemspec
+I, [2014-03-19T11:21:02.829949 #15921]  INFO -- : 0:  kramdown (1.3.1) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/kramdown-1.3.1.gemspec
+I, [2014-03-19T11:21:05.845279 #15921]  INFO -- : 0:  rdiscount (2.1.7) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/rdiscount-2.1.7.gemspec
+I, [2014-03-19T11:21:06.309593 #15921]  INFO -- : 0:  github-pages (14) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0/specifications/github-pages-14.gemspec
+I, [2014-03-19T11:21:06.309918 #15921]  INFO -- : 0:  bundler (1.5.1) from /Users/sandromancuso/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
