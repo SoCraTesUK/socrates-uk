@@ -5,9 +5,19 @@ name: Home
 
 ### What is SoCraTes?
 
-A retreat for open-minded craftspeople who strive to improve their craft and the software industry as a whole.SoCraTes UK attracts Software Craftsmanship thought leaders and software craftsmen from all over the world.
+SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who strive to improve their craft and the software industry as a whole, organised by the London Software Craftsmanship Community (LSCC). The conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
 
-The gathering will happen from the evening of **Thursday 12th June** until the evening of **Saturday 14th**. On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside or we will have a code retreat.
+Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel.
+
+The gathering runs from **Thursday 12th June** to **Sunday 15th June**. The unconference itself will start on the evening of the **Thursday** until the evening of the **Saturday**.
+
+* We'll run a **group discussion** on Thursday evening, talking about an issue relevant to all of us.
+
+* On Friday and Saturday, we'll run an **open space**, in which every attendee is welcome and encouraged to propose talks, discussions, workshops or whatever else they choose to further every attendee's knowledge and understanding of creating and maintaining software.
+
+* On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat.
+
+### Registration
 
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
@@ -28,11 +38,21 @@ Register using the form below, or [head over to Eventbrite][Eventbrite].
 
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
-### What can you expect?
+### Why should I attend?
 
-Set as a self-organized open space over two days, expect highly interesting discussions and practical sessions with extremelly passionated and talented software craftsmen like you.
+SoCraTes UK is designed to encourage the participation of all attendees via coding activities, group discussions, presentations, informal conversations, and whatever else the participants decide to do.
 
-As we are all staying in the same beautiful countryside hotel, besides all the great technical content during the day, expect to have some fun and drinks until late in the evening. Don't be surprised to see people banging on guitars and other instruments, playing games and, of course, having some drinks in the garden. Just join the fun.
+SoCraTes UK is run in an **unconference** style. Organised sessions start at 9am and finish at 6pm. However, since this is an unconference, attendees are free to carry on until whenever they like, and run or attend whichever sessions they choose. Expect **workshops**, **talks**, **group discussions** and **demonstrations** from morning 'til night.
+
+As it's an unconference, it's *you* and people like you who will be organising the sessions. You won't just learn, you'll also teach. Anyone who is passionate about software, aware or involved in Software Craftsmanship, and who wants to share their knowledge, experience, expertise, but is also willing and keen to learn from others, should come.
+
+Besides talking about software and writing code, we also have evening events (organised by the participants), ranging from pair-programming sessions and workshops to more **social events**, such as gaming, music and drinks. Bring along your guitars and saxophones, your board games and packs of cards, and bone up on the rules to Werewolf. And expect to have philosophical discussions on craftsmanship as you play.
+
+Since we are all in the same hotel, we have a lot of time to spend together. Conversations and coding activities can go for **as long as you want**. Sessions will take place in proper rooms with projectors, tables, and chairs, but also wherever people congregate—last year, people spent a lot of time outside in the garden, enjoying the weather and the beautiful landscape as they discussed the intricacies of software development.
+
+If the English weather allows it, we will spend some time on Sunday morning walking along the beautiful English countryside, discussing what we've learnt, reflecting on the past few days and relaxing before heading back to the real world.
+
+SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
@@ -48,10 +68,6 @@ More information regarding accommodation can be found on the [Details page][Deta
 [Cotswolds]: http://www.cotswolds.info/
 [Details]: details.html
 
-### Who should attend?
-
-Anyone who is passionate about software, aware or involved in Software Craftsmanship, and who wants to share their knowledge, experience, expertise, but is also willing and keen to learn from others.
-
 ### Who's organizing?
 
 SoCraTes UK is organized by the people behind the [London Software Craftsmanship Community][]—for developers, by developers.
@@ -66,6 +82,6 @@ Registrations open on Tuesday, 21st of January 12:00pm (mid-day) GMT.
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
-[SoCraTes Germany]: http://www.socrates-conference.de/
-
 [@socrates_uk]: https://twitter.com/socrates_uk
+[SoCraTes Germany]: http://www.socrates-conference.de/
+[Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
