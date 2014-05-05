@@ -7,15 +7,17 @@ name: Home
 
 SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who strive to improve their craft and the software industry as a whole, organised by the London Software Craftsmanship Community (LSCC). The conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
 
-Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel.
+Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel, including meals.
 
-The gathering runs from **Thursday 12th June** to **Sunday 15th June**. The unconference itself will start on the evening of the **Thursday**, and run until the evening of the **Saturday**.
+The gathering runs from **Thursday 12th June** to **Sunday 15th June**.
 
-* We'll run a **group discussion** on Thursday evening, talking about an issue relevant to all of us.
+* We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
 * On Friday and Saturday, we'll run an **open space**, in which every attendee is welcome and encouraged to propose talks, discussions, workshops or whatever else they choose to further every attendee's knowledge and understanding of creating and maintaining software.
 
-* On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat.
+* On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
+
+* On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 ### Registration
 
