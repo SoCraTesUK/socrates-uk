@@ -9,7 +9,7 @@ SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** fo
 
 Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel.
 
-The gathering runs from **Thursday 12th June** to **Sunday 15th June**. The unconference itself will start on the evening of the **Thursday** until the evening of the **Saturday**.
+The gathering runs from **Thursday 12th June** to **Sunday 15th June**. The unconference itself will start on the evening of the **Thursday**, and run until the evening of the **Saturday**.
 
 * We'll run a **group discussion** on Thursday evening, talking about an issue relevant to all of us.
 
