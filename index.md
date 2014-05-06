@@ -80,6 +80,14 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 Registrations open on Tuesday, 21st of January 12:00pm (mid-day) GMT.
 
+### Conference Code of Conduct
+
+SoCraTes UK follows the [Conference Code of Conduct][] laid out by several conference organisers around the globe. We ask that you read [the full version][Conference Code of Conduct] before attending. You are required to cooperate with the code throughout the event to help ensure a safe environment for everybody.
+
+#### The Quick Version
+
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference *without a refund* at the discretion of the conference organisers.
+
 ### Inspiration
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
@@ -87,3 +95,4 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [@socrates_uk]: https://twitter.com/socrates_uk
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
+[Conference Code of Conduct]: http://confcodeofconduct.com/
