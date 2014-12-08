@@ -65,7 +65,7 @@ SoCraTes UK is organized by the people behind the [London Software Craftsmanship
 
 ### Sounds great! Count me in?
 
-Registrations open on Tuesday, 21st of January 12:00pm (mid-day) GMT.
+Registrations open in January 2015.
 
 ### Conference Code of Conduct
 
