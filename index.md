@@ -9,7 +9,7 @@ SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** fo
 
 Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel, including meals.
 
-The gathering runs from **Thursday 12th June** to **Sunday 15th June**.
+The gathering runs from **Thursday 4th June** to **Sunday 7th June**.
 
 * We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -23,20 +23,7 @@ The gathering runs from **Thursday 12th June** to **Sunday 15th June**.
 
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
-Register using the form below, or [head over to Eventbrite][Eventbrite].
-
-<div style="width:100%; text-align:left;" >
-    <iframe  src="https://www.eventbrite.co.uk/tickets-external?eid=10210972293&amp;ref=etckt&amp;v=2" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">&nbsp;</iframe>
-    <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
-        <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Sell Tickets</a>
-        <span style="color:#ddd;">through</span>
-        <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.co.uk?ref=etckt">Eventbrite</a>
-    </div>
-</div>
-
-[Eventbrite]: http://socratesuk2014.eventbrite.co.uk?ref=elink
-
-**Waiting list:** If there are no more tickets available, don't worry. Add yourself to the waiting list provided by [Eventbrite][Eventbrite]. We will contact you if we get more rooms from the hotel.
+**Registration will open in Januray 2015.**
 
 <p><img src="img/farncombe/farncombe07.jpg" width="310" height="250" alt="Cotswolds"/> <img src="img/farncombe/farncombe01.jpg" width="375" height="250" alt="Farncombe"/></p>
 
