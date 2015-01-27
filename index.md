@@ -1,6 +1,7 @@
 ---
 layout: page
 name: Home
+title: Home
 ---
 
 ### What is SoCraTes?
@@ -21,7 +22,7 @@ On Friday and Saturday, we'll run an **open space**, in which every attendee is 
 
 On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
 
-On **Sunday 15th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
+On **Sunday 7th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 <div class="conference-photogrid">
 	<div class="row">
@@ -106,7 +107,10 @@ SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [Lo
 
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
-**Registration will open in Januray 2015.**
+<p><strong>Registration will open in January 2015.</strong></p>
+<a href="https://www.eventbrite.co.uk/e/socrates-uk-2015-registration-15499666921"><button align="center" class="btn btn-lg btn-danger">
+	<span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Register
+</button></a>
 
 <br>
 
@@ -117,7 +121,7 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 #### The Quick Version
 
 <div class = "well">
-	Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <strong>without a refund</strong> at the discretion of the conference organisers.
+	<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <strong>without a refund</strong> at the discretion of the conference organisers.
 </div>
 
 <br>
