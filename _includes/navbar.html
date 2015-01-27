@@ -1,21 +1,22 @@
-<div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-        <div class="container">
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<div class="navbar navbar-default navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            <li{% if page.name == 'Home' %} class="active"{% endif %}><a class="navbar-brand" href="index.html">SoCraTes UK 2015</a></li>
+        </div>
 
-            <div class="nav-collapse collapse">
-                <ul class="nav">
-                    <li{% if page.name == 'Home' %} class="active"{% endif %}><a href="index.html">Home</a></li>
-                    <li{% if page.name == 'Details' %} class="active"{% endif %}><a href="details.html">Details</a></li>
-                    <li><a href="http://github.com/lscc/socrates-uk/wiki" target="_blank">Wiki</a></li>
-                    <li{% if page.name == 'Sponsorship' %} class="active"{% endif %}><a href="sponsorship.html">Sponsorship</a></li>
-                    <li{% if page.name == 'Contact' %} class="active"{% endif %}><a href="contact.html">Contact</a></li>
-                </ul>
-            </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li{% if page.name == 'Details' %} class="active"{% endif %}><a href="details.html">Details</a></li>
+            <li><a href="http://github.com/lscc/socrates-uk/wiki" target="_blank">Wiki</a></li>
+            <li{% if page.name == 'Sponsorship' %} class="active"{% endif %}><a href="sponsorship.html">Sponsorship</a></li>
+            <li{% if page.name == 'Contact' %} class="active"{% endif %}><a href="contact.html">Contact</a></li>
+          </ul>
         </div>
     </div>
 </div>
