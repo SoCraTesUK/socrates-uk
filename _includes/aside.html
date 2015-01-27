@@ -1,17 +1,20 @@
 <aside>
     <section>
-        <h3>Sponsors</h3>
+        <h3 class="page-header">Sponsors</h3>
         <div id="sponsors">
             {% for sponsor in site.sponsors %}
-                <p class="sponsor"><a href="{{ sponsor.url }}"><img class="logo" src="img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"/></a></p>
+                <p class="sponsor"><a href="{{ sponsor.url }}"><img class="img-responsive logo" src="img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"/></a></p>
             {% endfor %}
         </div>
-        <p>Interested in sponsoring us? <a href="mailto:info@socratesuk.org">Get in touch.</a></p>
+        <em>Interested in sponsoring this year's event? </em><a href="mailto:hello@codurance.com">Get in touch.</a>
     </section>
-
-    <section style="width: 280px;">
-        <h4>Organisation</h4>
-        <p><a href="http://www.londonswcraft.com/" target="_blank"><img src="img/LSCC_small.png" width="280" height="187"></a></p>
-        <p>Organised by the <a href="http://londonswcraft.com" target="_blank">London Software Craftsmanship Community</a>.</p>
+    <section class="organisers-aside">
+        <h3 class="page-header">Organisers</h3>
+        <p><a href="http://www.codurance.com" target="_blank"><img class="img-responsive" src="img/sponsors_2014/codurance.png"></a></p>
+    </section>
+    <section class="twitter-feed-aside">
+        <h3 class="page-header">Latest Tweets</h3>
+        <a class="twitter-timeline" href="https://twitter.com/SoCraTes_UK" data-widget-id="560047504235192320">Tweets by @SoCraTes_UK</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </section>
 </aside>

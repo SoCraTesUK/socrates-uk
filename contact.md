@@ -4,8 +4,12 @@ name: Contact
 title: Contact
 ---
 
-### Contact
+<div>
+		<h2>Contact us</h2>
+		<p>Got a question? Get in touch and one of the team will get back to you as soon as possible.</p>
 
-Email: [info@socratesuk.org](mailto:info@socratesuk.org)
+		<p>Email: <a href="mailto:hello@codurance.com">hello@codurance.com</a></p>
 
-Twitter: [@SoCraTes_UK](http://twitter.com/socrates_uk)
+		<p>Event Twitter: <a href="http://twitter.com/socrates_uk">@SoCraTes_UK</a></p>
+</div>
+

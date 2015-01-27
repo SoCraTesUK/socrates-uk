@@ -6,9 +6,9 @@
 
         <title>SoCraTes UK{% if page.title %} - {{ page.title }}{% endif %}</title>
 
-        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/base.css" rel="stylesheet">
-        <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+        <link href='http://fonts.googleapis.com/css?family=PT+Serif+Caption' rel='stylesheet' type='text/css'>
 
         <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -22,16 +22,16 @@
         {% include navbar.html %}
 
         <div class="container">
-            <div class="row-fluid">
+            <div class="row">
                 {% include header.html %}
             </div>
 
-            <div class="row-fluid">
-                <div class="span8">
+            <div class="row">
+                <div class="col-md-9">
                     {{ content }}
                 </div>
 
-                <div class="span4">
+                <div class="col-md-3">
                     {% include aside.html %}
                 </div>
             </div>

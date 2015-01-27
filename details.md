@@ -13,6 +13,8 @@ There is a <a href="https://github.com/lscc/socrates-uk/wiki">wiki</a> for atten
 [Open-space technology]: http://en.wikipedia.org/wiki/Open-space_technology
 [How to prepare to attend an unconference]: http://www.unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/
 
+<br>
+
 ### Costs
 
 This is a non-profit gathering and the only fees will be hotel accommodation (including meals & non-alcoholic beverages) and transportation to the venue. All attendees, including the organisers, will be paying these fees.
@@ -21,39 +23,41 @@ Eventbrite will be used for registration, with an up-front **non-refundable depo
 
 The final balance, which includes the deposit, will be settled upon checking out of the hotel.
 
-We are also looking to secure **sponsorship** which will go directly towards bringing the ticket costs down. If you are interested in sponsoring SoCraTes UK, take a look at the [Sponsorship page][Sponsorship] and [please get in touch][info@socratesuk.org].
-
-<img src="img/farncombe/countryside.jpg" width="700"/>
+We are also looking to secure **sponsorship** which will go directly towards bringing the ticket costs down. If you are interested in sponsoring SoCraTes UK, take a look at the [Sponsorship page][Sponsorship] and [please get in touch][hello@codurance.com].
 
 [Sponsorship]: sponsorship.html
-[info@socratesuk.org]: mailto:info@socratesuk.org
+[hello@codurance.com]: mailto:hello@codurance.com
 
-#### Accommodation
+<br>
 
-There are twin and single rooms, all with en-suite facilities. Attendees can choose to stay for two or three nights. The cost, without sponsorhip discounts, will be:
+### Accommodation
 
-1. Thu 12 to Sat 14 (2 nights) – Single Room: £150.00 non-refundable deposit + £100.00 (paid on checkout) = £250
-2. Thu 12 to Sat 14 (2 nights) – Twin Room: £150.00 non-refundable deposit + £80.00 (paid on checkout) = £230
-3. Thu 12 to Sun 15 (3 nights) – Single Room: £150.00 non-refundable deposit + £225.00 (paid on checkout) = £375
-4. Thu 12 to Sun 15 (3 nights) – Twin Room: £150.00 non-refundable deposit + £195.00 (paid on checkout) = £345
+There are twin and single rooms, all with en-suite facilities. The cost, without sponsorhip discounts, will be:
+<p>1. Thu 4 June to Sun 7 June (3 nights) – Single room: £250.00 non-refundable deposit + £150.00 (paid on checkout)</p>
+<p>2. Thu 4 June to Sun 7 June (3 nights) – Twin room: £250.00 non-refundable deposit + £115.00 (paid on checkout)</p>
 
-**Note: the deposit is NON-REFUNDABLE.** If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place. **You will be liable for paying the remaining amount to the hotel during check out—you will have a room booked in your name.**
+<div class="well accomodation-warning">
+	<p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place. <strong>You will be liable for paying the remaining amount to the hotel during check out </strong>— you will have a room booked in your name.</p>
+</div>
 
 **Twin Room:** Buying a ticket for a twin room means that you are reserving **one** bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry: go to the our <a href='https://github.com/lscc/socrates-uk/wiki'>wiki</a> and register your preference.
 
 The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks are **not** included.
 
-**Check-in** will be on Thursday 12th June, after 12pm. SoCraTes UK will start at 5pm, just before dinner.
+**Check-in** will be on Thursday 4 June, after 12pm. SoCraTes UK 2015 will start at 5pm, just before dinner.
+
+<br>
 
 ### Location and how to get there
 
-<div>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Cotswold+Conference+Centre+Ltd,+Broadway+WR12+7LJ&amp;aq=0&amp;oq=Cotswold+Conferen,+wr12+7lj&amp;sll=52.035457,-1.944066&amp;sspn=0.138127,0.357399&amp;ie=UTF8&amp;hq=Cotswold+Conference+Centre+Ltd,&amp;hnear=WR12+7LJ,+United+Kingdom&amp;ll=52.040427,-1.834552&amp;spn=0.008632,0.022337&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=5331473797676257017&amp;output=embed">&nbsp;</iframe><br /><small><a href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Cotswold+Conference+Centre+Ltd,+Broadway+WR12+7LJ&amp;aq=0&amp;oq=Cotswold+Conferen,+wr12+7lj&amp;sll=52.035457,-1.944066&amp;sspn=0.138127,0.357399&amp;ie=UTF8&amp;hq=Cotswold+Conference+Centre+Ltd,&amp;hnear=WR12+7LJ,+United+Kingdom&amp;ll=52.040427,-1.834552&amp;spn=0.008632,0.022337&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=5331473797676257017" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-</div>
+<iframe class="pull-left thumbnail location-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19633.267610263378!2d-1.8345520000000002!3d52.040427!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49fd332befcbcef9!2sFarncombe+Conference+Centre!5e0!3m2!1sen!2sus!4v1422369380828" width="450" height="360" frameborder="0" style="border:0"></iframe>
 
-Cotswold Conference Centre Ltd<br/>
-Farncombe Estate, Broadway, Worcestershire WR12 7LJ<br/>
-0845 230 8580
+Cotswold Conference Centre Ltd<br>
+Farncombe Estate<br>
+Broadway<br>
+Worcestershire<br> 
+WR12 7LJ<br>
+T: 0845 230 8580
 
 The best place to find out how to get there is [Farncombe's site][Farncombe Estate].
 
