@@ -38,11 +38,12 @@ On **Sunday 7th**, weather allowing, we will have a nice long walk around the be
 			<img class="img-responsive thumbnail" src="img/2014/screenCode.jpg">
 		</div>
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/groupSession.jpg">
+			<div class="embed-responsive embed-responsive-4by3 thumbnail">
+  			<iframe class="embed-responsive-item" src="//www.youtube.com/embed/Jb3jQiSRdYM"></iframe>
+			</div>
 		</div>
 	</div>
 </div>
-
 
 ### Why should I attend?
 
