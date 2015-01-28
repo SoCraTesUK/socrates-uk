@@ -45,7 +45,6 @@ On **Sunday 7th**, weather allowing, we will have a nice long walk around the be
 	</div>
 </div>
 
-
 ### Why should I attend?
 
 SoCraTes UK is designed to encourage the participation of all attendees via coding activities, group discussions, presentations, informal conversations, and whatever else the participants decide to do.
