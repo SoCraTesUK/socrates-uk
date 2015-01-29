@@ -9,9 +9,9 @@ body {
 	font-family: 'PT Serif Caption', cursive;
 }
 
-/*.logo {
-    padding-bottom: 20px;
-}*/
+.navbar-nav li a {
+ 	line-height: 29px;
+}
 
 .organisers-aside {
 		margin: 75px 0px;
