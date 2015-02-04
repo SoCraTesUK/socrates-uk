@@ -108,10 +108,7 @@ SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [Lo
 
 Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
 
-<p><strong>Registration will open in January 2015.</strong></p>
-<a href="https://www.eventbrite.co.uk/e/socrates-uk-2015-registration-15499666921"><button align="center" class="btn btn-lg btn-danger">
-	<span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Register
-</button></a>
+<a href="http://www.eventbrite.co.uk/e/socrates-uk-2015-registration-15499666921?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=15499666921" alt="Eventbrite - SoCraTes UK 2015" /></a>
 
 <br>
 
