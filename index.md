@@ -6,7 +6,7 @@ title: Home
 
 ### What is SoCraTes?
 
-SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by the [London Software Craftsmanship Community][LSCC] (LSCC), the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
+SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by [Codurance][Codurance] the [London Software Craftsmanship Community][LSCC] (LSCC), the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
 
 Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel, including meals.
 
