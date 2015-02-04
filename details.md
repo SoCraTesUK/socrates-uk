@@ -33,8 +33,8 @@ We are also looking to secure **sponsorship** which will go directly towards bri
 ### Accommodation
 
 There are twin and single rooms, all with en-suite facilities. The cost, without sponsorhip discounts, will be:
-<p>1. Thu 4 June to Sun 7 June (3 nights) – Single room: £250.00 non-refundable deposit + £150.00 (paid on checkout)</p>
-<p>2. Thu 4 June to Sun 7 June (3 nights) – Twin room: £250.00 non-refundable deposit + £115.00 (paid on checkout)</p>
+<p>1. Thu 4 June to Sun 7 June (3 nights) – Single room: £250.00 non-refundable deposit + £176.25 (paid on checkout)</p>
+<p>2. Thu 4 June to Sun 7 June (3 nights) – Twin room: £250.00 non-refundable deposit + £143.24 (paid on checkout)</p>
 
 <div class="well accomodation-warning">
 	<p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place. <strong>You will be liable for paying the remaining amount to the hotel during check out </strong>— you will have a room booked in your name.</p>
