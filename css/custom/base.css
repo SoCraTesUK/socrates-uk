@@ -42,3 +42,9 @@ body {
 .accomodation-warning {
 	margin: 30px;
 }
+
+.sponsor img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
