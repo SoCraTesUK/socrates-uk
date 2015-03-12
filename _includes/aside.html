@@ -7,7 +7,12 @@
         <h3 class="page-header">Sponsors</h3>
         <div id="sponsors">
             {% for sponsor in site.sponsors %}
-                <p class="sponsor"><a href="{{ sponsor.url }}"><img class="img-responsive logo" src="img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"/></a></p>
+
+                <div class="sponsor logo">
+                    <a href="{{ sponsor.url }}">
+                        <img class="img-responsive" src="img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"/>
+                    </a>
+                </div>
             {% endfor %}
         </div>
         <em>Interested in sponsoring this year's event? </em><a href="mailto:hello@codurance.com">Get in touch.</a>
