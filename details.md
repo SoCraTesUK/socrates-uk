@@ -52,13 +52,13 @@ The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea an
 
 For those that either cannot stay for the whole duration of the conference or could not get a ticket (room), we are providing day passes. Day passes will allow you to attend the event but does not include accommodation. In case you need accommodation, please check the list of [nearby hotels][] on our wiki.
 
-* **Day 1 Only - Thu 4 Jun (non-refundable):** £18.00 
+* **Day 1 Only - Thu 4 Jun (non-refundable):** £18.00    
 ** From 5pm till late. Includes dinner. Drinks not included. 
 
-* **Day 2 Only - Fri 5 Jun (non-refundable):** £62.40
+* **Day 2 Only - Fri 5 Jun (non-refundable):** £62.40    
 ** From 9am till late. Includes lunch, dinner, and tea and coffee throughout the day. Drinks not included.
 
-* **Day 3 Only - Sat 6 Jun (non-refundable):** £62.40
+* **Day 3 Only - Sat 6 Jun (non-refundable):** £62.40     
 ** From 9am till late. Includes lunch, dinner, and tea and coffee throughout the day. Drinks not included.
 
 ### Location and how to get there
