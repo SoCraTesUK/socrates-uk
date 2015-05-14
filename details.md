@@ -48,6 +48,19 @@ The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea an
 
 <br>
 
+### Day Passes
+
+For those that either cannot stay for the whole duration of the conference or could not get a ticket (room), we are providing day passes. Day passes will allow you to attend the event but does not include accommodation. In case you need accommodation, please check the list of [nearby hotels][] on our wiki.
+
+* **Day 1 Only - Thu 4 Jun (non-refundable):** £18.00 
+** From 5pm till late. Includes dinner. Drinks not included. 
+
+* **Day 2 Only - Fri 5 Jun (non-refundable):** £62.40
+** From 9am till late. Includes lunch, dinner, and tea and coffee throughout the day. Drinks not included.
+
+* **Day 3 Only - Sat 6 Jun (non-refundable):** £62.40
+** From 9am till late. Includes lunch, dinner, and tea and coffee throughout the day. Drinks not included.
+
 ### Location and how to get there
 
 <iframe class="pull-left thumbnail location-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19633.267610263378!2d-1.8345520000000002!3d52.040427!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49fd332befcbcef9!2sFarncombe+Conference+Centre!5e0!3m2!1sen!2sus!4v1422369380828" width="450" height="360" frameborder="0" style="border:0"></iframe>
@@ -65,7 +78,7 @@ The best place to find out how to get there is [Farncombe's site][Farncombe Esta
 
 If you're in London or coming from abroad we recommend you get the train from **Paddington** headed to Hereford or Great Malvern and get off at **Moreton-in-Marsh**. It takes between one and a half and two hours depending on the service you take.
 
-We will provide numbers for local taxi companies soon - it should cost no more than £25 each way.
+Please check our wiki for the [local taxi companies][] - it should cost no more than £25 each way.
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
 
@@ -95,3 +108,6 @@ Once in London you might need a [tube map][Tube Map]. For more info on transport
 [London City Airport]: http://www.londoncityairport.com/visitingtheairport/page/publictransport
 [London Southend Airport]: http://www.southendairport.com/getting-here/
 [Birmingham Airport]: http://www.birminghamairport.co.uk/transport-and-directions.aspx
+
+[local taxi companies]: https://github.com/lscc/socrates-uk/wiki/Local-taxi-companies
+[nearby hotels]: https://github.com/lscc/socrates-uk/wiki/Nearby-hotels
