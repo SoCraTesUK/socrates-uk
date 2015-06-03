@@ -65,6 +65,7 @@ For those that either cannot stay for the whole duration of the conference or co
 
 <iframe class="pull-left thumbnail location-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19633.267610263378!2d-1.8345520000000002!3d52.040427!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49fd332befcbcef9!2sFarncombe+Conference+Centre!5e0!3m2!1sen!2sus!4v1422369380828" width="450" height="360" frameborder="0" style="border:0"></iframe>
 
+**The Fish**
 Cotswold Conference Centre Ltd<br>
 Farncombe Estate<br>
 Broadway<br>

@@ -65,7 +65,7 @@ SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [Farncombe (Cotswold Conference Centre)][Venue], a 300+ acre conference and hotel estate in the [Cotswolds][], one of the most beautiful places in the English countryside.
+The retreat will be hosted at [The Fish Hotel][Venue] within Farncombe Conference Centre, a 300+ acre conference and hotel estate in the [Cotswolds][], one of the most beautiful places in the English countryside.
 
 All attendees are expected to stay in the hotel for at least three days and two nights, with the option of staying for an extra day and night. We can only accept as many people as there are rooms available.
 
