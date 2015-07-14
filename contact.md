@@ -12,4 +12,3 @@ title: Contact
 
 		<p>Event Twitter: <a href="http://twitter.com/socrates_uk">@SoCraTes_UK</a></p>
 </div>
-

@@ -32,34 +32,9 @@ We are also looking to secure **sponsorship** which will go directly towards bri
 
 ### Accommodation
 
-There are twin and single rooms, all with en-suite facilities. The cost, without sponsorhip discounts, will be:
-<p>1. Thu 4 June to Sun 7 June (3 nights) – Single room: £250.00 non-refundable deposit + £176.25 (paid on checkout)</p>
-<p>2. Thu 4 June to Sun 7 June (3 nights) – Twin room: £250.00 non-refundable deposit + £143.24 (paid on checkout)</p>
-
-<div class="well accomodation-warning">
-	<p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place. <strong>You will be liable for paying the remaining amount to the hotel during check out </strong>— you will have a room booked in your name.</p>
-</div>
-
-**Twin Room:** Buying a ticket for a twin room means that you are reserving **one** bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry: go to the our <a href='https://github.com/lscc/socrates-uk/wiki'>wiki</a> and register your preference.
-
-The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks are **not** included.
-
-**Check-in** will be on Thursday 4 June, after 12pm. SoCraTes UK 2015 will start at 5pm, just before dinner.
+There are twin and single rooms, all with en-suite facilities. The cost, without sponsorship discounts, will be updated here once the calculations are done.
 
 <br>
-
-### Day Passes
-
-For those that either cannot stay for the whole duration of the conference or could not get a ticket (room), we are providing day passes. Day passes will allow you to attend the event but does not include accommodation. In case you need accommodation, please check the list of [nearby hotels][] on our wiki.
-
-* **Day 1 Only - Thu 4 Jun (non-refundable):** £18.00    
-** From 5pm till late. Includes dinner. Drinks not included. 
-
-* **Day 2 Only - Fri 5 Jun (non-refundable):** £62.40    
-** From 9am till late. Includes lunch, dinner, and tea and coffee throughout the day. Drinks not included.
-
-* **Day 3 Only - Sat 6 Jun (non-refundable):** £62.40     
-** From 9am till late. Includes lunch, dinner, and tea and coffee throughout the day. Drinks not included.
 
 ### Location and how to get there
 
@@ -69,7 +44,7 @@ For those that either cannot stay for the whole duration of the conference or co
 Cotswold Conference Centre Ltd<br>
 Farncombe Estate<br>
 Broadway<br>
-Worcestershire<br> 
+Worcestershire<br>
 WR12 7LJ<br>
 T: 0845 230 8580
 
