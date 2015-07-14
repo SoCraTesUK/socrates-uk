@@ -14,7 +14,7 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 4th June** to **Sunday 7th June, 2015**.
+The gathering runs from **Thursday 2th June** to **Sunday 5th June, 2016**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -22,7 +22,7 @@ On Friday and Saturday, we'll run an **open space**, in which every attendee is 
 
 On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
 
-On **Sunday 7th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
+On **Sunday 5th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 <div class="conference-photogrid">
 	<div class="row">
@@ -106,9 +106,7 @@ SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [Lo
 
 ### Registration
 
-Before registering, make sure you understand the [accommodation cost details][Details]. Deposits are **non-refundable**.
-
-<a href="http://www.eventbrite.co.uk/e/socrates-uk-2015-registration-15499666921?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=15499666921" alt="Eventbrite - SoCraTes UK 2015" /></a>
+**Registration is not open yet. Follow [@socrates_uk][@socrates_uk] on Twitter to be updated once it opens.**
 
 <br>
 
