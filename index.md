@@ -65,9 +65,15 @@ SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [The Fish Hotel][Venue] within Farncombe Conference Centre, a 300+ acre conference and hotel estate in the [Cotswolds][], one of the most beautiful places in the English countryside.
+A leading conference and meeting venue in Surrey, [Wotton House][Wotton] is surrounded by 13 stunning acres of beautifully landscaped grounds, delivering the most tranquil setting and backdrop for your conference or event. 
 
-All attendees are expected to stay in the hotel for at least three days and two nights, with the option of staying for an extra day and night. We can only accept as many people as there are rooms available.
+Conveniently located, [Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
+
+The nearest train station is Dorking, 4 miles away.
+
+Please check [Wotton House Google Maps Location][WottonGoogleMaps] to ensure you get to the hotel correctly.
+
+Parking is extensive and free for guests of the hotel, conference venue and leisure club.
 
 More information regarding accommodation can be found on the [Details page][Details].
 
@@ -91,8 +97,8 @@ More information regarding accommodation can be found on the [Details page][Deta
 </div>
 
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
-[Venue]: http://cotswoldconferencecentre.com/venue/
-[Cotswolds]: http://www.cotswolds.info/
+[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/
+[WottonGoogleMaps]: https://www.google.co.uk/maps/place/Wotton+House/@51.210842,-0.3960782,135m/data=!3m1!1e3!4m7!1m4!3m3!1s0x0:0x0!2zNTHCsDEyJzM5LjIiTiAwwrAyMyc0NC42Ilc!3b1!3m1!1s0x0000000000000000:0x9b7aa884271af6b5!6m1!1e1?hl=en
 [Details]: details.html
 
 ### Who are the organisers?
