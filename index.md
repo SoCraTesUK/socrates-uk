@@ -8,7 +8,7 @@ title: Home
 
 SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by [Codurance][Codurance] and the [London Software Craftsmanship Community][LSCC] (LSCC), the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
 
-Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [countryside hotel in the Cotswolds][Farncombe Gallery]. **The conference itself is free.** The only thing you pay for is the hotel, including meals.
+Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse]. **The conference itself is free.** The only thing you pay for is the hotel, including meals.
 
 <br>
 
@@ -65,9 +65,15 @@ SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [The Fish Hotel][Venue] within Farncombe Conference Centre, a 300+ acre conference and hotel estate in the [Cotswolds][], one of the most beautiful places in the English countryside.
+The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2016. 
 
-All attendees are expected to stay in the hotel for at least three days and two nights, with the option of staying for an extra day and night. We can only accept as many people as there are rooms available.
+[Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
+
+The nearest train station is Dorking, 4 miles away.
+
+Please check [Wotton House Google Maps location][WottonGoogleMaps] to ensure you get to the hotel correctly.
+
+Free parking is available.
 
 More information regarding accommodation can be found on the [Details page][Details].
 
@@ -91,8 +97,8 @@ More information regarding accommodation can be found on the [Details page][Deta
 </div>
 
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
-[Venue]: http://cotswoldconferencecentre.com/venue/
-[Cotswolds]: http://www.cotswolds.info/
+[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/
+[WottonGoogleMaps]: https://www.google.co.uk/maps/place/Wotton+House/@51.210842,-0.3960782,135m/data=!3m1!1e3!4m7!1m4!3m3!1s0x0:0x0!2zNTHCsDEyJzM5LjIiTiAwwrAyMyc0NC42Ilc!3b1!3m1!1s0x0000000000000000:0x9b7aa884271af6b5!6m1!1e1?hl=en
 [Details]: details.html
 
 ### Who are the organisers?
