@@ -80,18 +80,34 @@ More information regarding accommodation can be found on the [Details page][Deta
 <div class="conference-location-images">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/farncombe/farncombe01.jpg" class="thumbnail img-responsive" alt="Farncombe"/>
+			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 		<div class="col-md-6">
-			<img src="img/farncombe/Farncombe-view.jpg" class="thumbnail img-responsive" alt="Cotswolds"/>
+			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/farncombe/Farncombe-room.jpg" class="thumbnail img-responsive" alt="Farncombe"/>
+			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 		<div class="col-md-6">
-			<img src="img/farncombe/Farncombe-view2.gif" class="thumbnail img-responsive" alt="Cotswolds"/>
+			<img src="img/wotton/wotton10.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<img src="img/wotton/wotton1.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+		<div class="col-md-6">
+			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<img src="img/wotton/wotton8.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+		<div class="col-md-6">
+			<img src="img/wotton/wotton11.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 </div>
