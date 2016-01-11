@@ -38,23 +38,28 @@ There are twin and single rooms, all with en-suite facilities. The cost, without
 
 ### Location and how to get there
 
-<iframe class="pull-left thumbnail location-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19633.267610263378!2d-1.8345520000000002!3d52.040427!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49fd332befcbcef9!2sFarncombe+Conference+Centre!5e0!3m2!1sen!2sus!4v1422369380828" width="450" height="360" frameborder="0" style="border:0"></iframe>
+<iframe class="pull-left thumbnail location-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d587.8782668326655!2d-0.3960782!3d51.210842!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x9b7aa884271af6b5!2sWotton+House!5e1!3m2!1sen!2suk!4v1452193759753" width="450" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-**The Fish**
-Cotswold Conference Centre Ltd<br>
-Farncombe Estate<br>
-Broadway<br>
-Worcestershire<br>
-WR12 7LJ<br>
-T: 0845 230 8580
+**Wotton House**
+Guildford Road<br>
+Dorking<br>
+Surrey, RH5 6QQ<br>
+England, United Kingdom<br>
+T: +44 (0) 1306 730 000
 
-The best place to find out how to get there is [Farncombe's site][Farncombe Estate].
+The best place to find out how to get there is [Wotton House's site][WottonHouse].
 
-[Farncombe Estate]: http://cotswoldconferencecentre.com/location/how-to-get-here/farncombe-estate/
+[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/location/
 
-If you're in London or coming from abroad we recommend you get the train from **Paddington** headed to Hereford or Great Malvern and get off at **Moreton-in-Marsh**. It takes between one and a half and two hours depending on the service you take.
+The nearest station is Dorking station. It is 3-4 miles and 15 minutes’ drive away. A one way taxi should cost between £12 and £30 depending on traffic.
 
-Please check our wiki for the [local taxi companies][] - it should cost no more than £25 each way.
+Please check our wiki for the [local taxi companies][]. __Please note that most taxis near Dorking Station don’t accept cards and the only cash machine to withdraw the money at the station is usually out of service, so make sure you have cash on hand.__
+
+Dorking rail station has direct links and connections from London Waterloo, London Victoria, Reading and Gatwick airport.
+
+Gatwick Airport is about 20 minutes from the venue and taxis cost from £30.
+
+Heathrow Airport is about 30 minutes and 1 hour from Wotton House, depending on traffic, and taxis should cost from £45.
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
 
