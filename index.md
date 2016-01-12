@@ -119,7 +119,7 @@ More information regarding accommodation can be found on the [Details page][Deta
 
 ### Who are the organisers?
 
-SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
+SoCraTes UK is organised by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
 
 [Codurance]: http://www.codurance.com
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
