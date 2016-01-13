@@ -30,7 +30,7 @@ On **Sunday 5th**, weather allowing, we will have a nice long walk around the be
 			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
+			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
@@ -38,9 +38,7 @@ On **Sunday 5th**, weather allowing, we will have a nice long walk around the be
 			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
 		</div>
 		<div class="col-md-6">
-			<div class="embed-responsive embed-responsive-4by3 thumbnail">
-  			<iframe class="embed-responsive-item" src="//www.youtube.com/embed/Jb3jQiSRdYM"></iframe>
-			</div>
+			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
 		</div>
 	</div>
 </div>
@@ -84,14 +82,6 @@ More information regarding accommodation can be found on the [Details page][Deta
 		</div>
 		<div class="col-md-6">
 			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton1.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
