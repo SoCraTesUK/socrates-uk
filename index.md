@@ -27,7 +27,7 @@ On **Sunday 5th**, weather allowing, we will have a nice long walk around the be
 <div class="conference-photogrid">
 	<div class="row">
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
+			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 		<div class="col-md-6">
 			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
@@ -35,7 +35,7 @@ On **Sunday 5th**, weather allowing, we will have a nice long walk around the be
 	</div>
 	<div class="row">
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/screenCode.jpg">
+			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
 		</div>
 		<div class="col-md-6">
 			<div class="embed-responsive embed-responsive-4by3 thumbnail">
@@ -80,18 +80,10 @@ More information regarding accommodation can be found on the [Details page][Deta
 <div class="conference-location-images">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
 			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-6">
 			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton2.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
