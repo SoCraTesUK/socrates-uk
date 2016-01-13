@@ -130,6 +130,16 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
+#### Other partner conferences
+
+* CodeFreeze 11 - 12 Jan 2016 , Kiilopää, Finland http://www.codefreeze.fi/
+* SoCraTes Canaries 10 - 13 Mar 2016, Gran Canaria http://www.socrates-conference.es/doku.php
+* I T.A.K.E. Unconference 19 - 20 May 2016, Bucharest http://itakeunconf.com/
+* SoCraTes Day Switzerland http://socrates-day.ch/
+* SoCraTes France http://socrates-fr.github.io/
+* SoCraTes BE http://socratesbe.org/
+* SoCraTes Italy http://socrates-it.github.io/
+
 [@socrates_uk]: https://twitter.com/socrates_uk
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
