@@ -12,6 +12,29 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 <br>
 
+### Registration and Price Information
+
+We will be charging a __NON-REFUNDABLE__ deposit for each ticket. The remaining amount will be paid directly to the hotel when you checkout. 
+
+* 3 nights - Single room: £250.00 deposit + £175.00 (paid on checkout). Total £425 + Eventbrite Fee
+* 3 nights - Shared Twin room: £250.00 deposit + £140.00 (paid on checkout). Total £390 + Eventbrite Fee
+
+All tickets include breakfast, lunch and dinner. Drinks are NOT included.
+Tea, coffee and biscuits will be served for free throughout the day. 
+
+
+<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="370" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+
+__Twin Room__: Buying a ticket for a twin room means that you are reserving __one__ bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry:  [go to the our wiki][wiki] and register your preference.
+
+__NOTE: In the event you do not show up for the conference, you will still be liable to pay the remaining amount of the ticket to the hotel—you will have a room reserved in your name.__
+
+<br />
+
+[wiki]: https://github.com/lscc/socrates-uk/wiki
+
+<br>
+
 ### What happens at SoCraTes?
 
 The gathering runs from **Thursday 2th June** to **Sunday 5th June, 2016**.
@@ -105,12 +128,6 @@ SoCraTes UK is organised by [Codurance][Codurance] and the people behind the [Lo
 
 [Codurance]: http://www.codurance.com
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
-
-<br>
-
-### Registration
-
-**Registration is not open yet. Follow [@socrates_uk][@socrates_uk] on Twitter to be updated once it opens.**
 
 <br>
 
