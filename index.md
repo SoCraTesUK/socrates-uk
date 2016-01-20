@@ -147,12 +147,6 @@ SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [Lo
 
 <br>
 
-### Registration
-
-**Registration is not open yet. Follow [@socrates_uk][@socrates_uk] on Twitter to be updated once it opens.**
-
-<br>
-
 ### Conference Code of Conduct
 
 SoCraTes UK follows the [Conference Code of Conduct][] laid out by several conference organisers around the globe. We ask that you read [the full version][Conference Code of Conduct] before attending. You are required to cooperate with the code throughout the event to help ensure a safe environment for everybody.
