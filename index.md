@@ -130,17 +130,26 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
-#### Other partner conferences
+#### All Partner Conferences
 
-* CodeFreeze 11 - 12 Jan 2016 , Kiilopää, Finland http://www.codefreeze.fi/
-* SoCraTes Canaries 10 - 13 Mar 2016, Gran Canaria http://www.socrates-conference.es/doku.php
-* I T.A.K.E. Unconference 19 - 20 May 2016, Bucharest http://itakeunconf.com/
-* SoCraTes Day Switzerland http://socrates-day.ch/
-* SoCraTes France http://socrates-fr.github.io/
-* SoCraTes BE http://socratesbe.org/
-* SoCraTes Italy http://socrates-it.github.io/
+* [CodeFreeze][] / 11 - 12 Jan 2016, Kiilopää, Finland
+* [SoCraTes Canaries][] / 10 - 13 Mar 2016, Gran Canaria, Spain
+* [SoCraTes Italy][] /  12 - 14 May 2016, Rimini, Italy
+* [SoCraTes Day Switzerland][] / 17 May 2016, Zürich, Switzerland
+* [I T.A.K.E. Unconference][] / 19 - 20 May 2016, Bucharest, Hungary
+* [SoCraTes Germany][] / 25 - 28 Aug 2016, Soltau, Germany
+* [SoCraTes France][] 
+* [SoCraTes BE][]
+
 
 [@socrates_uk]: https://twitter.com/socrates_uk
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [Conference Code of Conduct]: http://confcodeofconduct.com/
+[CodeFreeze] http://www.codefreeze.fi/
+[SoCraTes Canaries] http://www.socrates-conference.es/doku.php
+[I T.A.K.E. Unconference] http://itakeunconf.com/
+[SoCraTes Day Switzerland] http://socrates-day.ch/
+[SoCraTes France] http://socrates-fr.github.io/
+[SoCraTes BE] http://socratesbe.org/
+[SoCraTes Italy] http://socrates-it.github.io/
