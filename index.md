@@ -35,7 +35,7 @@ __NOTE: In the event you do not show up for the conference, you will still be li
 
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 2th June** to **Sunday 5th June, 2016**.
+The gathering runs from **Thursday 2nd June** to **Sunday 5th June, 2016**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
