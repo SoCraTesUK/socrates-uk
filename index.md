@@ -12,6 +12,27 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 <br>
 
+### Registration and Price Information
+
+We will be charging a __NON-REFUNDABLE__ deposit for each ticket. The remaining amount will be paid directly to the hotel when you checkout. 
+
+* 3 nights - Single room: £250.00 deposit + £175.00 (paid on checkout). Total £425 + Eventbrite Fee
+* 3 nights - Shared Twin room: £250.00 deposit + £140.00 (paid on checkout). Total £390 + Eventbrite Fee
+
+All tickets include breakfast, lunch and dinner. Drinks are NOT included.
+Tea, coffee and biscuits will be served for free throughout the day. 
+
+
+<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="370" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+
+__Twin Room__: Buying a ticket for a twin room means that you are reserving __one__ bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry:  [go to the our wiki][wiki] and register your preference.
+
+__NOTE: In the event you do not show up for the conference, you will still be liable to pay the remaining amount of the ticket to the hotel—you will have a room reserved in your name.__
+
+<br />
+
+[wiki]: https://github.com/lscc/socrates-uk/wiki
+
 ### What happens at SoCraTes?
 
 The gathering runs from **Thursday 2th June** to **Sunday 5th June, 2016**.
@@ -27,18 +48,20 @@ On **Sunday 5th**, weather allowing, we will have a nice long walk around the be
 <div class="conference-photogrid">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
 			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
 		</div>
 		<div class="col-md-6">
 			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<img class="img-responsive thumbnail" src="img/2014/screenCode.jpg">
+		</div>
+		<div class="col-md-6">
+			<div class="embed-responsive embed-responsive-4by3 thumbnail">
+  			<iframe class="embed-responsive-item" src="//www.youtube.com/embed/Jb3jQiSRdYM"></iframe>
+			</div>
 		</div>
 	</div>
 </div>
@@ -78,10 +101,26 @@ More information regarding accommodation can be found on the [Details page][Deta
 <div class="conference-location-images">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 		<div class="col-md-6">
+			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
 			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+		<div class="col-md-6">
+			<img src="img/wotton/wotton2.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<img src="img/wotton/wotton1.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
+		</div>
+		<div class="col-md-6">
+			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
@@ -101,7 +140,7 @@ More information regarding accommodation can be found on the [Details page][Deta
 
 ### Who are the organisers?
 
-SoCraTes UK is organised by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
+SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
 
 [Codurance]: http://www.codurance.com
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
@@ -130,28 +169,7 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
-<br>
-
-### All Partner Conferences
-
-* [CodeFreeze][] / 11 - 12 Jan 2016, Kiilopää, Finland
-* [SoCraTes Canaries][] / 10 - 13 Mar 2016, Gran Canaria, Spain
-* [SoCraTes Italy][] /  12 - 14 May 2016, Rimini, Italy
-* [SoCraTes Day Switzerland][] / 17 May 2016, Zürich, Switzerland
-* [I T.A.K.E. Unconference][] / 19 - 20 May 2016, Bucharest, Hungary
-* [SoCraTes Germany][] / 25 - 28 Aug 2016, Soltau, Germany
-* [SoCraTes France][] 
-* [SoCraTes BE][]
-
-
 [@socrates_uk]: https://twitter.com/socrates_uk
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [Conference Code of Conduct]: http://confcodeofconduct.com/
-[CodeFreeze]: http://www.codefreeze.fi/
-[SoCraTes Canaries]: http://www.socrates-conference.es/doku.php
-[I T.A.K.E. Unconference]: http://itakeunconf.com/
-[SoCraTes Day Switzerland]: http://socrates-day.ch/
-[SoCraTes France]: http://socrates-fr.github.io/
-[SoCraTes BE]: http://socratesbe.org/
-[SoCraTes Italy]: http://socrates-it.github.io/
