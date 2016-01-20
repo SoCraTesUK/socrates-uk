@@ -146,10 +146,10 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [Conference Code of Conduct]: http://confcodeofconduct.com/
-[CodeFreeze] http://www.codefreeze.fi/
-[SoCraTes Canaries] http://www.socrates-conference.es/doku.php
-[I T.A.K.E. Unconference] http://itakeunconf.com/
-[SoCraTes Day Switzerland] http://socrates-day.ch/
-[SoCraTes France] http://socrates-fr.github.io/
-[SoCraTes BE] http://socratesbe.org/
-[SoCraTes Italy] http://socrates-it.github.io/
+[CodeFreeze]: http://www.codefreeze.fi/
+[SoCraTes Canaries]: http://www.socrates-conference.es/doku.php
+[I T.A.K.E. Unconference]: http://itakeunconf.com/
+[SoCraTes Day Switzerland]: http://socrates-day.ch/
+[SoCraTes France]: http://socrates-fr.github.io/
+[SoCraTes BE]: http://socratesbe.org/
+[SoCraTes Italy]: http://socrates-it.github.io/
