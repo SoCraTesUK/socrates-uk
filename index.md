@@ -130,7 +130,9 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
-#### All Partner Conferences
+<br>
+
+### All Partner Conferences
 
 * [CodeFreeze][] / 11 - 12 Jan 2016, Kiilopää, Finland
 * [SoCraTes Canaries][] / 10 - 13 Mar 2016, Gran Canaria, Spain
