@@ -29,8 +29,6 @@ __Twin Room__: Buying a ticket for a twin room means that you are reserving __on
 
 __NOTE: In the event you do not show up for the conference, you will still be liable to pay the remaining amount of the ticket to the hotel—you will have a room reserved in your name.__
 
-<br />
-
 [wiki]: https://github.com/lscc/socrates-uk/wiki
 
 <br>
