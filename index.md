@@ -33,6 +33,8 @@ __NOTE: In the event you do not show up for the conference, you will still be li
 
 [wiki]: https://github.com/lscc/socrates-uk/wiki
 
+<br>
+
 ### What happens at SoCraTes?
 
 The gathering runs from **Thursday 2th June** to **Sunday 5th June, 2016**.
@@ -48,20 +50,18 @@ On **Sunday 5th**, weather allowing, we will have a nice long walk around the be
 <div class="conference-photogrid">
 	<div class="row">
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
+			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
+			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/screenCode.jpg">
+			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
 		</div>
 		<div class="col-md-6">
-			<div class="embed-responsive embed-responsive-4by3 thumbnail">
-  			<iframe class="embed-responsive-item" src="//www.youtube.com/embed/Jb3jQiSRdYM"></iframe>
-			</div>
+			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
 		</div>
 	</div>
 </div>
@@ -101,26 +101,10 @@ More information regarding accommodation can be found on the [Details page][Deta
 <div class="conference-location-images">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
 			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-6">
 			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton2.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton1.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
 		</div>
 	</div>
 	<div class="row">
@@ -140,7 +124,7 @@ More information regarding accommodation can be found on the [Details page][Deta
 
 ### Who are the organisers?
 
-SoCraTes UK is organized by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
+SoCraTes UK is organised by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
 
 [Codurance]: http://www.codurance.com
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
@@ -163,7 +147,28 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
 
+<br>
+
+### All Partner Conferences
+
+* [CodeFreeze][] / 11 - 12 Jan 2016, Kiilopää, Finland
+* [SoCraTes Canaries][] / 10 - 13 Mar 2016, Gran Canaria, Spain
+* [SoCraTes Italy][] /  12 - 14 May 2016, Rimini, Italy
+* [SoCraTes Day Switzerland][] / 17 May 2016, Zürich, Switzerland
+* [I T.A.K.E. Unconference][] / 19 - 20 May 2016, Bucharest, Hungary
+* [SoCraTes Germany][] / 25 - 28 Aug 2016, Soltau, Germany
+* [SoCraTes France][] 
+* [SoCraTes BE][]
+
+
 [@socrates_uk]: https://twitter.com/socrates_uk
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [Conference Code of Conduct]: http://confcodeofconduct.com/
+[CodeFreeze]: http://www.codefreeze.fi/
+[SoCraTes Canaries]: http://www.socrates-conference.es/doku.php
+[I T.A.K.E. Unconference]: http://itakeunconf.com/
+[SoCraTes Day Switzerland]: http://socrates-day.ch/
+[SoCraTes France]: http://socrates-fr.github.io/
+[SoCraTes BE]: http://socratesbe.org/
+[SoCraTes Italy]: http://socrates-it.github.io/
