@@ -158,6 +158,9 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [SoCraTes France][] 
 * [SoCraTes BE][]
 
+<div style="margin-top:40px;">
+  <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</i></a>
+</div>
 
 [@socrates_uk]: https://twitter.com/socrates_uk
 [SoCraTes Germany]: http://www.socrates-conference.de/
