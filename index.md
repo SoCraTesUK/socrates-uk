@@ -19,7 +19,7 @@ We will be charging a __NON-REFUNDABLE__ deposit for each ticket. The remaining 
 * 3 nights - Single room: £250.00 deposit + £175.00 (paid on checkout). Total £425 + Eventbrite Fee
 * 3 nights - Shared Twin room: £250.00 deposit + £140.00 (paid on checkout). Total £390 + Eventbrite Fee
 
-All tickets include breakfast, lunch and dinner. Drinks are NOT included.
+All tickets include the cost of the hotels, venue facilities, and all meals including breakfast, lunch and dinner. Drinks are NOT included.
 Tea, coffee and biscuits will be served for free throughout the day. 
 
 
