@@ -8,7 +8,7 @@ title: Home
 
 SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by [Codurance][Codurance] and the [London Software Craftsmanship Community][LSCC] (LSCC), the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
 
-Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse]. **The conference itself is free.** The only thing you pay for is the hotel, including meals.
+Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse].
 
 <br>
 
@@ -19,7 +19,7 @@ We will be charging a __NON-REFUNDABLE__ deposit for each ticket. The remaining 
 * 3 nights - Single room: £250.00 deposit + £175.00 (paid on checkout). Total £425 + Eventbrite Fee
 * 3 nights - Shared Twin room: £250.00 deposit + £140.00 (paid on checkout). Total £390 + Eventbrite Fee
 
-All tickets include breakfast, lunch and dinner. Drinks are NOT included.
+The money for the tickets go toward covering the cost of the hotels, venue space and facilities, and all meals including breakfast, lunch and dinner. Drinks are NOT included.
 Tea, coffee and biscuits will be served for free throughout the day. 
 
 
