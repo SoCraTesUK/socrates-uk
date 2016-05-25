@@ -23,7 +23,7 @@ The money for the tickets go toward covering the cost of the hotels, venue space
 Tea, coffee and biscuits will be served for free throughout the day. 
 
 
-<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="470" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 __Twin Room__: Buying a ticket for a twin room means that you are reserving __one__ bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry:  [go to the our wiki][wiki] and register your preference.
 
@@ -45,7 +45,7 @@ In case you could not get a ticket or could not come for the full event, you sti
 [Hartsfield Manor](http://www.deverevenues.co.uk/en/venues/hartsfield-manor) 
 20 minutes / 0871 222 4802
  
-[Burford Bridge Hotel](http://www.mercure.com/gb/hotel-6635-mercure-box-hill-burford-bridge-hotel) 
+[Burford Bridge Hotel](http://www.mercure.com/gb/hotel-6635-mercure-box-hill-burford-bridge-hotel/index.shtml) 
 15 minutes / 02076600684
 
 [Guildford Harbour Hotel](http://www.guildford-harbour-hotel.co.uk)
