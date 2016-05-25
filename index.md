@@ -23,13 +23,35 @@ The money for the tickets go toward covering the cost of the hotels, venue space
 Tea, coffee and biscuits will be served for free throughout the day. 
 
 
-<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="370" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="470" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 __Twin Room__: Buying a ticket for a twin room means that you are reserving __one__ bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry:  [go to the our wiki][wiki] and register your preference.
 
 __NOTE: In the event you do not show up for the conference, you will still be liable to pay the remaining amount of the ticket to the hotel—you will have a room reserved in your name.__
 
 [wiki]: https://github.com/lscc/socrates-uk/wiki
+
+<br>
+
+#### Day Passes
+
+In case you could not get a ticket or could not come for the full event, you still can come for a day or two. Day passes give you the flexibility to either commute to the Socrates UK venue on a daily basis or stay in a nearby accommodation. 
+
+<strong>Recommended nearby hotels</strong>
+
+[Horsley Park](http://www.deverevenues.co.uk/en/venues/horsley-park) 
+15 minutes / 0871 222 4806
+ 
+[Hartsfield Manor](http://www.deverevenues.co.uk/en/venues/hartsfield-manor) 
+20 minutes / 0871 222 4802
+ 
+[Burford Bridge Hotel](http://www.mercure.com/gb/hotel-6635-mercure-box-hill-burford-bridge-hotel) 
+15 minutes / 02076600684
+
+[Guildford Harbour Hotel](http://www.guildford-harbour-hotel.co.uk)
+01483 792 300 
+
+<strong>NOTE:</strong> The hotels were recommended by Wotton House (Socrates UK venue) and not by the Socrates UK organisation. Neither Wotton House nor the Socrates UK organisers are responsible for any problems related to the recommended hotels. 
 
 <br>
 
