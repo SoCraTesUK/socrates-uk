@@ -57,13 +57,15 @@ Please check our wiki for the [local taxi companies][]. __Please note that most 
 
 Dorking rail station has direct links and connections from London Waterloo, London Victoria, Reading and Gatwick airport.
 
-Gatwick Airport is about 20 minutes from the venue. Uber taxis will cost £25-33 while black cabs in the airport will cost on average £64.00 depending on the traffic. 
+Gatwick Airport is about 30 minutes from the venue. Uber taxis will cost £25-33 while black cabs in the airport will cost on average £64.00 depending on the traffic. 
 
-Heathrow Airport is about 30 minutes and 1 hour from Wotton House, depending on traffic, and Uber taxis should cost £38-51. Black cabs in the airport may cost up to £100.00.
+Heathrow Airport is about 40 minutes and 1 hour from Wotton House, depending on traffic, and Uber taxis should cost £38-51. Black cabs in the airport may cost up to £100.00.
 
 __TAXIS:__ If using taxis, either use [Uber][] or one of the [local taxi companies][] listed on the wiki. They are much cheaper.
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
+
+You normally can get direct trains to Dorking from London Waterloo, Vauxhall or Victoria tube stations. The train fare should cost around £11.60. When buying your train ticket, go to the ticket office instead of buying on the machines and show your tube ticket as you may get more than 50% discount—they will charge you only for the stretch beyond the zones you already paid for when coming to central London from the airport. That's the same for people with Oyster cards. 
 
 If you prefer to get to London by coach, [National Express][National Express from airports] is probably the best option, with wi-fi on their coaches.
 
