@@ -57,9 +57,11 @@ Please check our wiki for the [local taxi companies][]. __Please note that most 
 
 Dorking rail station has direct links and connections from London Waterloo, London Victoria, Reading and Gatwick airport.
 
-Gatwick Airport is about 20 minutes from the venue and taxis cost from £30.
+Gatwick Airport is about 20 minutes from the venue. Uber taxis will cost £25-33 while black cabs in the airport will cost on average £64.00 depending on the traffic. 
 
-Heathrow Airport is about 30 minutes and 1 hour from Wotton House, depending on traffic, and taxis should cost from £45.
+Heathrow Airport is about 30 minutes and 1 hour from Wotton House, depending on traffic, and Uber taxis should cost £38-51. Black cabs in the airport may cost up to £100.00.
+
+**TAXIS: ** If using taxis, either use [Uber][] or one of the [local taxi companies][] listed on the wiki. They are much cheaper.
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
 
@@ -90,5 +92,6 @@ Once in London you might need a [tube map][Tube Map]. For more info on transport
 [London Southend Airport]: http://www.southendairport.com/getting-here/
 [Birmingham Airport]: http://www.birminghamairport.co.uk/transport-and-directions.aspx
 
+[Uber]: https://www.uber.com/fare-estimate/
 [local taxi companies]: https://github.com/lscc/socrates-uk/wiki/Local-taxi-companies
 [nearby hotels]: https://github.com/lscc/socrates-uk/wiki/Nearby-hotels
