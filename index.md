@@ -177,7 +177,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [SoCraTes Day Switzerland][] / 17 May 2016, Zürich, Switzerland
 * [I T.A.K.E. Unconference][] / 19 - 20 May 2016, Bucharest, Romania
 * [SoCraTes Germany][] / 25 - 28 Aug 2016, Soltau, Germany
-* [SoCraTes France][] 
+* [SoCraTes France][] / 27 - 30 Oct 2016, Rochegude, France
 * [SoCraTes BE][] / 15 - 18 Sep 2016, Tournai, Belgium
 
 <div style="margin-top:40px;">
