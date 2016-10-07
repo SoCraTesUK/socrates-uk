@@ -14,50 +14,12 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 ### Registration and Price Information
 
-We will be charging a __NON-REFUNDABLE__ deposit for each ticket. The remaining amount will be paid directly to the hotel when you checkout. 
+**Registration is not open yet. Follow [@socrates_uk][@socrates_uk] on Twitter to be updated once it opens.**
 
-* 3 nights - Single room: £250.00 deposit + £175.00 (paid on checkout). Total £425 + Eventbrite Fee
-* 3 nights - Shared Twin room: £250.00 deposit + £140.00 (paid on checkout). Total £390 + Eventbrite Fee
-
-The money for the tickets go toward covering the cost of the hotels, venue space and facilities, and all meals including breakfast, lunch and dinner. Drinks are NOT included.
-Tea, coffee and biscuits will be served for free throughout the day. 
-
-
-<iframe style="margin-top:20px;" src="//eventbrite.co.uk/tickets-external?eid=19754356813&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-
-__Twin Room__: Buying a ticket for a twin room means that you are reserving __one__ bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry:  [go to the our wiki][wiki] and register your preference.
-
-__NOTE: In the event you do not show up for the conference, you will still be liable to pay the remaining amount of the ticket to the hotel—you will have a room reserved in your name.__
-
-[wiki]: https://github.com/lscc/socrates-uk/wiki
-
-<br>
-
-#### Day Passes
-
-In case you could not get a ticket or could not come for the full event, you still can come for a day or two. Day passes give you the flexibility to either commute to the Socrates UK venue on a daily basis or stay in a nearby accommodation. 
-
-<strong>Recommended nearby hotels</strong>
-
-[Horsley Park](http://www.deverevenues.co.uk/en/venues/horsley-park) 
-15 minutes / 0871 222 4806
- 
-[Hartsfield Manor](http://www.deverevenues.co.uk/en/venues/hartsfield-manor) 
-20 minutes / 0871 222 4802
- 
-[Burford Bridge Hotel](http://www.mercure.com/gb/hotel-6635-mercure-box-hill-burford-bridge-hotel/index.shtml) 
-15 minutes / 02076600684
-
-[Guildford Harbour Hotel](http://www.guildford-harbour-hotel.co.uk)
-01483 792 300 
-
-<strong>NOTE:</strong> The hotels were recommended by Wotton House (Socrates UK venue) and not by the Socrates UK organisation. Neither Wotton House nor the Socrates UK organisers are responsible for any problems related to the recommended hotels. 
-
-<br>
 
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 2nd June** to **Sunday 5th June, 2016**.
+The gathering runs from **Thursday 15th June** to **Sunday 18th June, 2017**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -65,7 +27,7 @@ On Friday and Saturday, we'll run an **open space**, in which every attendee is 
 
 On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
 
-On **Sunday 5th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
+On **Sunday 18th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 <div class="conference-photogrid">
 	<div class="row">
@@ -106,7 +68,7 @@ SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2016. 
+The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2017.
 
 [Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
 
@@ -171,14 +133,14 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 
 ### All Partner Conferences
 
-* [CodeFreeze][] / 11 - 12 Jan 2016, Kiilopää, Finland
-* [SoCraTes Canaries][] / 10 - 13 Mar 2016, Gran Canaria, Spain
-* [SoCraTes Italy][] /  12 - 14 May 2016, Rimini, Italy
-* [SoCraTes Day Switzerland][] / 17 May 2016, Zürich, Switzerland
-* [I T.A.K.E. Unconference][] / 19 - 20 May 2016, Bucharest, Romania
-* [SoCraTes Germany][] / 25 - 28 Aug 2016, Soltau, Germany
-* [SoCraTes France][] / 27 - 30 Oct 2016, Rochegude, France
-* [SoCraTes BE][] / 15 - 18 Sep 2016, Tournai, Belgium
+* [CodeFreeze][] / 15 - 19 Jan 2017, Kiilopää, Finland
+* [SoCraTes Canaries][] / March 2017, Canary Islands, Spain
+* [SoCraTes Italy][] /  Rimini, Italy
+* [SoCraTes Day Switzerland][] / Zürich, Switzerland
+* [I T.A.K.E. Unconference][] / May 2017, Bucharest, Romania
+* [SoCraTes Germany][] / 24 - 27 Aug 2017, Soltau, Germany
+* [SoCraTes France][] / Rochegude, France
+* [SoCraTes BE][] / Tournai, Belgium
 
 <div style="margin-top:40px;">
   <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</i></a>
