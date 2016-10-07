@@ -14,7 +14,7 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 ### Registration and Price Information
 
-+**Registration is not open yet. Follow [@socrates_uk][@socrates_uk] on Twitter to be updated once it opens.**
+**Registration is not open yet. Follow [@socrates_uk][@socrates_uk] on Twitter to be updated once it opens.**
 
 
 ### What happens at SoCraTes?
