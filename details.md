@@ -10,6 +10,8 @@ The event will be run as an [open space][Open-space technology]. To find out wha
 
 There is a <a href="https://github.com/lscc/socrates-uk/wiki">wiki</a> for attendees to discuss session ideas and anything else prior to the event. This also include ideas for evening activities, there is a buddy up section to get people to share cabs or/and rooms. Feel free to add anything else you think it would be useful and drop a line to the google group mailing list to let people know.
 
+You can also make your way to the [#socratesuk](https://softwarecraftsmanship.slack.com/messages/socratesuk/) channel on the [International Software Craftsmanship Slack](http://slack.softwarecraftsmanship.org/) to discuss anything related to the unconference.
+
 [Open-space technology]: http://en.wikipedia.org/wiki/Open-space_technology
 [How to prepare to attend an unconference]: http://www.unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/
 
