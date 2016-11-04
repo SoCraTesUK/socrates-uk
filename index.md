@@ -142,6 +142,8 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [SoCraTes Germany][] / 24 - 27 Aug 2017, Soltau, Germany
 * [SoCraTes France][] / Rochegude, France
 * [SoCraTes BE][] / Tournai, Belgium
+* [SoCraTes Day Chile][] / Santiago de Chile, Chile
+* [JS CraftCamp][] / Munich, Germany
 
 <div style="margin-top:40px;">
   <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</i></a>
@@ -159,3 +161,5 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [SoCraTes France]: http://socrates-fr.github.io/
 [SoCraTes BE]: http://socratesbe.org/
 [SoCraTes Italy]: http://socrates-it.github.io/
+[SoCraTes Day Chile]: https://www.socrates-conference.cl/
+[JS CraftCamp]: http://jscraftcamp.org/
