@@ -152,7 +152,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [Conference Code of Conduct]: http://confcodeofconduct.com/
 [CodeFreeze]: http://www.codefreeze.fi/
-[SoCraTes Canaries]: http://www.socrates-conference.es/doku.php
+[SoCraTes Canaries]: http://www.socrates-conference.es/
 [I T.A.K.E. Unconference]: http://itakeunconf.com/
 [SoCraTes Switzerland]: http://www.socrates-ch.org/
 [SoCraTes Day Zurich]: http://socrates-day.ch/
