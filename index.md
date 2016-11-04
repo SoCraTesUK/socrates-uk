@@ -135,8 +135,9 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 
 * [CodeFreeze][] / 15 - 19 Jan 2017, Kiilopää, Finland
 * [SoCraTes Canaries][] / March 2017, Canary Islands, Spain
+* [SoCraTes Switzerland][] / 9th-12th March 2017, Ftan, Switzerland
 * [SoCraTes Italy][] /  Rimini, Italy
-* [SoCraTes Day Switzerland][] / Zürich, Switzerland
+* [SoCraTes Day Zurich][] / Zürich, Switzerland
 * [I T.A.K.E. Unconference][] / May 2017, Bucharest, Romania
 * [SoCraTes Germany][] / 24 - 27 Aug 2017, Soltau, Germany
 * [SoCraTes France][] / Rochegude, France
@@ -153,7 +154,8 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [CodeFreeze]: http://www.codefreeze.fi/
 [SoCraTes Canaries]: http://www.socrates-conference.es/doku.php
 [I T.A.K.E. Unconference]: http://itakeunconf.com/
-[SoCraTes Day Switzerland]: http://socrates-day.ch/
+[SoCraTes Switzerland]: http://www.socrates-ch.org/
+[SoCraTes Day Zurich]: http://socrates-day.ch/
 [SoCraTes France]: http://socrates-fr.github.io/
 [SoCraTes BE]: http://socratesbe.org/
 [SoCraTes Italy]: http://socrates-it.github.io/
