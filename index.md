@@ -134,7 +134,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 ### All Partner Conferences
 
 * [CodeFreeze][] / 15th - 19th Jan 2017, Kiilopää, Finland
-* [SoCraTes Canaries][] / 6th-9th April 2017, Canary Islands, Spain
+* [SoCraTes Canaries][] / 6th-9th April 2017, Las Palmas, Gran Canaria, Spain
 * [SoCraTes Switzerland][] / 9th-12th March 2017, Ftan, Switzerland
 * [SoCraTes Italy][] /  Rimini, Italy
 * [SoCraTes Day Zurich][] / Zürich, Switzerland
@@ -154,7 +154,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [Conference Code of Conduct]: http://confcodeofconduct.com/
 [CodeFreeze]: http://www.codefreeze.fi/
-[SoCraTes Canaries]: http://www.socrates-conference.es/
+[SoCraTes Canaries]: https://socracan.com/
 [I T.A.K.E. Unconference]: http://itakeunconf.com/
 [SoCraTes Switzerland]: http://www.socrates-ch.org/
 [SoCraTes Day Zurich]: http://socrates-day.ch/
