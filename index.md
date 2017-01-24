@@ -136,7 +136,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [CodeFreeze][] / 15th - 19th Jan 2017, Kiilopää, Finland
 * [SoCraTes Canaries][] / 6th-9th April 2017, Las Palmas, Gran Canaria, Spain
 * [SoCraTes Switzerland][] / 9th-12th March 2017, Ftan, Switzerland
-* [SoCraTes Italy][] /  Rimini, Italy
+* [SoCraTes Italy][] /  25th-27th May 2017, Rimini, Italy
 * [SoCraTes Day Zurich][] / Zürich, Switzerland
 * [I T.A.K.E. Unconference][] / 11th-12th May 2017, Bucharest, Romania
 * [SoCraTes Germany][] / 24 - 27 Aug 2017, Soltau, Germany
