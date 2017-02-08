@@ -146,7 +146,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [JS CraftCamp][] / Munich, Germany
 
 <div style="margin-top:40px;">
-  <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</i></a>
+  <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</a>
 </div>
 
 [@socrates_uk]: https://twitter.com/socrates_uk
