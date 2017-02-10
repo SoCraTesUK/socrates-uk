@@ -23,7 +23,7 @@ In exchange for financial backing, we would provide:
 - All options from the basic package
 - Secured places for 2 participants from your company. Note you will still need to purchase tickets in addition to the sponsorship.
 
-**Premium package:**
+**in the premium sponsorship package:**
 
 - All options from the basic package
 - Secured places for 4 participants from your company. Note you will still need to purchase tickets in addition to the sponsorship.
