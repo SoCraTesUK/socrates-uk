@@ -18,7 +18,7 @@ In exchange for financial backing, we would provide:
 
 In addition, if you would like to discuss alternatives or extra privileges as part of your sponsorship, please let us know. We will be happy to work with you to come up with something that benefits everyone.
 
-If you are interested in helping us run a great and affordable unconference, please email us at [hello@codurance.com][hello@codurance].
+If you are interested in helping us run a great and affordable unconference, please email us at [socratesuk@codurance.com][socratesuk@codurance.com].
 
 [London Software Craftsmanship Community]: http://www.meetup.com/london-software-craftsmanship/
-[hello@codurance]: mailto:hello@codurance.com
+[socratesuk@codurance.com]: mailto:socratesuk@codurance.com
