@@ -34,7 +34,29 @@ We are also looking to secure **sponsorship** which will go directly towards bri
 
 ### Accommodation
 
-There are twin and single rooms, all with en-suite facilities. The cost, without sponsorship discounts, will be updated here once the calculations are done.
+There are twin and single rooms, all with en-suite facilities. The cost, without sponsorship discounts, will be:
+<p>1. Thu 15 June to Sun 18 June (3 nights) – Single room: £250.00 non-refundable deposit + £207.50 (paid on checkout)</p>
+<p>2. Thu 15 June to Sun 18 June (3 nights) – Twin room: £250.00 non-refundable deposit + £177.5 (paid on checkout)</p>
+
+The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks are **not** included.
+
+<div class="well accomodation-warning">
+	<p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> <br /><br />If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place.<br /><br /> <strong>You will be liable for paying the remaining amount to the hotel during check out </strong>— you will have a room booked in your name.</p>
+</div>
+
+
+#### Twin Room:
+Buying a ticket for a twin room means that you are reserving **one** bed in a twin room. If you want to make sure that you and a friend can share the same room, we recommend you buy the two tickets together. If you'd like to share a room with someone you already know, don't worry: go to the our <a href='https://github.com/lscc/socrates-uk/wiki'>wiki</a> and register your preference.
+
+<br>
+
+#### Check ins:
+Check ins will start on ***Thursday 15 June after 2pm***. SoCraTes UK 2015 will start at 5pm, just before dinner.
+<br>
+
+#### Check outs:
+Check outs must be finished ***on Thursday 18 June before 11am. Late check outs are chargeable at £10.00 per hour***.
+
 
 <br>
 
