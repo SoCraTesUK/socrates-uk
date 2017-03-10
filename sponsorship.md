@@ -18,15 +18,11 @@ In exchange for financial backing, we are offering supporters a selection of spo
 - your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship Community][London Software Craftsmanship Community] mailing list with over 3500 craftsmen and women
 - your merchandise available to everyone at the conference
 
-### Extended Sponsorship Package
-
-- All options from the basic package
-- Secured places for 2 participants from your company. **Note:** you will still need to purchase tickets in addition to the sponsorship.
-
 ### Premium Sponsorship Package
 
 - All options from the basic package
-- Secured places for 4 participants from your company. **Note:** you will still need to purchase tickets in addition to the sponsorship.
+- A special mention at the beginning of the conference to highlight their significant contribution
+- 2 complimentary tickets
 
 In addition, if you would like to discuss alternatives or extra privileges as part of your sponsorship, please let us know. We will be happy to work with you to come up with something that benefits everyone.
 
