@@ -141,7 +141,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [SoCraTes Germany][] / 24 - 27 Aug 2017, Soltau, Germany
 * [SoCraTes France][] / Rochegude, France
 * [SoCraTes BE][] / Tournai, Belgium
-* [SoCraTes Day Chile][] / Santiago de Chile, Chile
+* [SoCraTes Day Chile][] / 07 July 2017, Santiago de Chile, Chile
 * [JS CraftCamp][] / Munich, Germany
 
 <div style="margin-top:40px;">
