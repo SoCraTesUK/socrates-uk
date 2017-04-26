@@ -132,17 +132,20 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 
 ### All Partner Conferences
 
-* [CodeFreeze][] / 15th - 19th Jan 2017, Kiilopää, Finland
-* [SoCraTes Canaries][] / 6th-9th April 2017, Las Palmas, Gran Canaria, Spain
+* [CodeFreeze][] / 15th-19th Jan 2017, Kiilopää, Finland
 * [SoCraTes Switzerland][] / 9th-12th March 2017, Ftan, Switzerland
-* [SoCraTes Italy][] /  25th-27th May 2017, Rimini, Italy
-* [SoCraTes Day Zurich][] / Zürich, Switzerland
+* [SoCraTes Canaries][] / 6th-9th April 2017, Las Palmas, Gran Canaria, Spain
 * [I T.A.K.E. Unconference][] / 11th-12th May 2017, Bucharest, Romania
-* [SoCraTes Germany][] / 24 - 27 Aug 2017, Soltau, Germany
-* [SoCraTes France][] / 26-29th October 2017, Rochegude, France
-* [SoCraTes BE][] / Tournai, Belgium
-* [SoCraTes Day Chile][] / 07 July 2017, Santiago de Chile, Chile
-* [JS CraftCamp][] / Munich, Germany
+* [SoCraTes Italy][] /  25th-27th May 2017, Rimini, Italy
+* [SoCraTes Day Chile][] / 7th July 2017, Santiago de Chile, Chile
+* [JS CraftCamp][] / 21st-22nd July 2017, Munich, Germany
+* [SoCraTes Germany][] / 24th-27th Aug 2017, Soltau, Germany
+* [SoCraTes Day Zurich][] / 15th September 2017, Zürich, Switzerland
+* [Software Craftsmanship London][] / 5th-6th October 2017, London, UK
+* [SoCraTes France][] / 26th-29th October 2017, Rochegude, France
+* [SoCraTes BE][] / 9th-12th November 2017, Tournai, Belgium
+
+
 
 <div style="margin-top:40px;">
   <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</a>
@@ -162,3 +165,4 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [SoCraTes Italy]: http://socrates-it.github.io/
 [SoCraTes Day Chile]: https://www.socrates-conference.cl/
 [JS CraftCamp]: http://jscraftcamp.org/
+[Software Craftsmanship London]: http://www.sc-london.com
