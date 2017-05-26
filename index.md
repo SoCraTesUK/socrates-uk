@@ -14,7 +14,7 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 ### Registration and Price Information
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=32442881532&ref=etckt" frameborder="0" height="450" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=32442881532&ref=etckt" frameborder="0" height="750" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ### What happens at SoCraTes?
 
