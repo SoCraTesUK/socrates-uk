@@ -68,7 +68,7 @@ Check outs must be finished ***on Thursday 18 June before 11am. Late check outs 
 **Wotton House**
 Guildford Road<br>
 Dorking<br>
-Surrey, RH5 6QQ<br>
+Surrey, RH5 6HS<br>
 England, United Kingdom<br>
 T: +44 (0) 1306 730 000
 
