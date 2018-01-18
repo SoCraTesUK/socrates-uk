@@ -67,7 +67,7 @@ SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2017.
+The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2018.
 
 [Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
 
@@ -132,18 +132,18 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 
 ### All Partner Conferences
 
-* [CodeFreeze][] / 15th-19th Jan 2017, Kiilopää, Finland
-* [SoCraTes Switzerland][] / 9th-12th March 2017, Ftan, Switzerland
-* [SoCraTes Canaries][] / 6th-9th April 2017, Las Palmas, Gran Canaria, Spain
-* [I T.A.K.E. Unconference][] / 11th-12th May 2017, Bucharest, Romania
-* [SoCraTes Italy][] /  25th-27th May 2017, Rimini, Italy
-* [SoCraTes Day Chile][] / 7th July 2017, Santiago de Chile, Chile
-* [JS CraftCamp][] / 21st-22nd July 2017, Munich, Germany
-* [SoCraTes Germany][] / 24th-27th Aug 2017, Soltau, Germany
-* [SoCraTes Day Zurich][] / 15th September 2017, Zürich, Switzerland
-* [Software Craftsmanship London][] / 5th-6th October 2017, London, UK
-* [SoCraTes France][] / 26th-29th October 2017, Rochegude, France
-* [SoCraTes BE][] / 9th-12th November 2017, Tournai, Belgium
+* [CodeFreeze][] / 15th-17th Jan 2018, Kiilopää, Finland
+* [SoCraTes Switzerland][] / 15th-18th March 2018, Ftan, Switzerland
+* [SoCraTes Canaries][] / 12th-15th April 2018, Las Palmas, Gran Canaria, Spain
+* [I T.A.K.E. Unconference][] / 7th-8th June 2018, Bucharest, Romania
+* [SoCraTes Italy][] /  tbc
+* [SoCraTes Day Chile][] / 6th June 2018, Santiago de Chile, Chile
+* [JS CraftCamp][] / tbc, Munich, Germany
+* [SoCraTes Germany][] / tbc, Soltau, Germany
+* [SoCraTes Day Zurich][] / tbc, Zürich, Switzerland
+* [Software Craftsmanship London][] / 4th-5th October 2018, London, UK
+* [SoCraTes France][] / tbc, Rochegude, France
+* [SoCraTes BE][] / tbc, Tournai, Belgium
 
 
 
