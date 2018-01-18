@@ -18,7 +18,7 @@ Ticket details for SoCraTes UK 2018 will be published soon.
 
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 15th June** to **Sunday 18th June, 2017**.
+The gathering runs from **Thursday 7th June** to **Sunday 10th June, 2018**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -26,7 +26,7 @@ On Friday and Saturday, we'll run an **open space**, in which every attendee is 
 
 On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
 
-On **Sunday 18th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
+On **Sunday 10th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 <div class="conference-photogrid">
 	<div class="row">
