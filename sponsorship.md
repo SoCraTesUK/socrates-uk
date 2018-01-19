@@ -13,28 +13,28 @@ We recognise that our sponsors want to support Socrates UK in different ways, he
 ### Premium Package: £2,000
 
 - Includes 2 guaranteed tickets to Socrates UK 2018 (purchased separately) 
-- a mention at the beginning and end of the conference
-- your logo on conference website
-- mentions on social media channels
-- your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship Community][London Software Craftsmanship Community] mailing list with over 3500 craftsmen and women
-- your merchandise available to everyone at the conference
+- A mention at the beginning and end of the conference
+- Your logo on conference website
+- Mentions on social media channels
+- Your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship Community][London Software Craftsmanship Community] mailing list with over 3500 craftsmen and women
+- Your merchandise available to everyone at the conference
 
 ### Basic Package: £1,500
 
 - Includes 1 guaranteed ticket to Socrates UK 2018 (purchased separately) 
-- a mention at the beginning and end of the conference
-- your logo on conference website
-- mentions on social media channels
-- your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship Community][London Software Craftsmanship Community] mailing list with over 3500 craftsmen and women
-- your merchandise available to everyone at the conference
+- A mention at the beginning and end of the conference
+- Your logo on conference website
+- Mentions on social media channels
+- Your name in emails about SoCraTes UK, reaching a significant audience including the [London Software Craftsmanship Community][London Software Craftsmanship Community] mailing list with over 3500 craftsmen and women
+- Your merchandise available to everyone at the conference
 
 ### Pay What You Like: Recommended contribution of £1,250
 
-- a mention at the beginning and end of the conference
-- your logo on conference website
-- mentions on social media channels
-- your name in emails about SoCraTes UK, reaching a significant audience including the London Software Craftsmanship Community mailing list with over 3500 craftsmen and women
-- your merchandise available to everyone at the conference
+- A mention at the beginning and end of the conference
+- Your logo on conference website
+- Mentions on social media channels
+- Your name in emails about SoCraTes UK, reaching a significant audience including the London Software Craftsmanship Community mailing list with over 3500 craftsmen and women
+- Your merchandise available to everyone at the conference
 
 [London Software Craftsmanship Community]: http://www.meetup.com/london-software-craftsmanship/
 [socratesuk@codurance.com]: mailto:socratesuk@codurance.com
