@@ -16,6 +16,18 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 Ticket details for SoCraTes UK 2018 will be published soon.
 
+<!--[if lte IE 8]>
+<script charset=“utf-8” type=“text/javascript” src=“//js.hsforms.net/forms/v2-legacy.js”></script>
+<![endif]-->
+<script charset=“utf-8" type=“text/javascript” src=“//js.hsforms.net/forms/v2.js”></script>
+<script>
+ hbspt.forms.create({
+   portalId: ‘3042464’,
+   formId: ‘f349ca1c-4000-4a8a-ace5-fb4c95b10410’
+ });
+</script>
+
+
 ### What happens at SoCraTes?
 
 The gathering runs from **Thursday 7th June** to **Sunday 10th June, 2018**.
