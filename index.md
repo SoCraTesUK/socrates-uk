@@ -14,7 +14,11 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 ### Registration and Price Information
 
-Ticket details for SoCraTes UK 2018 will be published soon.
+Add yourself to the Socrates UK 2018 Waiting List to get the opportunity to purchase either a Single Room or Twin Room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend. We’re aiming to release tickets to the Waiting List in February, so keep an eye out for our announcement email and on Twitter via @SocratesUK
+
+Note: We will be reserving 20% of tickets for attendees travelling from outside the UK.
+
+[Click here to add yourself to the Waiting List][WaitingList]
 
 ### What happens at SoCraTes?
 
@@ -166,3 +170,4 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 [SoCraTes Day Chile]: https://www.socrates-conference.cl/
 [JS CraftCamp]: http://jscraftcamp.org/
 [Software Craftsmanship London]: http://www.sc-london.com
+[WaitingList]: https://info.codurance.com/socrates-2018-waiting-list-sign-up
