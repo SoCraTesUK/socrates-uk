@@ -140,7 +140,7 @@ SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsm
 * [SoCraTes Switzerland][] / 15th-18th March 2018, Ftan, Switzerland
 * [SoCraTes Canaries][] / 12th-15th April 2018, Las Palmas, Gran Canaria, Spain
 * [I T.A.K.E. Unconference][] / 7th-8th June 2018, Bucharest, Romania
-* [SoCraTes Italy][] /  tbc
+* [SoCraTes Italy][] /  24th-26th May 2018, Rimini, Italy
 * [SoCraTes Day Chile][] / 6th June 2018, Santiago de Chile, Chile
 * [JS CraftCamp][] / tbc, Munich, Germany
 * [SoCraTes Germany][] / tbc, Soltau, Germany
