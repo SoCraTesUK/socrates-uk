@@ -14,11 +14,13 @@ Like its [counterpart in Germany][SoCraTes Germany], SoCraTes UK is totally comm
 
 ### Registration and Price Information
 
-Add yourself to the Socrates UK 2018 Waiting List to get the opportunity to purchase either a Single Room or Twin Room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend. We’re aiming to release tickets to the Waiting List in February, so keep an eye out for our announcement email and on Twitter via [@SoCraTes_UK][@socrates_uk]
+Add yourself to the Socrates UK 2018 Waiting List to get the opportunity to purchase either a Single Room or Twin Room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend. We’re aiming to release tickets to the Waiting List early March, so keep an eye out for our announcement email and on Twitter via [@SoCraTes_UK][@socrates_uk]
 
 Note: We will be reserving 20% of tickets for attendees travelling from outside the UK.
 
-[Click here to add yourself to the Waiting List][WaitingList]
+<div style="margin-top:40px;">
+  <a href="https://info.codurance.com/socrates-2018-waiting-list-sign-up" class="btn btn-primary btn-lg">Add yourself to the Waiting List</a>
+</div>
 
 ### What happens at SoCraTes?
 
