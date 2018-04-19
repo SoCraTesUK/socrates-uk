@@ -4,5 +4,6 @@
 *.iml
 *.swp
 *.log
+.DS_Store
 .bundle
 rvm.sh
