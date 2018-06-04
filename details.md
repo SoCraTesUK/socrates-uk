@@ -61,6 +61,13 @@ Check outs must be finished ***on Sunday 10 June before 11am. Late check outs ar
 
 <br>
 
+### Timetable 
+
+ <div class="row">
+     {% include timetable.html %}
+ </div>
+
+
 ### Location and how to get there
 
 <iframe class="pull-left thumbnail location-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d587.8782668326655!2d-0.3960782!3d51.210842!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x9b7aa884271af6b5!2sWotton+House!5e1!3m2!1sen!2suk!4v1452193759753" width="450" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
