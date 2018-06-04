@@ -50,3 +50,9 @@ body {
     max-height: 150px;
     margin-bottom: 30px;
 }
+
+.grid-title {
+	background-color: navy;
+	color: white;
+	font-style: bold;
+}
