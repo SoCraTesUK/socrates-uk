@@ -56,3 +56,7 @@ body {
 	color: white;
 	font-style: bold;
 }
+
+.grid-line {
+	margin-top: 5px;
+}
