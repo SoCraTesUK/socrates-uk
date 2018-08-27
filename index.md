@@ -129,12 +129,6 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 <br>
 
-### Inspiration
-
-SoCraTes UK was inspired by [SoCraTes Germany][], our favourite Software Craftsmanship conference.
-
-<br>
-
 ### All Partner Conferences
 
 * [CodeFreeze][] / 15th-17th Jan 2018, Kiilopää, Finland
