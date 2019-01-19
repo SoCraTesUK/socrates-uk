@@ -14,7 +14,7 @@ SoCraTes UK is totally community-focused. It's a great opportunity to speak to a
 
 ### Registration and Price Information
 
-The details of SoCraTes UK 2019 are currently being worked out. Once the date and price has been confirmed, you will be able add yourself to the Waiting List to get the opportunity to purchase either a Single Room or Twin Room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend.
+The details of SoCraTes UK 2019 are currently being worked out. Once the date and price has been confirmed, you will be able add yourself to the waiting list to get the opportunity to purchase either a single room or twin room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend.
 
 Further updates will be released shortly, so keep an eye out for our announcement on Twitter via [@SoCraTes_UK][@socrates_uk].
 
