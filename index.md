@@ -4,6 +4,12 @@ name: Home
 title: Home
 ---
 
+### SoCraTes UK 2019 Details
+
+<em>We are working hard to finalised the details of SoCraTes UK 2019. The dates still need to be finalised, but the event is expected to take place at [Wotton House, Surrey][WottonHouse] in early **June 2019**.</em>
+
+<em>More information to follow soon.</em>
+
 ### What is SoCraTes?
 
 SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by [Codurance][Codurance] and the [London Software Craftsmanship Community][LSCC] (LSCC), the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
@@ -23,7 +29,7 @@ Note: We will be reserving 20% of tickets for attendees travelling from outside 
 
 ### What happens at SoCraTes?
 
-The gathering runs from over 4 days during a week in **June**, attendees arriving on **Thursday** and departing on **Sunday**.
+The gathering runs for 4 days during a week in **June**, attendees arriving on **Thursday** and departing on **Sunday**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -31,7 +37,7 @@ On Friday and Saturday, we'll run an **open space**, in which every attendee is 
 
 On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
 
-On **Sunday 10th**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
+On **Sunday**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 <div class="conference-photogrid">
 	<div class="row">
