@@ -23,7 +23,7 @@ Note: We will be reserving 20% of tickets for attendees travelling from outside 
 
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 7th June** to **Sunday 10th June, 2018**.
+The gathering runs from over 4 days during a week in **June**, attendees arriving on **Thursday** and departing on **Sunday**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -72,7 +72,7 @@ SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2018.
+The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2019.
 
 [Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
 
