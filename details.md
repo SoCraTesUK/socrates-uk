@@ -23,10 +23,10 @@ Eventbrite will be used for registration, with an up-front **non-refundable depo
 
 The final balance, which includes the deposit, will be settled upon checking out of the hotel.
 
-We are also looking to secure **sponsorship** which will go directly towards bringing the ticket costs down. If you are interested in sponsoring SoCraTes UK, take a look at the [Sponsorship page][Sponsorship] and [please get in touch][socratesuk@codurance.com].
+We are also looking to secure **sponsorship** which will go directly towards bringing the ticket costs down. If you are interested in sponsoring SoCraTes UK, take a look at the [Sponsorship page][Sponsorship] and [please get in touch][socratesuk-info@googlegroups.com].
 
 [Sponsorship]: sponsorship.html
-[socratesuk@codurance.com]: mailto:socratesuk@codurance.com
+[socratesuk-info@googlegroups.com]: mailto:socratesuk-info@googlegroups.com
 
 <br>
 
