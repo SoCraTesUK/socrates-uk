@@ -55,15 +55,7 @@ Check ins will start on ***Thursday after 2pm***. SoCraTes UK 2019 will start at
 #### Check outs:
 Check outs must be finished ***on Sunday before 11am. Late check outs are chargeable at £10.00 per hour***.
 
-
 <br>
-
-### Timetable 
-
- <div class="row">
-     {% include timetable.html %}
- </div>
-
 
 ### Location and how to get there
 
