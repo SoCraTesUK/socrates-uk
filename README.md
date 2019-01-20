@@ -1,6 +1,6 @@
-# SoCraTes UK - 2013
+# SoCraTes UK - 2019
 --------------------
 
-[![Join the chat at https://gitter.im/lscc/socrates-uk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lscc/socrates-uk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Join the conversation in #socratesuk and #socratesukorg on [Slack](http://slack.softwarecrafters.org/).
 
-Conference organised by the [London Software Craftsmanship Community - LSCC](http://www.londonswcraft.com)
+Conference organised by the [Software Crafters Community](https://www.softwarecrafters.org/).
