@@ -32,10 +32,9 @@ We are also looking to secure **sponsorship** which will go directly towards bri
 
 ### Accommodation
 
-There are twin and single rooms, all with en-suite facilities. The cost, without sponsorship discounts, will be:
-<p>1. Thu 7 June to Sun 10 June (3 nights) – Single room: £250.00 non-refundable deposit + £207.50 (paid on checkout)</p>
-<p>2. Thu 7 June to Sun 10 June (3 nights) – Twin room: £250.00 non-refundable deposit + £177.5 (paid on checkout)</p>
-(Please note that Eventbrite fees apply)
+There are twin and single rooms, all with en-suite facilities.
+
+<em>We will update with more information about the costs as soon as possible.</em>
 
 The hotel booking includes breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks are **not** included.
 
