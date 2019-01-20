@@ -176,4 +176,3 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 [SoCraTes Day Chile]: https://www.socrates-conference.cl/
 [JS CraftCamp]: http://jscraftcamp.org/
 [Software Craftsmanship London]: http://www.sc-london.com
-[WaitingList]: https://info.codurance.com/socrates-2018-waiting-list-sign-up
