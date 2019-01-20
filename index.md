@@ -14,12 +14,13 @@ SoCraTes UK is totally community-focused. It's a great opportunity to speak to a
 
 ### Registration and Price Information
 
-Add yourself to the Socrates UK 2018 Waiting List to get the opportunity to purchase either a Single Room or Twin Room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend. We’re aiming to release tickets to the Waiting List early March, so keep an eye out for our announcement email and on Twitter via [@SoCraTes_UK][@socrates_uk]
+The details of SoCraTes UK 2019 are currently being worked out. Once the date and price has been confirmed, you will be able add yourself to the waiting list to get the opportunity to purchase either a single room or twin room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend.
+
+Further updates will be released shortly, so keep an eye out for our announcement on Twitter via [@SoCraTes_UK][@socrates_uk].
 
 Note: We will be reserving 20% of tickets for attendees travelling from outside the UK.
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.co.uk/tickets-external?eid=42455011081&ref=etckt" frameborder="0" height="710" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
-
+<br>
 
 ### What happens at SoCraTes?
 
