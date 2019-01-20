@@ -12,7 +12,7 @@ title: Home
 
 ### What is SoCraTes?
 
-SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by [Codurance][Codurance] and the [London Software Craftsmanship Community][LSCC] (LSCC), the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
+SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][], the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
 
 SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse].
 
@@ -110,6 +110,7 @@ More information regarding accommodation can be found on the [Details page][Deta
 	</div>
 </div>
 
+[Software Crafters Community]: https://www.softwarecrafters.org/
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
 [WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/
 [WottonGoogleMaps]: https://www.google.co.uk/maps/place/Wotton+House/@51.210842,-0.3960782,135m/data=!3m1!1e3!4m7!1m4!3m3!1s0x0:0x0!2zNTHCsDEyJzM5LjIiTiAwwrAyMyc0NC42Ilc!3b1!3m1!1s0x0000000000000000:0x9b7aa884271af6b5!6m1!1e1?hl=en
@@ -117,8 +118,11 @@ More information regarding accommodation can be found on the [Details page][Deta
 
 ### Who are the organisers?
 
-SoCraTes UK is organised by [Codurance][Codurance] and the people behind the [London Software Craftsmanship Community][LSCC].
+In 2019, SoCraTes UK will be run group of volunteers from the [Software Crafters Community][].
 
+Previous events were organised by [Codurance][] and the people behind the [London Software Craftsmanship Community][LSCC].
+
+[Software Crafters Community]: https://www.softwarecrafters.org/
 [Codurance]: http://www.codurance.com
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
 
