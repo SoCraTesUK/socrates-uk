@@ -4,11 +4,7 @@ name: Home
 title: Home
 ---
 
-### SoCraTes UK 2019 Details
-
-<em>We are working hard to finalised the details of SoCraTes UK 2019. The dates still need to be finalised, but the event is expected to take place at [Wotton House, Surrey][WottonHouse] in early **June 2019**.</em>
-
-<em>More information to follow soon.</em>
+{% include newsletter.html %}
 
 ### What is SoCraTes?
 
