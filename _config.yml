@@ -12,6 +12,4 @@ sponsors:
     url: https://www.mdsol.com/en
     logo: Medidata_Logo_PNG.png  
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+markdown: kramdown
