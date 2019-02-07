@@ -14,7 +14,7 @@ body {
 }
 
 .organisers-aside {
-		margin: 75px 0px;
+	margin: 75px 0px;
 }
 
 .jumbotron .socrates-brand {
@@ -23,7 +23,7 @@ body {
 
 .jumbotron .socrates-logo {
 	max-height: 250px;
-  margin: auto;
+	margin: auto;
 }
 
 .conference-photogrid, .conference-location-images {
@@ -59,4 +59,8 @@ body {
 
 .grid-line {
 	margin-top: 5px;
+}
+
+.newsletter label {
+	font-size: 16px;
 }
