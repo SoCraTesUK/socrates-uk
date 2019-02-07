@@ -138,16 +138,17 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 ### All Partner Conferences
 
-* [CodeFreeze][] / 15th-17th Jan 2018, Kiilopää, Finland
-* [SoCraTes Switzerland][] / 15th-18th March 2018, Ftan, Switzerland
-* [SoCraTes Canaries][] / 12th-15th April 2018, Las Palmas, Gran Canaria, Spain
-* [I T.A.K.E. Unconference][] / 7th-8th June 2018, Bucharest, Romania
-* [SoCraTes Italy][] /  24th-26th May 2018, Rimini, Italy
-* [SoCraTes Day Chile][] / 6th June 2018, Santiago de Chile, Chile
+
+* [CodeFreeze][] / 5th-12th Jan 2019, Kiilopää, Finland
+* [SoCraTes Switzerland][] / 28th-31st March 2019, Ftan, Switzerland
+* [SoCraTes Canaries][] / 25th-28th April 2019, Las Palmas, Gran Canaria, Spain
+* [I T.A.K.E. Unconference][] / 30th-31th May 2019, Bucharest, Romania
+* [SoCraTes Italy][] / tbc, Rimini, Italy
+* [SoCraTes Day Chile][] / tbc, Santiago de Chile, Chile
 * [JS CraftCamp][] / tbc, Munich, Germany
-* [SoCraTes Germany][] / tbc, Soltau, Germany
+* [SoCraTes Germany][] / 22nd-25th Aug 2019, Soltau, Germany
 * [SoCraTes Day Zurich][] / tbc, Zürich, Switzerland
-* [Software Craftsmanship London][] / 4th-5th October 2018, London, UK
+* [Software Craftsmanship London][] / 3rd-4th Oct 2019, London, UK
 * [SoCraTes France][] / tbc, Rochegude, France
 * [SoCraTes BE][] / tbc, Tournai, Belgium
 
@@ -171,4 +172,4 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 [SoCraTes Italy]: http://socrates-it.github.io/
 [SoCraTes Day Chile]: https://www.socrates-conference.cl/
 [JS CraftCamp]: http://jscraftcamp.org/
-[Software Craftsmanship London]: http://www.sc-london.com
+[Software Craftsmanship London]: https://sc-london.com/
