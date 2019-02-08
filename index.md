@@ -8,7 +8,7 @@ title: Home
 
 ### What is SoCraTes?
 
-SoCraTes UK is a non-profit, **international Software Craftsmanship retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][], the conference attracts Software Craftsmanship thought leaders and software craftspeople from all over the world.
+SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][], the conference attracts thought leaders and software craftspeople from all over the world.
 
 SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse].
 
@@ -61,15 +61,15 @@ SoCraTes UK is designed to encourage the participation of all attendees via codi
 
 SoCraTes UK is run in an **unconference** style. Organised sessions start at 9am and finish at 6pm. However, since this is an unconference, attendees are free to carry on until whenever they like, and run or attend whichever sessions they choose. Expect **workshops**, **talks**, **group discussions** and **demonstrations** from morning 'til night.
 
-As it's an unconference, it's *you* and people like you who will be organising the sessions. You won't just learn, you'll also teach. Anyone who is passionate about software, aware or involved in Software Craftsmanship, and who wants to share their knowledge, experience, expertise, but is also willing and keen to learn from others, should come.
+As it's an unconference, it's *you* and people like you who will be organising the sessions. You won't just learn, you'll also teach. Anyone who is passionate about software, aware or involved in Software Craft, and who wants to share their knowledge, experience, expertise, but is also willing and keen to learn from others, should come.
 
-Besides talking about software and writing code, we also have evening events (organised by the participants), ranging from pair-programming sessions and workshops to more **social events**, such as gaming, music and drinks. Bring along your guitars and saxophones, your board games and packs of cards, and bone up on the rules to Werewolf. And expect to have philosophical discussions on craftsmanship as you play.
+Besides talking about software and writing code, we also have evening events (organised by the participants), ranging from pair-programming sessions and workshops to more **social events**, such as gaming, music and drinks. Bring along your guitars and saxophones, your board games and packs of cards, and bone up on the rules to Werewolf. And expect to have philosophical discussions about the software industry as you play.
 
 Since we are all in the same hotel, we have a lot of time to spend together. Conversations and coding activities can go for **as long as you want**. Sessions will take place in proper rooms with projectors, tables, and chairs, but also wherever people congregate—last year, people spent a lot of time outside in the garden, enjoying the weather and the beautiful landscape as they discussed the intricacies of software development.
 
 If the English weather allows it, we will spend some time on Sunday morning walking along the beautiful English countryside, discussing what we've learnt, reflecting on the past few days and relaxing before heading back to the real world.
 
-SoCraTes UK is a **true Software Craftsmanship gathering**. Don't miss out.
+SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 
 <br>
 
