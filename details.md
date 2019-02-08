@@ -49,11 +49,11 @@ Buying a ticket for a twin room means that you are reserving **one** bed in a tw
 <br>
 
 #### Check ins:
-Check ins will start on ***Thursday after 2pm***. SoCraTes UK 2019 will start at 5pm, just before dinner.
+Check ins will start on ***Thursday 6th June after 2pm***. SoCraTes UK 2019 will start at 5pm, just before dinner.
 <br>
 
 #### Check outs:
-Check outs must be finished ***on Sunday before 11am. Late check outs are chargeable at £10.00 per hour***.
+Check outs must be finished ***on Sunday 9th June before 11am. Late check outs are chargeable at £10.00 per hour***.
 
 <br>
 

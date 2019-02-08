@@ -26,7 +26,7 @@ Note: We will be reserving 20% of tickets for attendees travelling from outside 
 
 ### What happens at SoCraTes?
 
-The gathering runs for 4 days during a week in **June**, attendees arriving on **Thursday** and departing on **Sunday**.
+The gathering runs from **Thursday 6th June** to **Sunday 9th June, 2018**.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
