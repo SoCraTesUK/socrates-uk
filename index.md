@@ -4,11 +4,13 @@ name: Home
 title: Home
 ---
 
+{% include_relative links.md %}
+
 {% include newsletter.html %}
 
 ### What is SoCraTes?
 
-SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][], the conference attracts thought leaders and software craftspeople from all over the world.
+SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][softwarecrafters], the conference attracts thought leaders and software craftspeople from all over the world.
 
 SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse].
 
@@ -18,7 +20,7 @@ SoCraTes UK is totally community-focused. It's a great opportunity to speak to a
 
 The details of SoCraTes UK 2019 are currently being worked out. Once the date and price has been confirmed, you will be able add yourself to the waiting list to get the opportunity to purchase either a single room or twin room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend.
 
-Further updates will be released shortly, so keep an eye out for our announcement on Twitter via [@SoCraTes_UK][@socrates_uk].
+Further updates will be released shortly, so keep an eye out for our announcement on Twitter via [@SoCraTes_UK][twitter].
 
 Note: We will be reserving 20% of tickets for attendees travelling from outside the UK.
 
@@ -106,21 +108,11 @@ More information regarding accommodation can be found on the [Details page][Deta
 	</div>
 </div>
 
-[Software Crafters Community]: https://www.softwarecrafters.org/
-[LSCC]: http://www.meetup.com/london-software-craftsmanship/
-[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/
-[WottonGoogleMaps]: https://www.google.co.uk/maps/place/Wotton+House/@51.210842,-0.3960782,135m/data=!3m1!1e3!4m7!1m4!3m3!1s0x0:0x0!2zNTHCsDEyJzM5LjIiTiAwwrAyMyc0NC42Ilc!3b1!3m1!1s0x0000000000000000:0x9b7aa884271af6b5!6m1!1e1?hl=en
-[Details]: details.html
-
 ### Who are the organisers?
 
-In 2019, SoCraTes UK will be run group of volunteers from the [Software Crafters Community][].
+In 2019, SoCraTes UK will be run group of volunteers from the [Software Crafters Community][softwarecrafters].
 
 Previous events were organised by [Codurance][] and the people behind the [London Software Craftsmanship Community][LSCC].
-
-[Software Crafters Community]: https://www.softwarecrafters.org/
-[Codurance]: http://www.codurance.com
-[LSCC]: http://www.meetup.com/london-software-craftsmanship/
 
 <br>
 
@@ -138,7 +130,6 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 
 ### All Partner Conferences
 
-
 * [CodeFreeze][] / 5th-12th Jan 2019, Kiilopää, Finland
 * [SoCraTes Switzerland][] / 28th-31st March 2019, Ftan, Switzerland
 * [SoCraTes Canaries][] / 25th-28th April 2019, Las Palmas, Gran Canaria, Spain
@@ -153,23 +144,7 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 * [SoCraTes BE][] / tbc, Tournai, Belgium
 
 
-
 <div style="margin-top:40px;">
   <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</a>
 </div>
 
-[@socrates_uk]: https://twitter.com/socrates_uk
-[SoCraTes Germany]: http://www.socrates-conference.de/
-[Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
-[Conference Code of Conduct]: http://confcodeofconduct.com/
-[CodeFreeze]: http://www.codefreeze.fi/
-[SoCraTes Canaries]: https://socracan.com/
-[I T.A.K.E. Unconference]: http://itakeunconf.com/
-[SoCraTes Switzerland]: http://www.socrates-ch.org/
-[SoCraTes Day Zurich]: http://socrates-day.ch/
-[SoCraTes France]: http://socrates-fr.github.io/
-[SoCraTes BE]: http://socratesbe.org/
-[SoCraTes Italy]: http://socrates-it.github.io/
-[SoCraTes Day Chile]: https://www.socrates-conference.cl/
-[JS CraftCamp]: http://jscraftcamp.org/
-[Software Craftsmanship London]: https://sc-london.com/
