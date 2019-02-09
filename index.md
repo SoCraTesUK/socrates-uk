@@ -108,14 +108,6 @@ More information regarding accommodation can be found on the [Details page][Deta
 	</div>
 </div>
 
-### Who are the organisers?
-
-In 2019, SoCraTes UK will be run group of volunteers from the [Software Crafters Community][softwarecrafters].
-
-Previous events were organised by [Codurance][] and the people behind the [London Software Craftsmanship Community][LSCC].
-
-<br>
-
 ### All Partner Conferences
 
 * [CodeFreeze][] / 5th-12th Jan 2019, Kiilopää, Finland
