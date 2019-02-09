@@ -123,8 +123,3 @@ More information regarding accommodation can be found on the [Details page][Deta
 * [SoCraTes France][] / tbc, Rochegude, France
 * [SoCraTes BE][] / tbc, Tournai, Belgium
 
-
-<div style="margin-top:40px;">
-  <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</a>
-</div>
-
