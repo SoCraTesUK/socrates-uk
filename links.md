@@ -13,7 +13,6 @@
 [SoCraTes Germany]: http://www.socrates-conference.de/
 [socrates_de_values]: https://www.socrates-conference.de/values
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
-[Conference Code of Conduct]: http://confcodeofconduct.com/
 [CodeFreeze]: http://www.codefreeze.fi/
 [SoCraTes Canaries]: https://socracan.com/
 [I T.A.K.E. Unconference]: http://itakeunconf.com/

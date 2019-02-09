@@ -116,18 +116,6 @@ Previous events were organised by [Codurance][] and the people behind the [Londo
 
 <br>
 
-### Conference Code of Conduct
-
-SoCraTes UK follows the [Conference Code of Conduct][] laid out by several conference organisers around the globe. We ask that you read [the full version][Conference Code of Conduct] before attending. You are required to cooperate with the code throughout the event to help ensure a safe environment for everybody.
-
-#### The Quick Version
-
-<div class = "well">
-	<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <strong>without a refund</strong> at the discretion of the conference organisers.
-</div>
-
-<br>
-
 ### All Partner Conferences
 
 * [CodeFreeze][] / 5th-12th Jan 2019, Kiilopää, Finland
