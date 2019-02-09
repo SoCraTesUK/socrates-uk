@@ -6,7 +6,7 @@ title: Code Of Conduct
 
 {% include_relative links.md %}
 
-### Code of Conduct
+## Code of Conduct
 
 Please read our full code of conduct before buying a ticket, discussing online and before coming to 
 the conference. But please don’t feel intimidated by it—these are simple rules, and they will make 
