@@ -57,9 +57,13 @@ SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 
 You can find all information about the location [here][location] 
 
+<br>
+
 ### Where can I get a ticket?
 
 You can find all information about tickets [here][tickets_page]
+
+<br>
 
 ### Are there any other SoCraTes?
 

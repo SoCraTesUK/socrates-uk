@@ -16,6 +16,7 @@ Food that respects your dietary preferences will be provided Thursday dinner til
 
 The venue has amazing grounds to relax and wander in and boast a gym, sauna, steam room, indoor pool, jacuzzi and tennis court if you fancy.
 
+<br>
 
 ### How much does it cost?
 
@@ -53,6 +54,8 @@ be deducted at checkout.
 	<p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> <br /><br />If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place.<br /><br /> <strong>You will be liable for paying the remaining amount to the hotel during check out </strong>— you will have a room booked in your name.</p>
 </div>
 
+<br>
+
 ### What are those twin rooms?
 Twin rooms have two beds in them and you share the room with someone else. The price of the room is slightly reduced.
 
@@ -60,25 +63,37 @@ Twin rooms will be made available on a first come first served basis, after the 
 
 Before the event, you can either provide the name of a roommate that also registered with the event or we will find one for you. For this purpose, we will enable buying two twin room tickets at the same time.
 
+<br>
+
 ### What if I don’t know anyone in the crafter community?
 A new group can be intimidating, but we hope you give SoCraTes a try. One of our organisers joined his first SoCraTes last year and felt that the atmosphere was very open to people that haven’t been there before. In addition, we are hoping to provide some [Conference Buddies][conference_buddies] so you can attend together.
+
+<br>
 
 ### What should I know before I add myself to the waiting list?
 By booking, you agree to follow our [Code of Conduct][coc_page]. Please read our full code of conduct before buying a ticket, discussing online and before coming to the event. But please don't feel intimidated by it - these are simple rules, and they will make life better for everyone at the event.
 
 We have some priority tickets reserved for international guests and for people of under-indexed groups in tech. Fill in [this form][priority_ticket_form] to signal that your part of either/both groups. We trust that you know best if either/both applies to you.
 
+<br>
+
 ### Where is the waiting list?
 
 We will link here to the waiting list as soon as the event is live on eventbrite.
+
+<br>
 
 ### When can I Check in?
 
 Check ins will start on ***Thursday 6th June after 2pm***. SoCraTes UK 2019 will start at 5pm, just before dinner.
 
+<br>
+
 ### When do I need to check out?
 
 Check outs must be finished ***on Sunday 9th June before 11am. Late check outs are chargeable at £10.00 per hour***.
+
+<br>
 
 ### What if I have more questions?
 If you have any other questions please [contact us directly][contact].

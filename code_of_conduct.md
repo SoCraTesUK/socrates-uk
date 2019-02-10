@@ -16,11 +16,15 @@ life better for everyone at the conference.
 
 A goal of SoCraTes conference is to be inclusive and welcoming to attendees with the most varied and diverse backgrounds possible.
 
+<br>
+
 ### Why we have a CoC
 
 We are dedicated to create a conference where everybody can learn, teach, share, network and have a good time. This can only work if we are inclusive to the largest number of contributors, and if we create an environment, where everybody feels safe and welcome.
 Yes, we value discussion and disagreement. And discussion can become heated. But there have to be rules, and there has to be a red line.
 In this code of conduct, we lay out those rules and red lines.
+
+<br>
 
 ### Safe Environment
 
@@ -34,6 +38,8 @@ And so we invite all those who participate in SoCraTes, and the community surrou
  * Be careful with jokes. We do not tolerate any CoC violations, even if “it was just a joke”.
  * Admit when you do not know something. Encourage others to admit when they do not know something—and never joke about it. We are all here to learn.
  * To get the most out of the conference, we recommend limiting your alcohol consumption to the evenings and nights. Be aware that there might be other guests in the venue who will be consuming during the day, especially if there is a wedding on. However, we can create alcohol free spaces if needed, please contact us!
+
+<br>
 
 ### CoC Violations
 
@@ -50,6 +56,8 @@ When we learn about a CoC violations, organizers will hear both sides, and then 
  * Expel the perpetrator from the conference without a refund (requires two organizers to agree, if this was the first offence)
  * Call the authorities
 
+<br>
+
 ### Unacceptable Behaviour
 
 Unacceptable behaviour includes, but is not limited to:
@@ -60,6 +68,8 @@ Unacceptable behaviour includes, but is not limited to:
  * Publishing or telling others, that a participant belongs to a particular identity channel without asking their consent first.
  * “Well-actuallies”: Telling people what they “actually meant to say”.
  * Other conduct which could reasonably be considered inappropriate in a professional setting.
+
+<br>
 
 ### Need Help
 
@@ -73,11 +83,15 @@ If you need help, have any further questions or have any other concerns, please 
 
 This code of conduct applies to the SoCraTes conference itself, and to all digital spaces that are related to the SoCraTes conference, such as the wiki and mailing list.
 
+<br>
+
 ### Credits
 
 These values are inspired by the following works.
 
  * [SoCraTes Germany Code of Conduct][socrates_de_values]
+
+<br>
 
 ### What if I have more questions?
 If you have any other questions please [contact us directly][contact].
