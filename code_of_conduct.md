@@ -79,9 +79,6 @@ These values are inspired by the following works.
 
  * [SoCraTes Germany Code of Conduct][socrates_de_values]
 
-### Further Questions?
-
- * Contact us on email [socratesuk-info@googlegroups.com][infomail]
- * Contact us in twitter [@SoCraTes_UK][twitter] (send a direct message)
- * Ask in the channel #socratesuk on the [Software Crafters Slack][softwarecrafters]
+### What if I have more questions?
+If you have any other questions please [contact us directly][contact].
  
