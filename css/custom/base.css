@@ -64,3 +64,21 @@ body {
 .newsletter label {
 	font-size: 16px;
 }
+
+.sponsorship h2, h3 {
+	margin-top: 5px;
+}
+
+.sponsorship > tbody > tr > td {
+	text-align: center;
+	vertical-align: middle;
+}
+.sponsorship > thead > tr > th {
+	width: 25%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.sponsorship-panel {
+	min-height: 565px;
+}
