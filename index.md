@@ -14,19 +14,9 @@ SoCraTes UK is totally community-focused. It's a great opportunity to speak to a
 
 <br>
 
-### Registration and Price Information
-
-The details of SoCraTes UK 2019 are currently being worked out. Once the date and price has been confirmed, you will be able add yourself to the waiting list to get the opportunity to purchase either a single room or twin room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend.
-
-Further updates will be released shortly, so keep an eye out for our announcement on Twitter via [@SoCraTes_UK][twitter].
-
-Note: We will be reserving 20% of tickets for attendees travelling from outside the UK.
-
-<br>
-
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 6th June** to **Sunday 9th June, 2018**.
+The gathering runs from over the course of a weekend from Thursday afternoon to Sunday morning.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -59,8 +49,6 @@ Besides talking about software and writing code, we also have evening events (or
 
 Since we are all in the same hotel, we have a lot of time to spend together. Conversations and coding activities can go for **as long as you want**. Sessions will take place in proper rooms with projectors, tables, and chairs, but also wherever people congregate—last year, people spent a lot of time outside in the garden, enjoying the weather and the beautiful landscape as they discussed the intricacies of software development.
 
-If the English weather allows it, we will spend some time on Sunday morning walking along the beautiful English countryside, discussing what we've learnt, reflecting on the past few days and relaxing before heading back to the real world.
-
 SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 
 <br>
@@ -68,6 +56,10 @@ SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 ### Where is it taking place?
 
 You can find all information about the location [here][location] 
+
+### Where can I get a ticket?
+
+You can find all information about tickets [here][tickets_page]
 
 ### Are there any other SoCraTes?
 
