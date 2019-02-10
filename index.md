@@ -10,7 +10,7 @@ title: Home
 
 SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][softwarecrafters], the conference attracts thought leaders and software craftspeople from all over the world.
 
-SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse].
+SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful setting.
 
 <br>
 
