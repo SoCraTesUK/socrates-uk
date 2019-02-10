@@ -18,8 +18,6 @@ Please check [Wotton House Google Maps location][WottonGoogleMaps] to ensure you
 
 Free parking is available.
 
-More information regarding accommodation can be found on the [Details page][Details].
-
 <div class="conference-location-images">
 	<div class="row">
 		<div class="col-md-6">

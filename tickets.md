@@ -1,7 +1,7 @@
 ---
 layout: page
-name: Details
-title: Details
+name: Tickets
+title: Tickets
 ---
 
 ### Preparation
