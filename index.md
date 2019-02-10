@@ -4,29 +4,24 @@ name: Home
 title: Home
 ---
 
-{% include newsletter.html %}
+{% include_relative links.md %}
 
 ### What is SoCraTes?
 
-SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][], the conference attracts thought leaders and software craftspeople from all over the world.
+SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded crafters 
+who want to improve their craft and the software industry as a whole. Organised by a group of volunteers 
+from the [Software Crafters Community][softwarecrafters], the conference attracts thought leaders
+and software crafters from all over the world.
 
-SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful [hotel Wotton House, Surrey][WottonHouse].
+SoCraTes UK is totally community-focused. It's a great opportunity to speak to and code with many like-minded and talented developers in a very relaxed and beautiful setting.
 
-<br>
-
-### Registration and Price Information
-
-The details of SoCraTes UK 2019 are currently being worked out. Once the date and price has been confirmed, you will be able add yourself to the waiting list to get the opportunity to purchase either a single room or twin room ticket. Please note that tickets will be allocated on a random basis to ensure that as many people as possible will have the opportunity to attend.
-
-Further updates will be released shortly, so keep an eye out for our announcement on Twitter via [@SoCraTes_UK][@socrates_uk].
-
-Note: We will be reserving 20% of tickets for attendees travelling from outside the UK.
+Make sure to follow us on [Twitter][twitter] and check out last years [#SoCraTesUK][twitter_socrates_hashtag] hashtag!
 
 <br>
 
 ### What happens at SoCraTes?
 
-The gathering runs from **Thursday 6th June** to **Sunday 9th June, 2018**.
+The gathering runs from over the course of a weekend from Thursday afternoon to Sunday morning.
 
 We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
 
@@ -37,14 +32,6 @@ On Friday and Saturday evenings, attendees are encouraged to run social activiti
 On **Sunday**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
 
 <div class="conference-photogrid">
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
 	<div class="row">
 		<div class="col-md-6">
 			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
@@ -67,77 +54,25 @@ Besides talking about software and writing code, we also have evening events (or
 
 Since we are all in the same hotel, we have a lot of time to spend together. Conversations and coding activities can go for **as long as you want**. Sessions will take place in proper rooms with projectors, tables, and chairs, but also wherever people congregate—last year, people spent a lot of time outside in the garden, enjoying the weather and the beautiful landscape as they discussed the intricacies of software development.
 
-If the English weather allows it, we will spend some time on Sunday morning walking along the beautiful English countryside, discussing what we've learnt, reflecting on the past few days and relaxing before heading back to the real world.
-
 SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 
 <br>
 
 ### Where is it taking place?
 
-The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2019.
-
-[Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
-
-The nearest train station is Dorking, 4 miles away.
-
-Please check [Wotton House Google Maps location][WottonGoogleMaps] to ensure you get to the hotel correctly.
-
-Free parking is available.
-
-More information regarding accommodation can be found on the [Details page][Details].
-
-<div class="conference-location-images">
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton8.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton11.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-</div>
-
-[Software Crafters Community]: https://www.softwarecrafters.org/
-[LSCC]: http://www.meetup.com/london-software-craftsmanship/
-[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/
-[WottonGoogleMaps]: https://www.google.co.uk/maps/place/Wotton+House/@51.210842,-0.3960782,135m/data=!3m1!1e3!4m7!1m4!3m3!1s0x0:0x0!2zNTHCsDEyJzM5LjIiTiAwwrAyMyc0NC42Ilc!3b1!3m1!1s0x0000000000000000:0x9b7aa884271af6b5!6m1!1e1?hl=en
-[Details]: details.html
-
-### Who are the organisers?
-
-In 2019, SoCraTes UK will be run group of volunteers from the [Software Crafters Community][].
-
-Previous events were organised by [Codurance][] and the people behind the [London Software Craftsmanship Community][LSCC].
-
-[Software Crafters Community]: https://www.softwarecrafters.org/
-[Codurance]: http://www.codurance.com
-[LSCC]: http://www.meetup.com/london-software-craftsmanship/
+You can find all information about the location [here][location] 
 
 <br>
 
-### Conference Code of Conduct
+### Where can I get a ticket?
 
-SoCraTes UK follows the [Conference Code of Conduct][] laid out by several conference organisers around the globe. We ask that you read [the full version][Conference Code of Conduct] before attending. You are required to cooperate with the code throughout the event to help ensure a safe environment for everybody.
-
-#### The Quick Version
-
-<div class = "well">
-	<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <strong>without a refund</strong> at the discretion of the conference organisers.
-</div>
+You can find all information about tickets [here][tickets_page]
 
 <br>
 
-### All Partner Conferences
+### Are there any other SoCraTes?
 
+Here is a list of partner events:
 
 * [CodeFreeze][] / 5th-12th Jan 2019, Kiilopää, Finland
 * [SoCraTes Switzerland][] / 28th-31st March 2019, Ftan, Switzerland
@@ -146,30 +81,11 @@ SoCraTes UK follows the [Conference Code of Conduct][] laid out by several confe
 * [SoCraTes Italy][] / tbc, Rimini, Italy
 * [SoCraTes Day Chile][] / tbc, Santiago de Chile, Chile
 * [JS CraftCamp][] / tbc, Munich, Germany
-* [SoCraTes Germany][] / 22nd-25th Aug 2019, Soltau, Germany
+* [SoCraTes Germany][socrates_de] / 22nd-25th Aug 2019, Soltau, Germany
+* [SoCraTes Day Berlin][socrates_day_berlin] / tbc, Berlin, Germany
 * [SoCraTes Day Zurich][] / tbc, Zürich, Switzerland
 * [Software Craftsmanship London][] / 3rd-4th Oct 2019, London, UK
 * [SoCraTes France][] / tbc, Rochegude, France
 * [SoCraTes BE][] / tbc, Tournai, Belgium
 
-
-
-<div style="margin-top:40px;">
-  <a href="/sponsorship.html" class="btn btn-primary btn-lg">Become a sponsor</a>
-</div>
-
-[@socrates_uk]: https://twitter.com/socrates_uk
-[SoCraTes Germany]: http://www.socrates-conference.de/
-[Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
-[Conference Code of Conduct]: http://confcodeofconduct.com/
-[CodeFreeze]: http://www.codefreeze.fi/
-[SoCraTes Canaries]: https://socracan.com/
-[I T.A.K.E. Unconference]: http://itakeunconf.com/
-[SoCraTes Switzerland]: http://www.socrates-ch.org/
-[SoCraTes Day Zurich]: http://socrates-day.ch/
-[SoCraTes France]: http://socrates-fr.github.io/
-[SoCraTes BE]: http://socratesbe.org/
-[SoCraTes Italy]: http://socrates-it.github.io/
-[SoCraTes Day Chile]: https://www.socrates-conference.cl/
-[JS CraftCamp]: http://jscraftcamp.org/
-[Software Craftsmanship London]: https://sc-london.com/
+{% include newsletter.html %}
