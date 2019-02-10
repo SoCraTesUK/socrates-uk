@@ -8,11 +8,17 @@
 
 [Details]: details.html
 [location]: location.html
+[contact]: contact.html
+[sponsorship_page]: sponsorship.html
+[coc_page]: codeofconduct.html
+[priority_ticket_form]: https://goo.gl/forms/VD5VnqxjAP4sPIwO2
 
 [Codurance]: http://www.codurance.com
+[conference_buddies]: https://www.conferencebuddy.io/
 
-[SoCraTes Germany]: http://www.socrates-conference.de/
+[socrates_de]: http://www.socrates-conference.de/
 [socrates_de_values]: https://www.socrates-conference.de/values
+[socrates_day_berlin]: http://www.socratesday.berlin/ 
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [CodeFreeze]: http://www.codefreeze.fi/
 [SoCraTes Canaries]: https://socracan.com/
