@@ -41,14 +41,6 @@ On **Sunday**, weather allowing, we will have a nice long walk around the beauti
 <div class="conference-photogrid">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/wotton/wotton3.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton7.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
 			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
 		</div>
 		<div class="col-md-6">
