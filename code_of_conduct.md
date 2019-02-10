@@ -12,13 +12,11 @@ Please read our full code of conduct before buying a ticket, discussing online a
 the conference. But please don’t feel intimidated by it—these are simple rules, and they will make 
 life better for everyone at the conference.
 
-### Inclusiveness
-
-A goal of SoCraTes conference is to be inclusive and welcoming to attendees with the most varied and diverse backgrounds possible.
-
 <br>
 
-### Why we have a CoC
+### Why do we have a CoC?
+
+A goal of SoCraTes conference is to be inclusive and welcoming to attendees with the most varied and diverse backgrounds possible.
 
 We are dedicated to create a conference where everybody can learn, teach, share, network and have a good time. This can only work if we are inclusive to the largest number of contributors, and if we create an environment, where everybody feels safe and welcome.
 Yes, we value discussion and disagreement. And discussion can become heated. But there have to be rules, and there has to be a red line.
