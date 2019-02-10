@@ -79,7 +79,9 @@ SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 
 You can find all information about the location [here][location] 
 
-### All Partner Conferences
+### Are there any other SoCraTes?
+
+Here is a list of partner events:
 
 * [CodeFreeze][] / 5th-12th Jan 2019, Kiilopää, Finland
 * [SoCraTes Switzerland][] / 28th-31st March 2019, Ftan, Switzerland
