@@ -77,36 +77,7 @@ SoCraTes UK is a **true Software Crafters gathering**. Don't miss out.
 
 ### Where is it taking place?
 
-The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2019.
-
-[Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
-
-The nearest train station is Dorking, 4 miles away.
-
-Please check [Wotton House Google Maps location][WottonGoogleMaps] to ensure you get to the hotel correctly.
-
-Free parking is available.
-
-More information regarding accommodation can be found on the [Details page][Details].
-
-<div class="conference-location-images">
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton5.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton9.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<img src="img/wotton/wotton8.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-		<div class="col-md-6">
-			<img src="img/wotton/wotton11.jpg" class="thumbnail img-responsive" alt="Wotton House Hotel"/>
-		</div>
-	</div>
-</div>
+You can find all information about the location [here][location] 
 
 ### All Partner Conferences
 
