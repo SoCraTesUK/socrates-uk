@@ -6,8 +6,6 @@ title: Home
 
 {% include_relative links.md %}
 
-{% include newsletter.html %}
-
 ### What is SoCraTes?
 
 SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded craftspeople who want to improve their craft and the software industry as a whole. Organised by a group of volunteers from the [Software Crafters Community][softwarecrafters], the conference attracts thought leaders and software craftspeople from all over the world.
@@ -88,3 +86,4 @@ Here is a list of partner events:
 * [SoCraTes France][] / tbc, Rochegude, France
 * [SoCraTes BE][] / tbc, Tournai, Belgium
 
+{% include newsletter.html %}
