@@ -41,7 +41,7 @@ Before the event, you can either provide the name of a roommate that also regist
 <br>
 
 ### What if I don’t know anyone in the crafter community?
-A new group can be intimidating, but we hope you give SoCraTes a try. The SoCraTes community prouds itself to be open and inclusive to everyone. In addition, we are hoping to provide some [Conference Buddies][conference_buddies] so you can attend together.
+A new group can be intimidating, but we hope you give SoCraTes a try. The SoCraTes community aims to be open and inclusive to everyone. In addition, we are hoping to provide some [Conference Buddies][conference_buddies] so you can attend together.
 
 <br>
 
