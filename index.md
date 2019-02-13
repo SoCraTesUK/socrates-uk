@@ -21,15 +21,15 @@ Make sure to follow us on [Twitter][twitter] and check out last years [#SoCraTes
 
 ### What happens at SoCraTes?
 
-The gathering runs from over the course of a weekend from Thursday afternoon to Sunday morning.
+The gathering runs over the course of a weekend from Thursday afternoon to Sunday morning.
 
-We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to continue the conversation, twist it around and branch it in every direction.
+We'll kick off Thursday evening with introductions, then we'll run a **group discussion**, talking about an issue relevant to all of us. After that, we'll have dinner together to either continue the conversation or talk about whatever you want.
 
 On Friday and Saturday, we'll run an **open space**, in which every attendee is welcome and encouraged to propose talks, discussions, workshops or whatever else they choose to further every attendee's knowledge and understanding of creating and maintaining software.
 
 On Friday and Saturday evenings, attendees are encouraged to run social activities, from pair-programming to board games and everything in between.
 
-On **Sunday**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities up and until people head home.
+On **Sunday**, weather allowing, we will have a nice long walk around the beautiful English countryside, or a code retreat, followed by lunch and informal activities until people head home.
 
 <div class="conference-photogrid">
 	<div class="row">
