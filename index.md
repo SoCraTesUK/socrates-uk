@@ -84,7 +84,6 @@ Here is a list of partner events:
 * [SoCraTes Germany][socrates_de] / 22nd-25th Aug 2019, Soltau, Germany
 * [SoCraTes Day Berlin][socrates_day_berlin] / tbc, Berlin, Germany
 * [SoCraTes Day Zurich][] / tbc, Zürich, Switzerland
-* [Software Craftsmanship London][] / 3rd-4th Oct 2019, London, UK
 * [SoCraTes France][] / tbc, Rochegude, France
 * [SoCraTes BE][] / tbc, Tournai, Belgium
 
