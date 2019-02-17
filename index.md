@@ -80,11 +80,14 @@ Here is a list of partner events:
 * [I T.A.K.E. Unconference][] / 30th-31th May 2019, Bucharest, Romania
 * [SoCraTes Italy][] / tbc, Rimini, Italy
 * [SoCraTes Day Chile][] / tbc, Santiago de Chile, Chile
-* [JS CraftCamp][] / tbc, Munich, Germany
+* [JS CraftCamp][] / 19th-20th July 2019, Munich, Germany
 * [SoCraTes Germany][socrates_de] / 22nd-25th Aug 2019, Soltau, Germany
 * [SoCraTes Day Berlin][socrates_day_berlin] / tbc, Berlin, Germany
 * [SoCraTes Day Zurich][] / tbc, Zürich, Switzerland
 * [SoCraTes France][] / tbc, Rochegude, France
 * [SoCraTes BE][] / tbc, Tournai, Belgium
+* [AgileCrete][agilecrete] / 5th - 7th September 2019, Kolymbari, Crete
+
+An always up to date list can also be found on [here][softwarecrafters]
 
 {% include newsletter.html %}
