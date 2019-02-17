@@ -32,7 +32,7 @@
 [SoCraTes Italy]: http://socrates-it.github.io/
 [SoCraTes Day Chile]: https://www.socrates-conference.cl/
 [JS CraftCamp]: http://jscraftcamp.org/
-[Software Craftsmanship London]: https://sc-london.com/
+[agilecrete]: https://agilecrete.org
 
 [National Rail]: http://www.nationalrail.co.uk/
 [National Express from airports]: http://www.nationalexpress.com/wherewego/airports/index.aspx
