@@ -78,7 +78,7 @@ Here is a list of partner events:
 * [SoCraTes Switzerland][] / 28th-31st March 2019, Ftan, Switzerland
 * [SoCraTes Canaries][] / 25th-28th April 2019, Las Palmas, Gran Canaria, Spain
 * [I T.A.K.E. Unconference][] / 30th-31th May 2019, Bucharest, Romania
-* [SoCraTes Italy][] / tbc, Rimini, Italy
+* [SoCraTes Italy][] /  2nd-4th May, Rimini, Italy
 * [SoCraTes Day Chile][] / tbc, Santiago de Chile, Chile
 * [JS CraftCamp][] / 19th-20th July 2019, Munich, Germany
 * [SoCraTes Germany][socrates_de] / 22nd-25th Aug 2019, Soltau, Germany
