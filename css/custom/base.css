@@ -14,7 +14,11 @@ body {
 }
 
 .organisers-aside {
-	margin: 75px 0px;
+	margin: 0 0;
+}
+
+.organisers-aside h3 {
+	margin-top: 5px;
 }
 
 .jumbotron .socrates-brand {
