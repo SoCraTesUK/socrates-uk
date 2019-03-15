@@ -14,7 +14,7 @@ the overall cost of attendance and in exchange, we provide exposure (and well de
 
 <br>
 
-### Why Sponsor SoCraTes UK?
+### Why sponsor SoCraTes UK?
 
 SoCraTes brings together a community of software professionals who care about creating high-quality, maintainable software, and want to work together to share and build on their skills.  
 As an unconference with no predetermined agenda, SoCraTes is created by its participants. As a result, it attracts highly engaged, collaborative practitioners, and encourages dense networks of ideas.  
