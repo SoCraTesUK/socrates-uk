@@ -62,7 +62,7 @@ T: +44 (0) 1306 730 000
 
 The best place to find out how to get there is [Wotton House's site][WottonHouse].
 
-[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/location/
+[WottonHouse]: https://www.ihg.com/spnd/hotels/us/en/guildford/guidw/hoteldetail
 
 The nearest station is Dorking station. It is 3-4 miles and 15 minutes’ drive away. A one way taxi should cost between £12 and £30 depending on traffic.
 
