@@ -62,8 +62,6 @@ T: +44 (0) 1306 730 000
 
 The best place to find out how to get there is [Wotton House's site][WottonHouse].
 
-[WottonHouse]: http://www.wottonhousedorkingsurrey.co.uk/location/
-
 The nearest station is Dorking station. It is 3-4 miles and 15 minutes’ drive away. A one way taxi should cost between £12 and £30 depending on traffic.
 
 Please check our wiki for the [local taxi companies][]. __Please note that most taxis near Dorking Station don’t accept cards and the only cash machine to withdraw the money at the station is usually out of service, so make sure you have cash on hand.__
