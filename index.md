@@ -43,8 +43,16 @@ On **Sunday**, weather allowing, we will have a nice long walk around the beauti
 				Photo by <a href="https://twitter.com/nelisboucke">Nelis Boucké</a>
 			</div>
 		</div>
-		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
+		<div class="col-md-6 thumbnail">
+			<img class="img-responsive"
+				src="img/2018/session.jpg"
+				alt="Example of a session: Introduction to Cobol"
+				title="Prepare to be surprised!"
+			>
+			<div class="caption">
+				Photo by <a href="https://twitter.com/isaacasensio">Isaac Asensio</a>,
+				Session by <a href="https://twitter.com/deniseyu21">Denise Yu</a>
+			</div>
 		</div>
 	</div>
 </div>
