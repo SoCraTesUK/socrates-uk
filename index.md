@@ -33,8 +33,15 @@ On **Sunday**, weather allowing, we will have a nice long walk around the beauti
 
 <div class="conference-photogrid">
 	<div class="row">
-		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
+		<div class="col-md-6 thumbnail">
+			<img class="img-responsive"
+				src="img/2018/marketplace.jpg"
+				alt="Building the marketplace: people queueing to present their sessions and fit it into the agenda"
+				title="Where the magic materialises"
+			>
+			<div class="caption">
+				Photo by <a href="https://twitter.com/nelisboucke">Nelis Boucké</a>
+			</div>
 		</div>
 		<div class="col-md-6">
 			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
