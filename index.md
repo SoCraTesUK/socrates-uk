@@ -55,7 +55,20 @@ On **Sunday**, weather allowing, we will have a nice long walk around the beauti
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-6 col-md-offset-3 thumbnail">
+			<img class="img-responsive"
+				src="img/2018/outdoors.jpg"
+				alt="Playing racket sport in the park outside the venue"
+				title="Letting off steam between sessions"
+			>
+			<div class="caption">
+				Photo by <a href="https://twitter.com/AmelieCornelis">Amélie Cornélis</a>
+			</div>
+		</div>
+	</div>
 </div>
+PS: If you have good pics to share, <a href="contact.html">let us know</a>!
 
 ### Why should I attend?
 
