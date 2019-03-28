@@ -33,14 +33,42 @@ On **Sunday**, weather allowing, we will have a nice long walk around the beauti
 
 <div class="conference-photogrid">
 	<div class="row">
-		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/sandroSession.jpg">
+		<div class="col-md-6 thumbnail">
+			<img class="img-responsive"
+				src="img/2018/marketplace.jpg"
+				alt="Building the marketplace: people queueing to present their sessions and fit it into the agenda"
+				title="Where the magic materialises"
+			>
+			<div class="caption">
+				Photo by <a href="https://twitter.com/nelisboucke">Nelis Boucké</a>
+			</div>
 		</div>
-		<div class="col-md-6">
-			<img class="img-responsive thumbnail" src="img/2014/outdoors.jpg">
+		<div class="col-md-6 thumbnail">
+			<img class="img-responsive"
+				src="img/2018/session.jpg"
+				alt="Example of a session: Introduction to Cobol"
+				title="Prepare to be surprised!"
+			>
+			<div class="caption">
+				Photo by <a href="https://twitter.com/isaacasensio">Isaac Asensio</a>,
+				Session by <a href="https://twitter.com/deniseyu21">Denise Yu</a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6 col-md-offset-3 thumbnail">
+			<img class="img-responsive"
+				src="img/2018/outdoors.jpg"
+				alt="Playing racket sport in the park outside the venue"
+				title="Letting off steam between sessions"
+			>
+			<div class="caption">
+				Photo by <a href="https://twitter.com/AmelieCornelis">Amélie Cornélis</a>
+			</div>
 		</div>
 	</div>
 </div>
+PS: If you have good pics to share, <a href="contact.html">let us know</a>!
 
 ### Why should I attend?
 
