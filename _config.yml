@@ -11,4 +11,8 @@ sponsors:
     url: https://www.zopa.com/
     logo: Zopa_Logo_PNG.png
 
+  - name: Runpath
+    url: https://www.runpath.com/
+    logo: runpath.png
+
 markdown: kramdown
