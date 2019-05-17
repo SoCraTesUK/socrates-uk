@@ -96,6 +96,44 @@ be deducted at checkout.
 
 <br>
 
+### Day Pass
+
+We also offer day passes for people who would like to join us on a specific day. You can choose from two different types of day pass. The regular one includes your participation on a particular day with refreshments and lunch. The second type includes also dinner. 
+
+<table class="table table-striped table-bordered table-condensed">
+  <thead>
+    <tr>
+      <th>Ticket Type</th>
+      <th>Included meals</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Friday Day Pass</td>
+      <td>Lunch</td>
+      <td>£45.90</td>
+    </tr>
+    <tr>
+      <td>Friday Day Pass with Dinner</td>
+      <td>Lunch and dinner</td>
+      <td>£75.21</td>
+    </tr>
+    <tr>
+      <td>Saturday Day Pass</td>
+      <td>Lunch</td>
+      <td>£45.90</td>
+    </tr>
+    <tr>
+      <td>Saturday Day Pass with Dinner</td>
+      <td>Lunch and dinner</td>
+      <td>£75.21</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ### What if I have more questions?
 If you have any other questions please [contact us directly][contact].
 
