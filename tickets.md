@@ -90,9 +90,9 @@ be deducted at checkout.
 
 <br>
 
-### Day Pass
+### What if you want to join us for a day?
 
-We also offer day passes for people who would like to join us on a specific day. You can choose from two different types of day pass. The regular one includes your participation on a particular day with refreshments and lunch. The second type includes also dinner. 
+We also offer **Day Passes** for people who would like to join us on a specific day. You can choose from two different types of day pass. The regular one includes your participation on a particular day with refreshments and lunch. The second type includes also dinner. 
 
 <table class="table table-striped table-bordered table-condensed">
   <thead>
