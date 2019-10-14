@@ -15,4 +15,8 @@ sponsors:
     url: https://www.runpath.com/
     logo: runpath.png
 
+event_details:
+  year: 2020
+  date: June TBD
+
 markdown: kramdown

@@ -1,4 +1,4 @@
-# SoCraTes UK - 2019
+# SoCraTes UK - 2020
 --------------------
 
 Join the conversation in #socratesuk and #socratesukorg on [Slack](http://slack.softwarecrafters.org/).
