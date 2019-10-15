@@ -24,4 +24,6 @@ By sponsoring SoCraTes, you can demonstrate that you share these values of colla
 
 ### Packages
 
-We are working to define the packages for SoCraTes UK 2020.
+We are working to define the packages for SoCraTes UK 2020. However, if you are
+keen to get involved in sponsoring the 2020 event, then please
+[send us an email to register interest][infomail]
