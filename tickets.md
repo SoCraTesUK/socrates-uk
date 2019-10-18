@@ -71,15 +71,15 @@ be deducted at checkout.
   <tbody>
     <tr>
       <td>Twin room (2 beds) <br> sharing with one other person</td>
-      <td>£267.09</td>
-      <td>Up to £200</td>
-      <td>Up to £467.09</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>Regular Room (1 bed) <br> not sharing</td>
-      <td>£267.09</td>
-      <td>Up to £230</td>
-      <td>Up to £497.09</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
   </tbody>
 </table>
@@ -106,22 +106,22 @@ We also offer **Day Passes** for people who would like to join us on a specific 
     <tr>
       <td>Friday Day Pass</td>
       <td>Lunch</td>
-      <td>£45.90</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>Friday Day Pass with Dinner</td>
       <td>Lunch and dinner</td>
-      <td>£75.21</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>Saturday Day Pass</td>
       <td>Lunch</td>
-      <td>£45.90</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>Saturday Day Pass with Dinner</td>
       <td>Lunch and dinner</td>
-      <td>£75.21</td>
+      <td>TBD</td>
     </tr>
   </tbody>
 </table>
