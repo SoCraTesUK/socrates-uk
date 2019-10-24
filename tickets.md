@@ -7,7 +7,7 @@ title: Tickets
 {% include_relative links.md %}
 
 ### Our invitation
-Join us for another year of SoCraTes UK happening on June 6th-9th! The event is hosted at [Wotton House, Dorking, UK][location] which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop.
+Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is hosted at [Wotton House, Dorking, UK][location] which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop.
 
 Two full days of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels.
 

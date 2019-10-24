@@ -8,7 +8,7 @@ title: Location
 
 ## Location
 
-The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK 2019.
+The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK {{ site.event_details.year }}.
 
 [Wotton House][WottonHouse] is just 10 minutes from junction 9 of the M25, 20 minutes from Guildford, 30 minutes from Gatwick Airport and just 40 minutes by train into London’s Waterloo. [Wotton House][WottonHouse] is easily accessible by air, rail or car. It’s situated on the A25 between Guildford and Dorking, within easy reach of London and the main motorways.
 
@@ -39,7 +39,7 @@ Free parking is available.
 
 ### When can I check in?
 
-Check ins will start on ***Thursday 6th June after 2pm***. SoCraTes UK 2019 will start at 5pm, just before dinner.
+Check ins will start on ***Thursday after 2pm***. SoCraTes UK {{ site.event_details.year }} will start at 5pm, just before dinner.
 
 <br>
 
