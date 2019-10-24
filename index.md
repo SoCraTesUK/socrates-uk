@@ -6,6 +6,8 @@ title: Home
 
 {% include_relative links.md %}
 
+{% include waiting-newsletter.html %}
+
 ### What is SoCraTes?
 
 SoCraTes UK is a non-profit, **international Software Crafters retreat** for open-minded crafters 
