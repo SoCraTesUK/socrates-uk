@@ -24,11 +24,6 @@ By sponsoring SoCraTes, you can demonstrate that you share these values of colla
 
 ### Packages
 
-We recognise that our sponsors want to support SoCraTes UK in different ways, hence why we have more options now than ever before. 
-So whether you'd like to secure a package that includes guaranteed tickets for your colleagues, 
-or whether you're looking to support on a 'pay what you like basis', [send us an email to find out how you can help][infomail]
-
- 
-{% include sponsorship/packages.html %} 
-{% include sponsorship/diversity_tickets.html %} 
-{% include sponsorship/packages_comparison.html %} 
+We are working to define the packages for SoCraTes UK 2020. However, if you are
+keen to get involved in sponsoring the 2020 event, then please
+[send us an email to register interest][infomail]
