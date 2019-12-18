@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    {% include html-head.html %}
+
+    <body>
+        {% include navbar.html %}
+        <div class="front-page-row front-page-header">
+            {% include front-page-header.html %}
+        </div>
+        <a name="content"></a>
+        <div class="front-page-row front-page-introduction">
+            {% include introduction.html %}
+        </div>
+        <div class="front-page-row front-page-what-happens">
+            {% include what-happens.html %}
+        </div>
+        <div class="front-page-row front-page-sponsors">
+            {% include sponsors.html %}
+        </div>
+        <div class="front-page-row front-page-location">
+            {% include location.html %}
+        </div>
+        <div class="front-page-row front-page-tickets">
+            {% include tickets.html %}
+        </div>
+        <div class="front-page-social">
+            {% include social.html %}
+        </div>
+        <div class="front-page-row front-page-partner-events">
+            {% include partner-events.html %}
+        </div>
+
+        {% include include-js.html %}
+    </body>
+</html>
