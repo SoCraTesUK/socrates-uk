@@ -26,6 +26,12 @@
 	color: #ffffff;
 }
 
+.front-page-header h1,
+.front-page-header h3,
+.front-page-header h4 {
+	text-shadow: 3px 3px black;
+}
+
 .front-page-header .socrates-brand {
 	font-family: 'PT Serif Caption', serif;
 }
@@ -141,6 +147,13 @@
 	background-size: cover;
 	color: #ffffff;
 	margin-bottom: 2rem;
+}
+
+
+.page-header h1,
+.page-header h3,
+.page-header h4 {
+	text-shadow: 3px 3px black;
 }
 
 .page-header .socrates-brand {
