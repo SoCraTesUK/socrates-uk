@@ -19,4 +19,70 @@ event_details:
   year: 2020
   date: June 4th-7th
 
+partner_events:
+  - title: CodeFreeze
+    website: https://codefreeze.fi/
+    date: January 11th - 18th 2020
+    location: Kiilopää, Finland
+
+  - title: SoCraTes Switzerland
+    website: http://www.socrates-ch.org/
+    date: February 6th - 9th 2020
+    location: Ftan, Switzerland
+
+  - title: SoCraTes Canaries
+    website: https://www.socracan.com/
+    date: February 6th - 9th 2020
+    location: Las Palmas, Gran Canaria, Spain
+
+  - title: I T.A.K.E. Unconference
+    website: https://itakeunconf.com/
+    date: tbc
+    location: Bucharest, Romania
+
+  - title: SoCraTes Italy
+    website: http://www.socrates-conference.it/
+    date:  tbc
+    location: Rimini, Italy
+
+  - title: SoCraTes Day Chile
+    website: https://www.socrates-conference.cl/
+    date: tbc
+    location: Santiago de Chile, Chile
+
+  - title: JS CraftCamp
+    website: http://jscraftcamp.org/
+    date: tbc
+    location: Munich, Germany
+
+  - title: SoCraTes Germany
+    website: https://www.socrates-conference.de/
+    date: August 27th - 30th 2020
+    location: Soltau, Germany
+
+  - title: SoCraTes Day Berlin
+    website: http://www.socratesday.berlin/
+    date: tbc
+    location: Berlin, Germany
+
+  - title: SoCraTes Day Zurich
+    website: http://socrates-day.ch/
+    date: 17th September 2020
+    location: Zürich, Switzerland
+
+  - title: SoCraTes France
+    website: https://socrates-fr.github.io/
+    date: tbc
+    location: Rochegude, France
+
+  - title: SoCraTes BE
+    website: https://socratesbe.org/
+    date: tbc
+    location: Tournai, Belgium
+
+  - title: AgileCrete
+    website: https://agilecrete.org/
+    date: tbc
+    location: Kolymbari, Crete
+
 markdown: kramdown

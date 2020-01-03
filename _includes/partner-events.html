@@ -1,0 +1,19 @@
+<div class="container text-center">
+    <h2 class="display-3">Are there any other SoCraTes?</h2>
+
+    <div class="row">
+        <div class="col text-center">
+            <img src="img/crafters-logo.png" class="crafters-logo" alt="Software Crafters logo">
+            <p><a href="https://www.softwarecrafters.org/">https://www.softwarecrafters.org/</a></p>
+            <p>SoCraTes UK comes from a community which hosts many other great events.</p>
+        </div>
+
+        <div class="col">
+            <ul class="text-left">
+                {% for event in site.partner_events %}
+                    <li><a href="{{ event.website }}">{{ event.title }}</a> / {{ event.date }}, {{ event.location }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div> 
+</div>

@@ -1,0 +1,24 @@
+<div class="container text-center">
+    <h2 class="display-3">Our Amazing Sponsors</h3>
+
+    <p class="lead">We have not arranged any sponsorship for the 2020 event yet.</p>
+    
+    <p class="lead">
+        <button class="btn btn-lg btn-warning" onclick="window.location = '/sponsorship.html'">I want to sponsor SoCraTes UK 2020</button>
+    </p>
+
+    <p class="lead">Below you can see our <strong>amazing sponsors from 2019</strong>!</p>
+
+    <div class="row text-center">
+        {% for sponsor in site.sponsors %}
+            <div class="col">
+                <div class="sponsor-company-logo"
+                    style="background-image: url('img/sponsors_2019/{{ sponsor.logo }}')"
+                    role="img"
+                    aria-label="{{ sponsor.name }}">
+                </div>
+                <a href="{{ sponsor.url }}">{{ sponsor.url }}</a>
+            </div>
+        {% endfor %}
+    </div>
+</div> 
