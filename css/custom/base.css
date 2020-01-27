@@ -88,6 +88,10 @@
 
 /** tickets **/
 
+.front-page-tickets input {
+	text-align: center;
+}
+
 /** social **/
 
 .front-page-social {
