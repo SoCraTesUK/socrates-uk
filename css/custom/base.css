@@ -124,6 +124,11 @@
 	padding-bottom: 1rem;
 }
 
+.bg-newsletter input {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
 .email-logo {
 	font-size: 100px;
 }
