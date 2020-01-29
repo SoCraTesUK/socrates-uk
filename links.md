@@ -14,6 +14,7 @@
 [sponsorship_page]: sponsorship.html
 [coc_page]: code_of_conduct.html
 [priority_ticket_form]: https://goo.gl/forms/VD5VnqxjAP4sPIwO2
+[privacy_page]: privacy.html
 
 [Codurance]: http://www.codurance.com
 [conference_buddies]: https://www.conferencebuddy.io/
