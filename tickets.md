@@ -63,23 +63,23 @@ be deducted at checkout.
   <thead>
     <tr>
       <th>Ticket Type</th>
-      <th>Upfront cost (incl. eventbrite fee)</th>
+      <th>Upfront cost (excl. eventbrite fee)</th>
       <th>At checkout</th>
       <th>Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Twin room (2 beds) <br> sharing with one other person</td>
-      <td>TBD</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Regular Room (1 bed) <br> not sharing</td>
+      <td>£300</td>
+      <td>£240.63</td>
+      <td>£540.63</td>
     </tr>
     <tr>
-      <td>Regular Room (1 bed) <br> not sharing</td>
-      <td>TBD</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Twin room (2 beds) <br> sharing with one other person</td>
+      <td>£300</td>
+      <td>£198.63</td>
+      <td>£498.63</td>
     </tr>
   </tbody>
 </table>
@@ -128,9 +128,9 @@ We also offer **Day Passes** for people who would like to join us on a specific 
 
 <br>
 
-### Where is the waiting list?
+### I want to buy my ticket!
 
-{% include waiting-newsletter.html %}
+{% include eventbrite.html %}
 
 <br>
 
