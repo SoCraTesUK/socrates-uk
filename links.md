@@ -13,7 +13,7 @@
 [contact]: contact.html
 [sponsorship_page]: sponsorship.html
 [coc_page]: code_of_conduct.html
-[priority_ticket_form]: https://goo.gl/forms/VD5VnqxjAP4sPIwO2
+[priority_ticket_form]: https://docs.google.com/forms/d/e/1FAIpQLSdPQQ_pmfL8JR3R7WIlW547fVGog5NgCzHLcYotqai221hFhg/viewform
 [privacy_page]: privacy.html
 
 [Codurance]: http://www.codurance.com

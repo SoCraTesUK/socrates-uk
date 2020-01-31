@@ -54,38 +54,37 @@ We have some priority tickets reserved for international guests and for people o
 
 ### How much does it cost?
 
-The below prices are the final amount due at hotel checkout - they will likely be reduced by 
-[sponsorships][sponsorship_page], which will be equally applied to all tickets. 
-The price you pay at initial registration on Eventbrite serves as a deposit to the hotel and will 
-be deducted at checkout.
+The below prices are the final amount due before the event - they will likely be reduced by
+[sponsorships][sponsorship_page], which will be equally applied to all tickets.
+The price you pay at initial registration on Eventbrite serves as a deposit. The rest will be paid by bank transfer.
 
 <table class="table table-striped table-bordered table-condensed">
   <thead>
     <tr>
       <th>Ticket Type</th>
-      <th>Upfront cost (incl. eventbrite fee)</th>
+      <th>Upfront cost (excl. eventbrite fee)</th>
       <th>At checkout</th>
       <th>Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Twin room (2 beds) <br> sharing with one other person</td>
-      <td>TBD</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Regular Room (1 bed) <br> not sharing</td>
+      <td>£300</td>
+      <td>£239</td>
+      <td>£539</td>
     </tr>
     <tr>
-      <td>Regular Room (1 bed) <br> not sharing</td>
-      <td>TBD</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Twin room (2 beds) <br> sharing with one other person</td>
+      <td>£300</td>
+      <td>£199</td>
+      <td>£499</td>
     </tr>
   </tbody>
 </table>
 
 <div class="well accomodation-warning">
-	<p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> <br /><br />If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place.<br /><br /> <strong>You will be liable for paying the remaining amount to the hotel during check out </strong>— you will have a room booked in your name.</p>
+  <p><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Note, <strong>the deposit is non-refundable.</strong> <br /><br />If after you bought the ticket you realise you can't make it, you can sell it to someone else. Send us the name of the person that will be attending in your place.<br /><br /> <strong>You will be liable for paying the remaining amount to us before the event </strong>— you will have a room booked in your name.</p>
 </div>
 
 <br>
@@ -128,9 +127,9 @@ We also offer **Day Passes** for people who would like to join us on a specific 
 
 <br>
 
-### Where is the waiting list?
+### I want to buy my ticket!
 
-{% include waiting-newsletter.html %}
+{% include eventbrite.html %}
 
 <br>
 
