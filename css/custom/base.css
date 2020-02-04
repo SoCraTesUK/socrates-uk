@@ -253,3 +253,7 @@
 .sponsorship-panel {
 	min-height: 565px;
 }
+
+.sponsorship-panel > ul.list-group {
+	margin-bottom: 5px;
+}
