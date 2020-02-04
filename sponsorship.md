@@ -20,10 +20,4 @@ SoCraTes brings together a community of software professionals who care about cr
 As an unconference with no predetermined agenda, SoCraTes is created by its participants. As a result, it attracts highly engaged, collaborative practitioners, and encourages dense networks of ideas.  
 By sponsoring SoCraTes, you can demonstrate that you share these values of collaboration and continuous improvement in software development. If you are recruiting, then this is a great way to reach out to a community of highly engaged potential candidates.  
 
-<br>
-
-### Packages
-
-We are working to define the packages for SoCraTes UK 2020. However, if you are
-keen to get involved in sponsoring the 2020 event, then please
-[send us an email to register interest][infomail]
+{% include sponsorship/packages.html %}
