@@ -30,6 +30,3 @@ By sponsoring SoCraTes, you can demonstrate that you share these values of colla
 
 
 {% include sponsorship/packages.html %}
-{% include sponsorship/packages_comparison.html %}
-
-[send us an email to register interest][infomail]
