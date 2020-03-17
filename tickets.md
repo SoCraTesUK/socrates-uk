@@ -129,7 +129,7 @@ We also offer **Day Passes** for people who would like to join us on a specific 
 
 ### I want to buy my ticket!
 
-{% include eventbrite.html %}
+SoCraTes UK 2020 has been postponed until further notice.
 
 <br>
 
