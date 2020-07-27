@@ -83,7 +83,7 @@ We then had an intro to the rules of open space, with an extra _Law of Nowhere_,
 <p style="text-align: right">Pictures by Pierluigi Pugliese</p>
 
 
-The queueing for putting sessions onto the **marketplace **was done by dragging digital post-its by the side of the schedule itself on the mural board, as we would have queued physically. People then gave an introduction to their session and added them into a particular room, at a particular time.
+The queueing for putting sessions onto the **marketplace** was done by dragging digital post-its by the side of the schedule itself on the mural board, as we would have queued physically. People then gave an introduction to their session and added them into a particular room, at a particular time.
 
 We had the usual hussle and sessions moving to jiggle things into place as session hosts made adjustments and people expressed their preferences.
 
@@ -116,17 +116,17 @@ We also had sliding scales for practical details:
 
 *   The amount of timeslots (4) was: Not enough &lt;-> Too many
 
-    (majority ‘just right’ leaning to Not enough)
+    (majority `just right` leaning to `Not enough`)
 *   The length and amount of breaks was: Not enough &lt;-> Too much
 
-    majority ‘just right’ leaning to ‘Too much’)
+    (majority `just right` leaning to `Too much`)
 
 *   The size of the event (50 people) was: Too small &lt;-> Too big
 
-    (majority was ‘just right’, ever so slightly Too small)
+    (majority was `just right`, ever so `slightly too small`)
 *   This event should happen again: Never &lt;-> In 1 month or sooner
 
-    (majority was ‘in a few months’ with some ‘in 1 month or sooner’)
+    (majority was `in a few months` with some `in 1 month or sooner`)
 
 ![Survey](img/2020/spring/survey.png "Above sliders, as pictures")
 

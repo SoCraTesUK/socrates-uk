@@ -10,6 +10,8 @@ title: Digital Summer 2020
 
 We are running a second digital open space for SoCraTes UK, on the 1st August 2020!
 
+If you're not sure what a digital open space would look/feel like, we have [written up](digital-2020-spring) what happened the first time we ran it, last May.
+
 ## The Day
 
 All times are BST, we'll publish a timezone-aware one soon.
