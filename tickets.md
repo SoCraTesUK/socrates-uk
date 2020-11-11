@@ -28,7 +28,7 @@ A new group can be intimidating, but we hope you give SoCraTes a try. The SoCraT
 ### What should I know before deciding to attend?
 By booking, you agree to follow our [Code of Conduct][coc_page]. Please read our full code of conduct before buying a ticket, discussing online and before participating to the event. But please don't feel intimidated by it - these are simple rules, and they will make life better for everyone at the event.
 
-We have some priority tickets reserved for under-indexed groups in tech. Fill in [this form][priority_ticket_form] to signal that you're part of either/both groups. We trust that you know best if it applies to you.
+We have some priority tickets reserved and free for under-indexed groups in tech. Fill in [this form][priority_ticket_form] to signal that you're part of either/both groups. We trust that you know best if it applies to you.
 
 <br>
 
