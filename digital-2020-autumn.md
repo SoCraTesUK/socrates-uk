@@ -14,7 +14,7 @@ If you're not sure what a digital open space would look/feel like, we have [writ
 
 ## The Day
 
-All times are BST, we'll publish a timezone-aware one soon.
+These times are BST, see below for a timezone-aware one.
 
 | Schedule        | Activity |
 |:-----------     |:----------- |
@@ -32,6 +32,11 @@ All times are BST, we'll publish a timezone-aware one soon.
 | 5.30pm-6.00pm   | Closing and retro |
 |:-----------     |:----------- |
 | 7.30pm onward   | Optional evening sessions (games, etc) |
+
+
+<iframe width="700" height="450"
+  src="https://codepen.io/AmelieCornelis/full/MWezBZV"
+  title="Times for the sessions during the day in your timezone"></iframe>
 
 
 We will use the following tools (get your [ticket](tickets.html#i-want-to-buy-my-ticket) to get access):
