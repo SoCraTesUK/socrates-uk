@@ -1,7 +1,7 @@
 # SoCraTes UK - 2020
 --------------------
 
-Join the conversation in #socratesuk and #socratesukorg on [Slack](http://slack.softwarecrafters.org/).
+Join the conversation in #ev_socratesuk and #org_socratesuk on [Slack](http://slack.softwarecrafters.org/).
 
 Conference organised by the [Software Crafters Community](https://www.softwarecrafters.org/).
 
