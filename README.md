@@ -12,3 +12,9 @@ If you want to make changes and raise a PR you can run
 the website locally to see how your changes will look like.
 
 Just follow the [official guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+### To upgrade dependencies
+
+```
+bundle update
+```
