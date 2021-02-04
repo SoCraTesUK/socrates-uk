@@ -35,7 +35,7 @@ These times are BST, see below for a timezone-aware one.
 
 
 <iframe width="700" height="450"
-  src="https://bit.ly/socratesuk-2020-autumn"
+  src="https://bit.ly/socratesuk-2021-winter"
   title="Times for the sessions during the day in your timezone"></iframe>
 
 
