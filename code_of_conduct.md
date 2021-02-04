@@ -76,7 +76,7 @@ If you need help, have any further questions or have any other concerns, please 
  * Find and talk to the organizers
  * Contact us on email [socratesuk-info@googlegroups.com][infomail]
  * Contact us in twitter [@SoCraTes_UK][twitter] (send a direct message)
- * Ask in the channel #socratesuk on the [Software Crafters Slack][softwarecrafters]
+ * Ask in the channel #ev_socratesuk on the [Software Crafters Slack][softwarecrafters]
  * Contact an organizer on Slack
 
 This code of conduct applies to the SoCraTes conference itself, and to all digital spaces that are related to the SoCraTes conference, such as the wiki and mailing list.
