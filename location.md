@@ -6,7 +6,7 @@ title: Location
 
 {% include_relative links.md %}
 
-This page describes the **traditional home** of SoCraTes UK. For 2020, it runs as a digital edition, online.
+This page describes the **traditional home** of SoCraTes UK. For 2020-21, it runs as a digital edition, online.
 
 ## Location
 
