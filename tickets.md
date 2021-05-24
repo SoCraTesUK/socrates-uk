@@ -34,7 +34,7 @@ We have some priority tickets reserved and free for under-indexed groups in tech
 
 ### How much does it cost?
 
-£2.50
+£2.50 (also options for £0 or £5)
 
 <br>
 

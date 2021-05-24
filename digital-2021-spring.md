@@ -1,16 +1,16 @@
 ---
 layout: page
-name: Digital Winter 2021
-title: Digital Winter 2021
+name: Digital Spring 2021
+title: Digital Spring 2021
 ---
 
 {% include_relative links.md %}
 
-## Digital Winter 2021
+## Digital Spring 2021
 
-We are running a fourth digital open space for SoCraTes UK, on {{ site.event_details.date }} 2021!
+We are running a fifth digital open space for SoCraTes UK, on {{ site.event_details.date }} 2021!
 
-If you're not sure what a digital open space would look/feel like, we have [written up](digital-2020-autumn#on-the-day) what happened the last time we ran it, in November 2020.
+If you're not sure what a digital open space would look/feel like, we have [written up](digital-2020-autumn#on-the-day) what happened when we ran it, in November 2020.
 
 ## The Day
 
@@ -35,12 +35,12 @@ These times are BST, see below for a timezone-aware one.
 
 
 <iframe width="700" height="450"
-  src="https://bit.ly/socratesuk-2021-winter"
+  src="https://bit.ly/socratesuk-2021-spring"
   title="Times for the sessions during the day in your timezone"></iframe>
 
 
 We will use the following tools (get your [ticket](tickets.html#i-want-to-buy-my-ticket) to get access):
-* [Discord](https://discordapp.com/) for voice only breakout rooms, sharing links and resources. Server: SoCraTes UK 2020 Digital Editions.
+* [Discord](https://discordapp.com/) for voice only breakout rooms, sharing links and resources. Server: SoCraTes UK Digital.
 * [Notions](https://www.notion.so) for the board, schedule, and all the links
 * [Zoom](https://zoom.us/) for Video Conferencing. You do not need an account but there is a client to install on first access, which you can do via this [test call](https://zoom.us/test). From version 5.3, you can also more easily move about between breakout rooms.
 * [Kudobox](http://kudobox.co/) for kudos cards
