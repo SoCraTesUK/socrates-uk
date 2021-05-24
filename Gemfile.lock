@@ -230,7 +230,7 @@ GEM
     rdiscount (2.2.0.2)
     redcarpet (3.5.0)
     ref (2.0.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.23.0)
     ruby-enum (0.8.0)
       i18n
