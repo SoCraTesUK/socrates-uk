@@ -6,7 +6,7 @@ title: Digital Spring 2021
 
 {% include_relative links.md %}
 
-## Digital Spring 2021
+## Digital Spring/Summer 2021
 
 We are running a fifth digital open space for SoCraTes UK, on {{ site.event_details.date }} 2021!
 
