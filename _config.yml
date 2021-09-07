@@ -23,7 +23,7 @@ event_details:
 partner_events:
   - title: CodeFreeze
     website: https://codefreeze.fi/
-    date: January 11th - 18th 2020
+    date: January 8th - 15th 2022
     location: Kiilopää, Finland
 
   - title: SoCraTes Switzerland
@@ -38,42 +38,42 @@ partner_events:
 
   - title: I T.A.K.E. Unconference
     website: https://itakeunconf.com/
-    date: tbc
+    date: May 26th - 27th 2021
     location: Bucharest, Romania
 
   - title: SoCraTes Italy
     website: http://www.socrates-conference.it/
-    date:  tbc
+    date:  June 4th - 6th 2020
     location: Rimini, Italy
 
   - title: SoCraTes Day Chile
     website: https://www.socrates-conference.cl/
-    date: tbc
+    date: July 19 2019
     location: Santiago de Chile, Chile
 
   - title: JS CraftCamp
     website: http://jscraftcamp.org/
-    date: tbc (July 2020)
+    date: July 19th - 20th 2019
     location: Munich, Germany
 
   - title: SoCraTes Germany
     website: https://www.socrates-conference.de/
-    date: August 27th - 30th 2020
+    date: August 27th - 29th  2021
     location: Soltau, Germany
 
   - title: SoCraTes Day Berlin
     website: http://www.socratesday.berlin/
-    date: tbc
+    date: September 6th–7th 2019
     location: Berlin, Germany
 
   - title: SoCraTes Day Zurich
     website: http://socrates-day.ch/
-    date: 17th September 2020
+    date: Friday 24 September 2021
     location: Zürich, Switzerland
 
   - title: SoCraTes France
     website: https://socrates-fr.github.io/
-    date: tbc
+    date: October 17-20th 2019
     location: Rochegude, France
 
   - title: SoCraTes BE
