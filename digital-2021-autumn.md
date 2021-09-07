@@ -1,14 +1,14 @@
 ---
 layout: page
-name: Digital Spring 2021
-title: Digital Spring 2021
+name: Digital Autumn 2021
+title: Digital Autumn 2021
 ---
 
 {% include_relative links.md %}
 
-## Digital Spring/Summer 2021
+## Digital Autumn 2021
 
-We are running a fifth digital open space for SoCraTes UK, on {{ site.event_details.date }} 2021!
+We are running a sixth digital open space for SoCraTes UK, on {{ site.event_details.date }} 2021!
 
 If you're not sure what a digital open space would look/feel like, we have [written up](digital-2020-autumn#on-the-day) what happened when we ran it, in November 2020.
 
@@ -35,7 +35,7 @@ These times are BST, see below for a timezone-aware one.
 
 
 <iframe width="700" height="450"
-  src="https://bit.ly/socratesuk-2021-spring"
+  src="https://bit.ly/socratesuk-2021-autumn"
   title="Times for the sessions during the day in your timezone"></iframe>
 
 
