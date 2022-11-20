@@ -6,8 +6,6 @@ title: Location
 
 {% include_relative links.md %}
 
-This page describes the **traditional home** of SoCraTes UK. For 2020-21, it runs as a digital edition, online.
-
 ## Location
 
 The retreat will be hosted at [Wotton House][WottonHouse], which is surrounded by 13 acres of beautifully landscaped grounds, delivering tranquil setting and backdrop for SoCraTes UK {{ site.event_details.year }}.

@@ -7,20 +7,27 @@ title: Tickets
 {% include_relative links.md %}
 
 ### Our invitation
-Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is currently hosted online.
+Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is hosted at [Alexandra House, Swindon, UK][location] which is surrounded by 2 acres of landscaped grounds and forest, delivering tranquil setting and backdrop.
 
-One full day of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels.
+Two full day of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels.
+
+We will allocate tickets on a first-come first-serve basis.
 
 Scroll down for more information, especially our [Code of Conduct][coc_page] and Priority Tickets.
 
 
 ### What’s included in the price?
 
-The ticket includes access to the tools used to run the open space online, such as Zoom and Notions.
+The ticket includes the booked room, breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks at the bar are **not** included.
 
-The ticket price covers the cost of running these tools and we do not make any profit from it.
+We do not make any profit from the ticket price. The price might be reduced by [sponsorships][sponsorship_page], so make sure to spread the word so all attendees can benefit from cheaper tickets!
+
+Food that respects your dietary preferences will be provided Thursday dinner till Sunday lunch. Water, tea, coffee and refreshments and the accommodation in beautiful rooms in the house itself is included.
+
+The venue has amazing grounds to relax and wander in and boast a gym, sauna, steam room, indoor pool and tennis court if you fancy.
 
 ### What if I don’t know anyone in the crafter community?
+
 A new group can be intimidating, but we hope you give SoCraTes a try. The SoCraTes community aims to be open and inclusive to everyone. In addition, we are hoping to provide some [Conference Buddies][conference_buddies] so you can attend together.
 
 <br>
@@ -34,7 +41,7 @@ We have some priority tickets reserved and free for under-indexed groups in tech
 
 ### How much does it cost?
 
-£2.50 (also options for £0 or £5)
+TBC
 
 <br>
 
