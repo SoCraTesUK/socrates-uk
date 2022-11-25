@@ -18,7 +18,24 @@ Please check [Alexandra House Google Maps location][AlexandraGoogleMaps] to ensu
 
 Free parking is available. There are charging bays for electric vehicles.
 
-Pictures of the venue will appear here soon. In the meantime, check [Alexandra House website][AlexandraHouse]
+<div class="conference-location-images">
+	<div class="row">
+		<div class="col-md-6">
+			<img src="img/alexandra/alexandra-house-aerial.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - Aerial view showing the building surrounded with trees and some parking places"/>
+		</div>
+		<div class="col-md-6">
+			<img src="img/alexandra/alexandra-courtyard-mini.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - One of the courtyards with wooden tables, chairs and parasols"/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<img src="img/alexandra/alexandra-house-conference-room.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - The main conference room"/>
+		</div>
+		<div class="col-md-6">
+			<img src="img/alexandra/alexandra-external-mini.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - View of the main entrance with trees in the foreground"/>
+		</div>
+	</div>
+</div>
 
 ### When can I check in?
 
