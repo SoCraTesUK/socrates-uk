@@ -9,7 +9,11 @@ title: Tickets
 ### Our invitation
 Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is hosted at [Alexandra House, Swindon, UK][location] which is surrounded by 2 acres of landscaped grounds and forest, delivering tranquil setting and backdrop.
 
-Two full day of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels.
+Four possible days of exchanging with fellow crafters:
+
+- An add-on training day, where the sessions are set in advance (in the spirit of the [Foundations day at SoCraTes Germany][socrates_de_foundations]);
+- Two full days of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels;
+- A free-form day of activities, community led, to expand on the topics discussed during the open space, or anything else!
 
 We will allocate tickets on a first-come first-serve basis.
 
@@ -26,6 +30,8 @@ Food that respects your dietary preferences will be provided Thursday dinner til
 
 The venue has amazing grounds to relax and wander in and boast a gym, sauna, steam room, indoor pool and tennis court if you fancy.
 
+The training day is paid for separately (and includes lunch on Thursday).
+
 ### What if I don’t know anyone in the crafter community?
 
 A new group can be intimidating, but we hope you give SoCraTes a try. The SoCraTes community aims to be open and inclusive to everyone. In addition, we are hoping to provide some [Conference Buddies][conference_buddies] so you can attend together.
@@ -41,7 +47,9 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 ### How much does it cost?
 
-TBC
+TBC for the open space
+
+TBC for the training day
 
 <br>
 

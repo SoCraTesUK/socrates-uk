@@ -21,6 +21,7 @@
 
 [socrates_de]: http://www.socrates-conference.de/
 [socrates_de_values]: https://www.socrates-conference.de/values
+[socrates_de_foundations]: http://www.socrates-conference.de/foundations
 [socrates_day_berlin]: http://www.socratesday.berlin/ 
 [Farncombe Gallery]: http://farncombeconferencecentre.com/venue/gallery/
 [CodeFreeze]: http://www.codefreeze.fi/
