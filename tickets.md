@@ -56,7 +56,7 @@ TBC for the training day
 
 ### I want to buy my ticket!
 
-{% include eventbrite.html %}
+{% include ticket-provider.html %}
 
 <br>
 
