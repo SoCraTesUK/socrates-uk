@@ -47,9 +47,9 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 ### How much does it cost?
 
-TBC for the open space
+We sell tickets for the open space at £725. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will refund the difference.
 
-TBC for the training day
+We will announce the price for the training day soon.
 
 <br>
 
