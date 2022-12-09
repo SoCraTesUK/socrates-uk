@@ -63,7 +63,7 @@ T: +44 (0) 1793 819 000
 
 The best place to find out how to get there is [Alexandra House's site][AlexandraHouse].
 
-The nearest station is Swindown station. It is 4 miles and 15 minutes’ drive away. A one way taxi should cost between £TBC and £TBC depending on traffic.
+The nearest station is Swindown Station. It is 4 miles and 15 minutes’ drive away. A one way taxi should cost between £TBC and £TBC depending on traffic.
 
 Please check our wiki for the [local taxi companies][].
 
