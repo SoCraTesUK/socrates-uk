@@ -12,4 +12,4 @@ gem 'jekyll-redirect-from'
 gem 'rdiscount'
 gem 'redcarpet'
 gem 'jekyll-sitemap'
-
+gem 'webrick'
