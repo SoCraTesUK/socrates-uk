@@ -40,3 +40,5 @@ So yes, you can join the OpenSpace whatever your level, and whether or not you h
 ## Cost
 
 Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £358 to attend.
+
+There is an option to arrive the Wednesday evening for an extra £110 (accomodation + dinner & breakfast).
