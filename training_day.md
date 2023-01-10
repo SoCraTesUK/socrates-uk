@@ -20,11 +20,20 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-We are working on exactly who and what. In the meantime, here's a preview of the people who are confirmed to deliver some of the training sessions.
+We are working on exactly who and what. In the meantime, we're delighted to share with you some of the speakers who are confirmed and their topics.
+
+In alphabetical order:
+
+|---|---|---|---|---|---|
+||<img width=150/>|<img width=250/>||<img width=150/>|<img width=250/>|
+| ![Abby Bangser](img/2023/trainers/abby_bangser.png "Photo of Abby Bangser, dark-haired, smiling, with a black top and silver necklace, on a brick wall background") | Abby Bangser | Observability | ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger") | Tim Ottinger | Trunk based development |
+| ![Marit van Dyck](img/2023/trainers/marit_van_dyck.png "Photo of Marit van Dyck") | Marit van Dyck |Code reading | ![Jon Skeet](img/2023/trainers/jon_skeet.png "Photo of Jon Skeet") | Jon Skeet | Date and time handling |
+| ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger") | Jon Jagger | TDD | ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery") | Clare Sudbery | Testing legacy code using coverage and mutation testing |
+| ![Liz Keogh](img/2023/trainers/liz_keogh.png "Photo of Liz Keogh") | Liz Keogh | Conversational BDD | ![Woody Zuill](img/2023/trainers/woody_zuill.png "Photo of Woody Zuill") | Woody Zuill | Mob/ensemble programming |
 
 ## Can I still join the OpenSpace?
 
-We welcome practitioners and learners at all levels at SoCraTes - because we believe that sharing, teaching and learning are equally important to the community health, and that this is a fundamental part of what makes SoCraTes the magical place it is. Training Day is intended to build bridges and make it easier to join the community, not to create an extra entry barrier. 
+We welcome practitioners and learners at all levels at SoCraTes - because we believe that sharing, teaching and learning are equally important to the community health, and that this is a fundamental part of what makes SoCraTes the magical place it is. Training Day is intended to build bridges and make it easier to join the community, not to create an extra entry barrier.
 
 So yes, you can join the OpenSpace whatever your level, and whether or not you have attended the Training Day.
 
