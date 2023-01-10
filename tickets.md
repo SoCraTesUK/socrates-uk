@@ -11,7 +11,7 @@ Join us for another year of SoCraTes UK happening on {{ site.event_details.date 
 
 Four possible days of exchanging with fellow crafters:
 
-- An add-on training day, where the sessions are set in advance (in the spirit of the [Foundations day at SoCraTes Germany][socrates_de_foundations]);
+- An add-on [training day][training_day_page], where the sessions are set in advance (in the spirit of the [Foundations day at SoCraTes Germany][socrates_de_foundations]);
 - Two full days of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels;
 - A free-form day of activities, community led, to expand on the topics discussed during the open space, or anything else!
 
@@ -49,7 +49,7 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 We sell tickets for the open space at £725. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will refund the difference.
 
-We will announce the price for the training day soon.
+The training day is £358. There is an option to arrive the Wednesday evening for an extra £110 (accomodation + dinner & breakfast).
 
 <br>
 
