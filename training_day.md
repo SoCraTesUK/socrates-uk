@@ -31,6 +31,15 @@ In alphabetical order:
 | ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger") | Jon Jagger | TDD (Test Driven Development) | ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery") | Clare Sudbery | Testing legacy code using coverage and mutation testing |
 | ![Liz Keogh](img/2023/trainers/liz_keogh.png "Photo of Liz Keogh") | Liz Keogh | Conversational BDD <br>(Behaviour Driven Development) | ![Woody Zuill](img/2023/trainers/woody_zuill.png "Photo of Woody Zuill") | Woody Zuill | Mob/ensemble programming |
 
+<br>
+Speaking together:
+
+|---|---|---|
+||<img width=150/>|<img width=250/>|
+| ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce") | Duncan McGregor <br> Nat Pryce| Refactoring Java to Kotlin |
+
+<br>
+
 ## Can I still join the OpenSpace?
 
 We welcome practitioners and learners at all levels at SoCraTes - because we believe that sharing, teaching and learning are equally important to the community health, and that this is a fundamental part of what makes SoCraTes the magical place it is. Training Day is intended to build bridges and make it easier to join the community, not to create an extra entry barrier.
