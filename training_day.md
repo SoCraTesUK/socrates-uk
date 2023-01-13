@@ -14,7 +14,7 @@ Are you new to the software industry, and want to get a head start? Have you bee
 
 The Training Day is intended to open up the world of crafting and testing for newcomers and allow a deep-dive into certain topics. It offers a guided introduction to the conference experience. And provides an easy way to have all the questions you will probably arrive with answered by experienced practitioners.
 
-Unlike the rest of the conference, this day does not follow the [OpenSpace Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. There will be two "themes": crafting and testing. You will be able to choose your favorite sessions freely from either theme to combine your own program.
+Unlike the rest of the conference, this day does not follow the [OpenSpace Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. The training day includes both introductory and advanced sessions. You will be able to choose which  sessions to attend, allowing you to build a program that suits your needs.
 
 Sessions will cover foundational topics - the roots of what our community is about - taught by tenured and distinguished community members with years of practical experience. There will also be sessions that take a deeper look at these topics.
 
@@ -50,4 +50,4 @@ So yes, you can join the OpenSpace whatever your level, and whether or not you h
 
 Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £358 to attend.
 
-There is an option to arrive the Wednesday evening for an extra £110 (accomodation + dinner & breakfast).
+There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
