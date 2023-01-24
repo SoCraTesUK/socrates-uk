@@ -139,19 +139,27 @@
 	margin-bottom: 5px;
 }
 
+.bg-mastodon {
+	background-color: #CD853F;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
 .email-logo {
 	font-size: 100px;
 }
 
 .twitter-logo,
-.slack-logo {
+.slack-logo,
+.mastodon-logo {
 	height: 100px;
 	width: auto;
 	vertical-align: bottom;
 }
 
 .twitter-hashtag,
-.slack-channel {
+.slack-channel,
+.mastodon-hashtag {
 	font-size: 2rem;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
