@@ -40,6 +40,16 @@ Speaking together:
 
 <br>
 
+### What are the COVID mitigations?
+
+COVID-19 rates across Europe are still high. We want to keep attendees safe, while at the same time allowing for as much familiarity and community spirit as is possible. For this reason our policy at the training day will be:
+
+<ul>
+<li>masks will be provided and should be worn in all indoor conference/training day spaces (except while eating/drinking)</li>
+<li>lateral flow tests will be provided for the day (conference organisers should be notified if the test is positive)</li>
+</ul>
+
+
 ## Can I still join the OpenSpace?
 
 We welcome practitioners and learners at all levels at SoCraTes - because we believe that sharing, teaching and learning are equally important to the community health, and that this is a fundamental part of what makes SoCraTes the magical place it is. Training Day is intended to build bridges and make it easier to join the community, not to create an extra entry barrier.

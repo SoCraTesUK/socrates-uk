@@ -32,6 +32,15 @@ The venue has amazing grounds to relax and wander in and boast a gym, sauna, ste
 
 The training day is paid for separately (and includes lunch on Thursday).
 
+### What are the COVID mitigations?
+
+COVID-19 rates across Europe are still high. We want to keep attendees safe, while at the same time allowing for as much familiarity and community spirit as is possible. For this reason our policy at the conference will be:
+
+<ul>
+<li>masks will be provided and should be worn in all indoor conference spaces (except while eating/drinking)</li>
+<li>lateral flow tests will be provided for each day (conference organisers should be notified if the test is positive)</li>
+</ul>
+
 ### What if I don’t know anyone in the crafter community?
 
 A new group can be intimidating, but we hope you give SoCraTes a try. The SoCraTes community aims to be open and inclusive to everyone. In addition, we are hoping to provide some [Conference Buddies][conference_buddies] so you can attend together.
