@@ -27,7 +27,7 @@ In alphabetical order:
 |---|---|---|---|---|---|
 ||<img width=150/>|<img width=250/>||<img width=150/>|<img width=250/>|
 | ![Abby Bangser](img/2023/trainers/abby_bangser.png "Photo of Abby Bangser, dark-haired, smiling, with a black top and silver necklace, on a brick wall background") | Abby Bangser | Observability | ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger") | Tim Ottinger | Trunk based development |
-| ![Marit van Dyck](img/2023/trainers/marit_van_dyck.png "Photo of Marit van Dyck") | Marit van Dyck | Code reading | ![Jon Skeet](img/2023/trainers/jon_skeet.png "Photo of Jon Skeet") | Jon Skeet | Date and time handling |
+| ![Marit van Dijk](img/2023/trainers/marit_van_dijk.png "Photo of Marit van Dijk") | Marit van Dijk | Code reading | ![Jon Skeet](img/2023/trainers/jon_skeet.png "Photo of Jon Skeet") | Jon Skeet | Date and time handling |
 | ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger") | Jon Jagger | TDD (Test Driven Development) | ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery") | Clare Sudbery | Testing legacy code using coverage and mutation testing |
 | ![Liz Keogh](img/2023/trainers/liz_keogh.png "Photo of Liz Keogh") | Liz Keogh | Conversational BDD <br>(Behaviour Driven Development) | ![Woody Zuill](img/2023/trainers/woody_zuill.png "Photo of Woody Zuill") | Woody Zuill | Mob/ensemble programming |
 
