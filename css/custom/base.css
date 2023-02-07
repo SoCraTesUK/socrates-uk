@@ -43,6 +43,7 @@
 }
 
 .front-page-header h1,
+.front-page-header h2,
 .front-page-header h3,
 .front-page-header h4 {
 	text-shadow: 3px 3px black;
@@ -190,6 +191,7 @@
 
 
 .page-header h1,
+.page-header h2,
 .page-header h3,
 .page-header h4 {
 	text-shadow: 3px 3px black;
