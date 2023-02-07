@@ -1,5 +1,6 @@
 [infomail]: mailto:socratesuk-info@googlegroups.com
 [twitter]: https://twitter.com/socrates_uk
+[mastodon]: https://discuss.systems/@SoCraTes_UK
 [twitter_socrates_hashtag]: https://twitter.com/hashtag/SoCraTesUK
 [softwarecrafters]: https://www.softwarecrafters.org/
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
