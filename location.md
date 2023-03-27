@@ -63,19 +63,19 @@ T: +44 (0) 1793 819 000
 
 The best place to find out how to get there is [Alexandra House's site][AlexandraHouse].
 
-The nearest station is Swindown Station. It is 4 miles and 15 minutes’ drive away. A one way taxi should cost between £TBC and £TBC depending on traffic.
+The nearest station is Swindown Station. It is 4 miles and 15 minutes’ drive away. There are local taxis available to get from Swindon station to the venue.
 
 Please check our wiki for the [local taxi companies][].
 
 Swindon rail station has direct links and connections from London Paddington station, Bristol and Heathrow airport.
 
-Heathrow Airport and Bristol Airport are about 1 hour from the venue. Uber taxis will cost £TBC while black cabs in the airport will cost on average £TBC depending on the traffic. TBC? Taxi will be the fastest way to get to the venue as you don't need to come to London and then back to Swindon.
+Heathrow Airport and Bristol Airport are about 1 hour drive from the venue.
 
 __TAXIS:__ If using taxis, either use [Uber][] or one of the [local taxi companies][] listed on the wiki. They are much cheaper. Be aware that they normally ask you to wait for them at the departures "drop off" and you will need to make your way there from the arrivals. 
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
 
-You normally can get direct trains to Swindon from London Paddington station. The train fare should cost around £TBC. When buying your train ticket, go to the ticket office instead of buying on the machines and show your tube ticket as you may get more than 50% discount — they will charge you only for the stretch beyond the zones you already paid for when coming to central London from the airport. That's the same for people with Oyster cards.
+You normally can get direct trains to Swindon from London Paddington station. The train fare should cost from £18 each way when bough in advance [GWR][] (2 singles seem cheaper than a return...). When buying your train ticket, go to the ticket office instead of buying on the machines and show your tube ticket as you may get more than 50% discount — they will charge you only for the stretch beyond the zones you already paid for when coming to central London from the airport. That's the same for people with Oyster cards.
 
 If you prefer to get to London by coach, [National Express][National Express from airports] is probably the best option, with wi-fi on their coaches.
 

@@ -42,6 +42,7 @@
 [National Express from airports]: http://www.nationalexpress.com/wherewego/airports/index.aspx
 [Tube Map]: http://www.tfl.gov.uk/assets/downloads/standard-tube-map.pdf
 [Transport for London]: http://www.tfl.gov.uk/
+[GWR]: https://www.gwr.com/stations-and-destinations/popular-routes/london-to-swindon
 
 [London Heathrow Airport]: http://www.heathrowairport.com/transport-and-directions/getting-into-london
 [London Gatwick Airport]: http://www.gatwickairport.com/transport/to-london/
