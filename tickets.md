@@ -7,7 +7,7 @@ title: Tickets
 {% include_relative links.md %}
 
 ### Our invitation
-Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is hosted at [Alexandra House, Swindon, UK][location] which is surrounded by 2 acres of landscaped grounds and forest, delivering tranquil setting and backdrop.
+Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is hosted at [Milton Hill House, UK][location] which is surrounded by 22 acres of landscaped grounds and forest, delivering tranquil setting and backdrop.
 
 Four possible days of exchanging with fellow crafters:
 

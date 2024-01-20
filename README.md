@@ -1,4 +1,4 @@
-# SoCraTes UK - 2023
+# SoCraTes UK - 2024
 --------------------
 
 Join the conversation in #ev_socratesuk and #org_socratesuk on [Slack](http://slack.softwarecrafters.org/).

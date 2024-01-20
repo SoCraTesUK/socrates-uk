@@ -8,31 +8,31 @@ title: Location
 
 ## Location
 
-The retreat will be hosted at [Alexandra House][AlexandraHouse], which is surrounded by 2 acres of landscaped grounds and trees, delivering tranquil setting and backdrop for SoCraTes UK {{ site.event_details.year }}.
+The retreat will be hosted at [Milton Hill House][MiltonHillHouse], which is surrounded by 22 acres of landscaped grounds and trees, delivering tranquil setting and backdrop for SoCraTes UK {{ site.event_details.year }}.
 
-[Alexandra House][AlexandraHouse] is just 10 minutes from junction 15 of the M4, 15 minutes from Swindon, 1h from London Heathrow or Bristol Airport and just 50 minutes by train into London’s Paddington. [Alexandra House][AlexandraHouse] is easily accessible by air, rail or car. It’s situated on the B4005 between Wroughton and Hodson, within easy reach of London and the main motorways.
+[Milton Hill House][MiltonHillHouse] is just 40 minutes by train into London’s Paddington, 16 minutes drive from junction 13 of the M4, 25 minutes drive from Oxford, 60 miles from London Heathrow and 80 miles from Gatwick airport. [Milton Hill House][MiltonHillHouse] is easily accessible by rail, air, or car. It’s situated on the A4130 between Milton and Rowstock, within easy reach of London and the main motorways.
 
-The nearest train station is Swindon (Wilts), 4 miles away.
+The nearest train station is Didcot Parkway, 4 miles away.
 
-Please check [Alexandra House Google Maps location][AlexandraGoogleMaps] to ensure you get to the hotel correctly.
+Please check [Milton Hill House Google Maps location][MiltonGoogleMaps] to ensure you get to the hotel correctly.
 
-Free parking is available. There are charging bays for electric vehicles.
+Free parking is available. There are not yet charging bays for electric vehicles on site but the nearest ones are a few hundred metres away, with a bigger charging station in Milton (TBC location).
 
 <div class="conference-location-images">
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/alexandra/alexandra-house-aerial.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - Aerial view showing the building surrounded with trees and some parking places"/>
+			<img src="img/miltonhill/Milton-BeeAndBee.jpg" class="thumbnail img-responsive" alt="Milton Hill House Hotel - Close up of the bug hotel"/>
 		</div>
 		<div class="col-md-6">
-			<img src="img/alexandra/alexandra-courtyard-mini.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - One of the courtyards with wooden tables, chairs and parasols"/>
+			<img src="img/miltonhill/Italian_garden.jpg" class="thumbnail img-responsive" alt="Milton Hill House Hotel - part of the Italian garden, with a terrasse in the background with tables and chairs"/>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6">
-			<img src="img/alexandra/alexandra-house-conference-room.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - The main conference room"/>
+			<img src="img/miltonhill/Main_Room_Wisteria.jpg" class="thumbnail img-responsive" alt="Milton Hill House Hotel - The main conference room"/>
 		</div>
 		<div class="col-md-6">
-			<img src="img/alexandra/alexandra-external-mini.jpg" class="thumbnail img-responsive" alt="Alexandra House Hotel - View of the main entrance with trees in the foreground"/>
+			<img src="img/miltonhill/building_reception.jpeg" class="thumbnail img-responsive" alt="Milton Hill House Hotel - View of the main entrance with trees in the foreground"/>
 		</div>
 	</div>
 </div>
@@ -51,31 +51,31 @@ Check outs must be finished ***on Sunday before TBCam. Late check outs are TBC**
 
 ### How to get there?
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2483.0401223724616!2d-1.7747757!3d51.5124799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487144d80350b131%3A0x430f7948ce834367!2sAlexandra%20House!5e0!3m2!1sfr!2suk!4v1668962372052!5m2!1sfr!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d631797.7232249748!2d-1.9893201826891131!3d51.788619886494786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876b9eb9a21583d%3A0x8f588d495e266418!2sMilton%20Hill%20House!5e0!3m2!1sen!2suk!4v1705788861682!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Alexandra House** <br>
-Whittingham Dr<br>
-Wroughton<br>
-Swindon<br>
-SN4 0QJ
+**Milton Hill House** <br>
+Steventon, <br>
+Abingdon, <br>
+Oxford, <br>
+OX13 6AF
 England, United Kingdom<br>
-T: +44 (0) 1793 819 000
+T: +44 (0) 1235 831 474
 
-The best place to find out how to get there is [Alexandra House's site][AlexandraHouse].
+The best place to find out how to get there is [Milton Hill House's site][MiltonHillHouse].
 
-The nearest station is Swindown Station. It is 4 miles and 15 minutes’ drive away. There are local taxis available to get from Swindon station to the venue.
+The nearest station is Didcot Parkway Station. It is 4 miles and 16 minutes’ drive away. There are local taxis available to get from Didcot station to the venue.
 
 Please check our wiki for the [local taxi companies][].
 
-Swindon rail station has direct links and connections from London Paddington station, Bristol and Heathrow airport.
+Didcot Parkway rail station has links and connections from London Paddington station, Heathrow and Gatwick airport.
 
-Heathrow Airport and Bristol Airport are about 1 hour drive from the venue.
+Heathrow Airport is about 1 hour drive from the venue and Gatwick Airport about 1h30.
 
 __TAXIS:__ If using taxis, either use [Uber][] or one of the [local taxi companies][] listed on the wiki. They are much cheaper. Be aware that they normally ask you to wait for them at the departures "drop off" and you will need to make your way there from the arrivals. 
 
 The fastest way to get to London from any airport is by train. Take a look at [National Rail][] for routes, times, prices and to book your tickets. If you are coming in a group, bear in mind you could save money. Three or four people travelling together pay for only two tickets if the service is off-peak (remember, you need to get these group tickets at the ticket office, rather than online or using the ticket machines at the train station).
 
-You normally can get direct trains to Swindon from London Paddington station. The train fare should cost from £18 each way when bough in advance [GWR][] (2 singles seem cheaper than a return...). When buying your train ticket, go to the ticket office instead of buying on the machines and show your tube ticket as you may get more than 50% discount — they will charge you only for the stretch beyond the zones you already paid for when coming to central London from the airport. That's the same for people with Oyster cards.
+You normally can get direct trains to Didcot Parkway from London Paddington station. The train fare should cost from £32 each way when bough in advance [GWR][] (2 singles seem cheaper than a return...). When buying your train ticket, go to the ticket office instead of buying on the machines and show your tube ticket as you may get more than 50% discount — they will charge you only for the stretch beyond the zones you already paid for when coming to central London from the airport. That's the same for people with Oyster cards.
 
 If you prefer to get to London by coach, [National Express][National Express from airports] is probably the best option, with wi-fi on their coaches.
 

@@ -6,8 +6,8 @@
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
 [open_space_unconference]: https://en.wikipedia.org/wiki/Open_Space_Technology
 
-[AlexandraHouse]: https://www.swindonalexandrahouse.co.uk
-[AlexandraGoogleMaps]: https://goo.gl/maps/aRwJgsFc6pDHerqS8
+[MiltonHillHouse]: https://www.miltonoxfordshire.co.uk/
+[MiltonGoogleMaps]: https://maps.app.goo.gl/hePHD3h9KeomuGFE8
 
 [tickets_page]: tickets.html
 [location]: location.html
