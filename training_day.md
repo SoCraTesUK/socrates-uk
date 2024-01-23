@@ -20,73 +20,21 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-The training day is organised around two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
+The training day is being organised. Last year (see [programme](https://github.com/SoCraTesUK/socrates-uk/wiki/2023-Training-Day)), we had two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
 
-| Time | Introduction Track | Advanced Track |
-|<img width=150/> | <img width=500/> | <img width=500/>
-| 09:30 - 10:30 | [Conversational BDD](#conversational-bdd) by Liz Keogh | [Refactoring Java to Kotlin](#refactoring-java-to-kotlin) by Nat Pryce & Duncan McGregor |
-| 10:45 - 11:45	| [Mobbing/ensemble programming](#mobbingensemble-programming) by Woody Zuill | ^ continued |
-| 12:00 - 13:00 | [Intro to the telemetry behind observability](#intro-to-the-telemetry-behind-observability) by Abby Bangser | [Working with dates and times - hard, but possible](#working-with-dates-and-times---hard-but-possible) by Jon Skeet |
+If you'd like to deliver a training session, or know someone who'd be great: [get in touch][contact] :) The session length below are informative, as an example of what we did last year.
+
+| Time |
+|<img width=150/> | <img width=500/> |
+| 09:30 - 10:30 | |
+| 10:45 - 11:45	| |
+| 12:00 - 13:00 | |
 | 13:00 - 14:30 | *Lunch*	|
-| 14:30 - 16:00 | [Code Reading workshop](#code-reading-workshop) by Marit van Dijk | [Adding tests to legacy code](#adding-tests-to-legacy-code) by Clare Sudbery |
-| 16:15 - 17:45 | [TDD with Cyber-dojo](#tdd-with-cyber-dojo) by Jon Jagger | [TBD without Continuous Disaster](#tbd-without-continuous-disaster) by Tim Ottinger |
+| 14:30 - 16:00 | |
+| 16:15 - 17:45 | |
 {:.table-striped}
 
 <br />
-
-##### Conversational BDD
-
-![Liz Keogh](img/2023/trainers/liz_keogh.png "Photo of Liz Keogh")
-
-Conversational BDD (Behaviour Driven Development), by Liz Keogh
-
-##### Refactoring Java to Kotlin
-
-![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
-
-Refactoring Java to Kotlin, by Nat Pryce & Duncan McGregor
-
-##### Mobbing/ensemble programming
-
-![Woody Zuill](img/2023/trainers/woody_zuill.png "Photo of Woody Zuill")
-
-Mobbing/ensemble programming, by Woody Zuill
-
-##### Intro to the telemetry behind observability
-
-![Abby Bangser](img/2023/trainers/abby_bangser.png "Photo of Abby Bangser, dark-haired, smiling, with a black top and silver necklace, on a brick wall background")
-
-Intro to the telemetry behind observability, by Abby Bangser
-
-##### Working with dates and times - hard, but possible
-
-![Jon Skeet](img/2023/trainers/jon_skeet.png "Photo of Jon Skeet")
-
-Working with dates and times - hard, but possible, by Jon Skeet
-
-##### Code Reading workshop
-
-![Marit van Dijk](img/2023/trainers/marit_van_dijk.png "Photo of Marit van Dijk")
-
-Code Reading workshop, by Marit van Dijk
-
-##### Adding tests to legacy code
-
-![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery")
-
-Adding tests to legacy code, by Clare Sudbery
-
-##### TDD with Cyber-dojo
-
-![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger")
-
-TDD with Cyber-dojo (Test Driven Development), by Jon Jagger
-
-##### TBD without Continuous Disaster
-
-![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger")
-
-TBD without Continuous Disaster (Trunk Based Development), by Tim Ottinger
 
 ### What are the COVID mitigations?
 
