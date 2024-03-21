@@ -20,7 +20,13 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-The training day is being organised. Last year (see [programme](https://github.com/SoCraTesUK/socrates-uk/wiki/2023-Training-Day)), we had two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
+The training day is being organised. We already know that these trainers will have sessions!
+* Clare Sudbery ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery")
+* Jon Jagger ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger")
+* Tim Ottinger ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger")
+* Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
+
+Last year (see [programme](https://github.com/SoCraTesUK/socrates-uk/wiki/2023-Training-Day)), we had two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
 
 If you'd like to deliver a training session, or know someone who'd be great: [get in touch][contact] :) The session length below are informative, as an example of what we did last year.
 
