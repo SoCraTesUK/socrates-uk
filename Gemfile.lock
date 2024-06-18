@@ -243,7 +243,8 @@ GEM
       ffi (~> 1.0)
     rdiscount (2.2.7.2)
     redcarpet (3.6.0)
-    rexml (3.2.6)
+    rexml (3.3.0)
+      strscan
     rouge (3.26.0)
     ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
@@ -258,6 +259,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
+    strscan (3.1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.4.1)
