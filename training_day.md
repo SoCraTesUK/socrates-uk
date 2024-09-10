@@ -112,7 +112,7 @@ You’ll learn a few core practices that will expand your skillset. Using the Ic
 
 ### Refactoring beyond the commit
 
- Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce") and Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor")
+ Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce") and Duncan McGregor ![Duncan McGregor](img/2024/trainers/duncan_mcgregor.png "Photo of Duncan McGregor")
 
 *Duration*: two hours
 
