@@ -112,28 +112,31 @@ You’ll learn a few core practices that will expand your skillset. Using the Ic
 
 ### Refactoring beyond the commit
 
-How you deliver a refactoring that cannot be delivered in a single commit
-
-Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
+ Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce") and Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor")
 
 *Duration*: two hours
+
 *Audience*: software developers.
+
 *Prerequisites*: experience with Kotlin and SQL a bonus, but not required.
 
 With modern tools refactoring is very easy. Maybe too easy. It’s easy to make a change to our code that has a widespread impact across or beyond our codebase. It’s easy to disrupt the work of other team members. It’s easy to break code that depends on ours. It’s easy to bring systems down when we deploy our refactored code.
 
 We can categorise refactorings by how easily the change to our code can be propagated beyond our local workspace:
-- Mono-commit
+
+Mono-commit
 - Affects a single codebase and built artefact.
 - Applied by one atomic commit.
-- Multi-commit
+
+Multi-commit
 - Creates wide-spread change in a single codebase & built artefact.
 - Applied in a sequence of commits with expand/contract to reduce disruption to team members.
-- Multi-deployment
+
+Multi-deployment
 - Cannot change all affected code in a single atomic commit.
 - Requires multiple deployments with expand/contract to avoid downtime and breaking dependent systems.
 
-In this session we explore the safe delivery of multi-commit and multi-deployment refactorings, through a mix of brainstorming at the whiteboard and hands-on ensemble programming.
+In this session we explore the safe delivery of multi-commit and multi-deployment refactorings, through a mix of brainstorming exercises and hands-on ensemble programming.
 
 ### Ensemble/Mob facilitation
 
