@@ -56,9 +56,9 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 ### How much does it cost?
 
-We sell tickets for the open space at £600. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will refund the difference.
+We sell tickets for the open space at £TBC. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will refund the difference. For reference, in the 2024 edition, we refunded £125.
 
-The training day is £350. There is an option to arrive the Wednesday evening for an extra £110 (accomodation + dinner & breakfast).
+The training day is £TBC. There is an option to arrive the Wednesday evening for an extra £TBC (accomodation + dinner & breakfast).
 
 <br>
 

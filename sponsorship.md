@@ -22,7 +22,7 @@ As an unconference with no predetermined agenda, SoCraTes is created by its part
 <br>
 By sponsoring SoCraTes, you can demonstrate that you share these values of collaboration and continuous improvement in software development. If you are recruiting, then this is a great way to reach out to a community of highly engaged potential candidates.  
 <br>
-This year we are also offering an optional, pre-conference Training Day, where participants can benefit from two tracks delivered by world-class practitioners, trainers, and coaches.  
+This year we might also offering an optional, pre-conference Training Day, where participants can benefit from two tracks delivered by world-class practitioners, trainers, and coaches.
 <br>
 Below is a list of the sponsorship packages that we’re offering. If you don’t see one that fits your requirements, please get in touch with us to discuss your needs.  
 
