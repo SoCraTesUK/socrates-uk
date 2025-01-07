@@ -6,7 +6,8 @@ title: Training Day
 
 {% include_relative links.md %}
 
-This year, we are running an optional Training Day ahead of the open space (inspired by the [Foundations day at SoCraTes Germany][socrates_de_foundations]). 
+In previous years, we ran an optional Training Day ahead of the open space (inspired by the [Foundations day at SoCraTes Germany][socrates_de_foundations]).
+We are considering whether to run one this year too, but we'd need more organisers! Join us?
 
 Are you new to the software industry, and want to get a head start? Have you been practicing for a while, but always thought there had to be some deeper method to it? Have you heard about test-driven development, refactoring, or connascence, and always wanted to learn more about them?
 
@@ -20,7 +21,9 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-The training day is organised around two tracks: this year *Track A* and *Track B*. Mix & match on the tracks is encouraged!
+The training day is organised around two tracks. Mix & match on the tracks is encouraged!
+
+We are considering whether to hold a training day this year. Check out **last year's edition**:
 
 | Time | Track A | Track B |
 |<img width=150/> | <img width=500/> | <img width=500/> |
@@ -165,6 +168,6 @@ So yes, you can join the OpenSpace whatever your level, and whether or not you h
 
 ## Cost
 
-Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £350 to attend.
+Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £TBC to attend.
 
-There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
+There is an option to arrive the Wednesday evening for an extra £TBC (accommodation + dinner & breakfast).
