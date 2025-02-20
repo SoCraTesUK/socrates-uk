@@ -13,6 +13,12 @@ the website locally to see how your changes will look like.
 
 Just follow the [official guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
+To run the site locally:
+```
+bundle install
+bundle exec jekyll serve --trace --incremental
+```
+
 If you don't want to install tools (or are running on windows where it's a pain), a command like the following helps bypass install issues (but runs more slowly):
 ```
 docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyll serve --trace --incremental
