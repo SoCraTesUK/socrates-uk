@@ -64,6 +64,9 @@ We sell tickets for the open space at £600. This will likely be reduced by [spo
 
 ### I want to buy my ticket!
 
+ ⚠️ The UK has introduced an Electronic Travel Authorisation (ETA) that applies, amongst other people, to EU citizens. <br />
+ Check [the guidance](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta). We've also made a [wiki page](https://github.com/SoCraTesUK/socrates-uk/wiki/Entering-the-UK-%E2%80%90-ETA) to share experiences applying.
+
 {% include ticket-provider.html %}
 
 <br>
