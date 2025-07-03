@@ -23,32 +23,27 @@ event_details:
 partner_events:
   - title: CodeFreeze
     website: https://codefreeze.fi/
-    date: January 7th - 14th 2023
+    date: January 10th - 17th 2026
     location: Kiilopää, Finland
 
   - title: SoCraTes Switzerland
-    website: http://www.socrates-ch.org/
-    date: February 2nd - 5th 2023
+    website: https://www.socrates-ch.org/
+    date: January 29th - February 1st 2026
     location: Ilanz, Switzerland
 
-  - title: SoCraTes Canada
-    website: https://socrates-ca.github.io
-    date: March 13th - 15th  2020
-    location: Amherst, Canada
-
-  - title: SoCraTes Maroc
-    website: https://socrates-ma.github.io
-    date: March 10th - 12th 2023
-    location: Bouznika, Marocco
+  - title: SoCraTes France
+    website: https://socrates-fr.github.io/
+    date: March 20th - 23rd 2025
+    location: Rochegude, France
 
   - title: SoCraTes Canaries
-    website: https://www.socracan.com/
-    date: May 11th - 14th 2023
-    location: Santa Cruz de Tenerife, Spain
+    website: https://www.socracan.org/
+    date: May 22nd - 25th 2025
+    location: Las Palmas, Spain
 
   - title: I T.A.K.E. Unconference
-    website: https://mozaicworks.com/product/i-t-a-k-e-unconference
-    date: May 25th - 26th 2022
+    website: https://itakeunconf.com/
+    date: May 26th - 27th 2021
     location: Bucharest, Romania
 
   - title: SoCraTes Day Chile
@@ -56,44 +51,64 @@ partner_events:
     date: TBC
     location: Santiago de Chile, Chile
 
-  - title: AgileCrete
-    website: https://agilecrete.org/
-    date: June 9th - 12th 2022
-    location: Kolymbari, Crete
-
   - title: JS CraftCamp
     website: http://jscraftcamp.org/
-    date: June 17th - 18th 2022
+    date: June 27th - 28th 2025
     location: Munich, Germany
-
-  - title: SoCraTes BE
-    website: https://socratesbe.org/
-    date: July 7th - 10th 2022
-    location: La Roche-en-Ardenne, Belgium
 
   - title: SoCraTes Germany
     website: https://www.socrates-conference.de/
-    date: August 25th - 28th  2022
+    date: July 17th - 20th  2025
     location: Soltau, Germany
 
+  - title: SoCraTes Maroc
+    website: https://socrates-ma.github.io
+    date: September 4th - 7th 2025
+    location: Bouznika, Marocco
+
   - title: SoCraTes Day Berlin
-    website: http://www.socratesday.berlin/
-    date: TBC
+    website: http://socratesday.berlin/
+    date: September 13th 2025
     location: Berlin, Germany
 
-  - title: SoCraTes Day Zurich
-    website: http://socrates-day.ch/
-    date: Friday 16th September 2022
+  - title: SoCraTes Day Switzerland
+    website: https://socrates-day.ch/
+    date: September 19th 2025
     location: Zürich, Switzerland
 
+  - title: SoCraTes Austria
+    website: https://socrates-conference.at/
+    date: September 26th - 27th 2025
+    location: Linz, Austria
+
+  - title: CITCON (Continuous Integration and Testing unConference)
+    website: https://citconf.com/
+    date: September 26th - 27th 2025
+    location: London (Woking), UK
+
   - title: SoCraTes Italy
-    website: http://www.socrates-conference.it/
-    date:  September 22nd - 24th 2022
+    website: https://www.socrates-conference.it/
+    date:  October 2nd - 4th 2025
     location: Rimini, Italy
 
-  - title: SoCraTes France
-    website: https://socrates-fr.github.io/
-    date: October 17-20th 2022
-    location: Uchaux, France
+  - title: SoCraTes Canada
+    website: https://socrates-ca.github.io
+    date: October 3rd - 5th  2025
+    location: Amherst, Canada
+
+  - title: SoCraTes BE
+    website: https://socratesbe.org/
+    date: October 9th - 12th 2025
+    location: La Roche-en-Ardenne, Belgium
+
+  - title: SoCraTes Crete
+    website: https://socrates-crete.org
+    date: October 24th - 27th 2025
+    location: Rethymno, Crete
+
+  - title: FroGS (Friends of Good Software)
+    website: https://frogsconf.nl/
+    date: Several times a year
+    location: Online
 
 markdown: kramdown
