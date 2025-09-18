@@ -57,14 +57,14 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 ### How much does it cost?
 
-We sell tickets for the open space at £600. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will refund the difference. For reference, in the 2024 edition, we refunded £125.
+We sell tickets for the open space at £TBC. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will give back a rebate for the difference. For reference, in the 2024 edition, the rebate was £125, and in 2025, there was no rebate.
 
 <br>
 
 
 ### I want to buy my ticket!
 
- ⚠️ The UK has introduced an Electronic Travel Authorisation (ETA) that applies, amongst other people, to EU citizens. <br />
+ ⚠️ The UK introduced in 2025 an Electronic Travel Authorisation (ETA) that applies, amongst other people, to EU citizens. <br />
  Check [the guidance](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta). We've also made a [wiki page](https://github.com/SoCraTesUK/socrates-uk/wiki/Entering-the-UK-%E2%80%90-ETA) to share experiences applying.
 
 {% include ticket-provider.html %}
