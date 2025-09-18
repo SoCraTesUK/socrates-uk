@@ -9,12 +9,11 @@ title: Tickets
 ### Our invitation
 Join us for another year of SoCraTes UK happening on {{ site.event_details.date }}! The event is hosted at [Milton Hill House, UK][location] which is surrounded by 22 acres of landscaped grounds and forest, delivering tranquil setting and backdrop.
 
-Three possible days of exchanging with fellow crafters:
+Four possible days of exchanging with fellow crafters:
 
+- An add-on [training day][training_day_page], where the sessions are set in advance (in the spirit of the [Foundations day at SoCraTes Germany][socrates_de_foundations]);
 - Two full days of [Open Space Unconference][open_space_unconference] plus extra time for getting to know fellow crafters from all experience levels;
 - A free-form day of activities, community led, to expand on the topics discussed during the open space, or anything else!
-
-(The [training day][training_day_page] is not happening this year but we're aiming to resume it next edition!)
 
 We will allocate tickets on a first-come first-serve basis.
 
@@ -30,6 +29,8 @@ We do not make any profit from the ticket price. The price might be reduced by [
 Food that respects your dietary preferences will be provided Thursday dinner till Sunday lunch. Water, tea, coffee and refreshments and the accommodation in beautiful rooms in the house itself is included.
 
 The venue has amazing grounds to relax and wander in and boast a gym, sauna, steam room, indoor pool and tennis court if you fancy.
+
+The training day is paid for separately (and includes lunch on Thursday).
 
 ### What are the COVID mitigations?
 
@@ -58,6 +59,8 @@ We will have some priority tickets reserved and free for under-indexed groups in
 ### How much does it cost?
 
 We sell tickets for the open space at £TBC. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will give back a rebate for the difference. For reference, in the 2024 edition, the rebate was £125, and in 2025, there was no rebate.
+
+The training day is £TBC. There is an option to arrive the Wednesday evening for an extra £TBC (accomodation + dinner & breakfast).
 
 <br>
 

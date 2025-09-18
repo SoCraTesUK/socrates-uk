@@ -6,27 +6,24 @@ title: Training Day
 
 {% include_relative links.md %}
 
-In previous years, we ran an optional Training Day ahead of the open space (inspired by the [Foundations day at SoCraTes Germany][socrates_de_foundations]).
-We are unable to run one this year, but we'd love to do it again the next edition. We'd need more organisers! [Join Us][contact]?
+We are resuming running an optional Training Day ahead of the open space (inspired by the [Foundations day at SoCraTes Germany][socrates_de_foundations]).
 
-Below is what it usually looks like, for reference.
-
-
-~~Are you new to the software industry, and want to get a head start? Have you been practicing for a while, but always thought there had to be some deeper method to it? Have you heard about test-driven development, refactoring, or connascence, and always wanted to learn more about them?~~
+Are you new to the software industry, and want to get a head start? Have you been practicing for a while, but always thought there had to be some deeper method to it? Have you heard about test-driven development, refactoring, or connascence, and always wanted to learn more about them?
 
 ## An Extra Day
 
-~~The Training Day is intended to open up the world of crafting and testing for newcomers and allow a deep-dive into certain topics. It offers a guided introduction to the conference experience. And provides an easy way to have all the questions you will probably arrive with answered by experienced practitioners.~~
+The Training Day is intended to open up the world of crafting and testing for newcomers and allow a deep-dive into certain topics. It offers a guided introduction to the conference experience. And provides an easy way to have all the questions you will probably arrive with answered by experienced practitioners.
 
-~~Unlike the rest of the conference, this day does not follow the [OpenSpace Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. The training day includes both introductory and advanced sessions. You will be able to choose which  sessions to attend, allowing you to build a program that suits your needs.~~
+Unlike the rest of the conference, this day does not follow the [OpenSpace Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. The training day includes both introductory and advanced sessions. You will be able to choose which  sessions to attend, allowing you to build a program that suits your needs.
 
-~~Sessions will cover foundational topics - the roots of what our community is about - taught by tenured and distinguished community members with years of practical experience. There will also be sessions that take a deeper look at these topics.~~
+Sessions will cover foundational topics - the roots of what our community is about - taught by tenured and distinguished community members with years of practical experience. There will also be sessions that take a deeper look at these topics.
 
 ## Programme
 
-~~The training day is organised around two tracks. Mix & match on the tracks is encouraged!~~
+The training day is organised around two tracks. Mix & match on the tracks is encouraged!~~
 
-This is the programme summary for **last year's edition** ([full programme](https://github.com/SoCraTesUK/socrates-uk/wiki/z2024-Training-Day)), for reference:
+This is the programme summary for the **2024 edition** ([full programme](https://github.com/SoCraTesUK/socrates-uk/wiki/z2024-Training-Day)), for reference.
+We are working hard to prepare this year's programme.
 
 | Time | Track A | Track B |
 |<img width=150/> | <img width=500/> | <img width=500/> |
@@ -44,23 +41,23 @@ This is the programme summary for **last year's edition** ([full programme](http
 
 ## What are the COVID mitigations?
 
-~~COVID-19 still causes illness and long-term harm across Europe. We want to keep attendees safe, while at the same time allowing for as much familiarity and community spirit as is possible. For this reason our policy at the training day will be:~~
+COVID-19 still causes illness and long-term harm across Europe. We want to keep attendees safe, while at the same time allowing for as much familiarity and community spirit as is possible. For this reason our policy at the training day will be:
 
 <ul>
-<li><s>masks will be provided and should be worn in all indoor conference/training day spaces (except while eating/drinking)</s></li>
-<li><s>lateral flow tests will be provided for the day (conference organisers should be notified if the test is positive)</s></li>
+<li>masks will be provided and should be worn in all indoor conference/training day spaces (except while eating/drinking)</li>
+<li>lateral flow tests will be provided for the day (conference organisers should be notified if the test is positive)</li>
 </ul>
 
-~~(For the next edition (2026), we hope to sort out active air filtering so we can make masks recommended instead of mandatory.)~~
+(For the next edition (2026), we hope to sort out active air filtering so we can make masks recommended instead of mandatory.)
 
 ## Can I still join the OpenSpace?
 
-~~We welcome practitioners and learners at all levels at SoCraTes - because we believe that sharing, teaching and learning are equally important to the community health, and that this is a fundamental part of what makes SoCraTes the magical place it is. Training Day is intended to build bridges and make it easier to join the community, not to create an extra entry barrier.~~
+We welcome practitioners and learners at all levels at SoCraTes - because we believe that sharing, teaching and learning are equally important to the community health, and that this is a fundamental part of what makes SoCraTes the magical place it is. Training Day is intended to build bridges and make it easier to join the community, not to create an extra entry barrier.
 
-~~So yes, you can join the OpenSpace whatever your level, and whether or not you have attended the Training Day.~~
+So yes, you can join the OpenSpace whatever your level, and whether or not you have attended the Training Day.
 
 ## Cost
 
-~~Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £TBC to attend.~~
+Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £TBC to attend.
 
-~~There is an option to arrive the Wednesday evening for an extra £TBC (accommodation + dinner & breakfast).~~
+There is an option to arrive the Wednesday evening for an extra £TBC (accommodation + dinner & breakfast).
