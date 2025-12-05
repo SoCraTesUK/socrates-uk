@@ -23,6 +23,17 @@ If you don't want to install tools (or are running on windows where it's a pain)
 ```
 docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyll serve --trace --incremental
 ```
+- You can then visit http://localhost:4000/ in your browser
+- It will automatically refresh in response to code changes
+
+### Deploy changes to the web
+
+- When you push any changes to github, that will kick off a deploy - you’ll see a little orange dot at the top of the code window on github.com - click on that and you’ll see deployment progress
+
+### Code structure
+
+- The home page is several sections stacked on top of each other. Each section corresponds to an html file in the `_includes` folder.
+- The other web pages are selectable from the menu bar at the top of the site. Each menu corresponds to a separate markdown file - these are all in the root folder - eg `tickets.md`. 
 
 ### To upgrade jekyll
 
