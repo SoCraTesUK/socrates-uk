@@ -26,6 +26,15 @@ docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyl
 - You can then visit http://localhost:4000/ in your browser
 - It will automatically refresh in response to code changes
 
+### Get docker working on your machine
+
+- You may need the following:
+- `brew install docker`
+- Install Docker Desktop: https://docs.docker.com/desktop/setup/install/mac-install/ 
+  - You can skip the bit about setting up an account
+- Once you have run Docker Desktop you should be able to see “Engine running” in green, bottom left
+- Then you should be able to run the `docker run` command above
+
 ### Deploy changes to the web
 
 - When you push any changes to github, that will kick off a deploy - you’ll see a little orange dot at the top of the code window on github.com - click on that and you’ll see deployment progress
