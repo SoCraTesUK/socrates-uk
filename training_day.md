@@ -20,22 +20,16 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-The training day is organised around two tracks. Mix & match on the tracks is encouraged!~~
+We are currently beavering away on the 2026 programme and firming up some provisional names, but we can already reveal that we have confirmed the following six trainers and probable topics:
 
-This is the programme summary for the **2024 edition** ([full programme](https://github.com/SoCraTesUK/socrates-uk/wiki/z2024-Training-Day)), for reference.
-We are working hard to prepare this year's programme.
+- [Lisi Hocke](https://www.lisihocke.com/) - Secure development lifecycle
+- [Clare Sudbery](https://queen-of-questions.kit.com/) - Using Test Driven Development (TDD) to get better results from LLMs/AI
+- [Jon Jagger](https://jonjagger.blogspot.com/) - Practising TDD with [Cyber-dojo](https://cyber-dojo.org)
+- [Duncan McGregor](https://oneeyedmen.com) - Extreme refactoring
+- [Nat Pryce](https://www.linkedin.com/in/natpryce/) - Extreme refactoring
+- [Tim Ottinger](https://agileotter.blogspot.com/) - Value stream mapping (tbc)
 
-| Time | Track A | Track B |
-|<img width=150/> | <img width=500/> | <img width=500/> |
-| *09:30 - 09:45* | *Welcome* | - |
-|  09:45 - 10:45  | TDD game with Cyber-Dojo, by Jon Jagger ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger") | - |
-| *10:45 - 11:00* | *Break* | - |
-|  11:00 - 12:30  | Learn C++ by example, by Fran Buontempo ![Fran Buontempo](img/2024/trainers/fran_buontempo.jpg "Photo of Fran Buontempo") | Functional FizzBuzz, by Duncan McGregor ![Duncan McGregor](img/2024/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") |
-| *12:30 - 14:00* | *Lunch* | - |
-|  14:30 - 16:00  | Intro to Systems Thinking, by Diana Montalion ![Diana Montalion](img/2024/trainers/diana_montalion.png "Photo of Diana Montalion") <br /> and Andrew Harmel-Law ![Andrew Harmel-Law](img/2024/trainers/andrew_harmel-law.jpg "Photo of Andrew Harmel-Law") | Refactoring beyond the commit by Duncan McGregor ![Duncan McGregor](img/2024/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") <br /> and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce") <br>  How you deliver a refactoring that cannot be delivered in a single commit|
-| *16:00 - 16:15* | *Break* | - |
-|  16:15 - 17:45  | Ensemble/Mob facilitation by Clare Sudbery ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery") | High-level design: a test-driven approach by Jason Gorman ![Jason Gorman](img/2024/trainers/jason_gorman.jpg "Photo of Jason Gorman") |
-{:.table-striped}
+To get an idea of how the day might take shape, you can have a look at the [programme from the last time we ran the Training Day](https://github.com/SoCraTesUK/socrates-uk/wiki/z2024-Training-Day) (in 2024).
 
 <br />
 
@@ -51,6 +45,6 @@ So yes, you can join the OpenSpace whatever your level, and whether or not you h
 
 ## Cost
 
-Training Day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £375 to attend.
+The training day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £375 to attend.
 
 There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
