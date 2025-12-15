@@ -20,7 +20,7 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-We are currently beavering away on the 2026 programme and firming up some provisional names, but we can already reveal that we have confirmed the following six trainers and probable topics:
+We're currently beavering away on the 2026 programme and firming up some provisional names, but we can already reveal that we've confirmed the following six trainers and probable topics:
 
 - [Lisi Hocke](https://www.lisihocke.com/) - Secure development lifecycle
 - [Clare Sudbery](https://queen-of-questions.kit.com/) - Using Test Driven Development (TDD) to get better results from LLMs/AI
