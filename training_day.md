@@ -25,7 +25,7 @@ We're currently beavering away on the 2026 programme and firming up some provisi
 - [Lisi Hocke](https://www.lisihocke.com/) - Secure development lifecycle
 - [Clare Sudbery](https://queen-of-questions.kit.com/) - Using Test Driven Development (TDD) to get better results from LLMs/AI
 - [Jon Jagger](https://jonjagger.blogspot.com/) - Practising TDD with [Cyber-dojo](https://cyber-dojo.org)
-- [Duncan McGregor](https://oneeyedmen.com) - Extreme refactoring
+- [Duncan McGregor](https://youtube.com/@pairingwithduncan) - Extreme refactoring
 - [Nat Pryce](https://www.linkedin.com/in/natpryce/) - Extreme refactoring
 - [Tim Ottinger](https://agileotter.blogspot.com/) - Value stream mapping (tbc)
 
