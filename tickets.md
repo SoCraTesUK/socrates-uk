@@ -62,8 +62,7 @@ The training day is £375. There is an option to arrive the Wednesday evening fo
 
 Great! Scroll down and click on the embedded "Buy a ticket" button.
 
- And just so you know, if you're travelling from outside the UK... ⚠️ The UK introduced in 2025 an Electronic Travel Authorisation (ETA) that applies, amongst other people, to EU citizens. <br />
- Check [the guidance](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta). We've also made a [wiki page](https://github.com/SoCraTesUK/socrates-uk/wiki/Entering-the-UK-%E2%80%90-ETA) to share experiences applying.
+ ⚠️ And just so you know, if you're travelling from outside the UK... The UK introduced in 2025 an Electronic Travel Authorisation (ETA) that applies, amongst other people, to EU citizens. Check [the guidance](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta). We've also made a [wiki page](https://github.com/SoCraTesUK/socrates-uk/wiki/Entering-the-UK-%E2%80%90-ETA) to share experiences applying.
 
 {% include ticket-provider.html %}
 
