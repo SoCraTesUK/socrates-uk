@@ -20,8 +20,9 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-We're currently beavering away on the 2026 programme and firming up some provisional names, but we can already reveal that we've confirmed the following six trainers and probable topics:
+We're currently beavering away on the 2026 programme and firming up some provisional names, but we can already reveal that we've confirmed the following trainers and probable topics:
 
+- [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) - Controlling legacy code with approval tests
 - [Lisi Hocke](https://www.lisihocke.com/) - Secure development lifecycle
 - [Clare Sudbery](https://queen-of-questions.kit.com/) - Using Test Driven Development (TDD) to get better results from LLMs/AI
 - [Jon Jagger](https://jonjagger.blogspot.com/) - Practising TDD with [Cyber-dojo](https://cyber-dojo.org)
