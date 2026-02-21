@@ -37,6 +37,7 @@ docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyl
 - ...then get it running in the background
 - Once you have run Docker Desktop you should be able to see “Engine running” in green, bottom left
 - Then you should be able to run the `docker run` command (see above for the full command - it's quite long).
+  - It's a good idea to keep this running in a separate terminal until you're sure you're done, just because if you stop it, it takes a little while to start it again.
 
 ### Deploy changes to the web
 
