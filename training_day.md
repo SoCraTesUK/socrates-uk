@@ -6,13 +6,13 @@ title: Training Day
 
 {% include_relative links.md %}
 
-We are resuming running an optional Training Day ahead of the open space (inspired by the [Foundations day at SoCraTes Germany][socrates_de_foundations]).
-
 Are you new to the software industry, and want to get a head start? Have you been practicing for a while, but always thought there had to be some deeper method to it? Have you heard about test-driven development, refactoring, or connascence, and always wanted to learn more about them?
 
-## An Extra Day
+We are resuming running an optional Training Day, on the Thursday ahead of the open space (inspired by the [Foundations day at SoCraTes Germany][socrates_de_foundations]).
 
-The Training Day is intended to open up the world of crafting and testing for newcomers and allow a deep-dive into certain topics. It offers a guided introduction to the conference experience. And provides an easy way to have all the questions you will probably arrive with answered by experienced practitioners.
+## June 18th - An Extra Day
+
+The Training Day will happen `Thurs 18th June '26`, and is intended to open up the world of crafting and testing for newcomers and allow a deep-dive into certain topics. It offers a guided introduction to the conference experience. And provides an easy way to have all the questions you will probably arrive with answered by experienced practitioners.
 
 Unlike the rest of the conference, this day does not follow the [OpenSpace Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. The training day includes both introductory and advanced sessions. You will be able to choose which  sessions to attend, allowing you to build a program that suits your needs.
 
@@ -20,10 +20,11 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-We're currently beavering away on the 2026 programme and firming up some provisional names, but we can already reveal that we've confirmed the following trainers and probable topics:
+We're currently beavering away on the precise details of the 2026 programme, but we can already confirm this outstanding lineup of internationally-recognised trainers:
 
 - [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) - Controlling legacy code with approval tests
-- [Lisi Hocke](https://www.lisihocke.com/) - Secure development lifecycle
+- [Lisi Hocke](https://www.lisihocke.com/) - How to create a secure development lifecycle
+- [Gemma Cameron](https://www.linkedin.com/in/rubygem/) - Topic tbc
 - [Clare Sudbery](https://queen-of-questions.kit.com/) - Using Test Driven Development (TDD) to get better results from LLMs/AI
 - [Jon Jagger](https://jonjagger.blogspot.com/) - Practising TDD with [Cyber-dojo](https://cyber-dojo.org)
 - [Duncan McGregor](https://youtube.com/@pairingwithduncan) - Extreme refactoring

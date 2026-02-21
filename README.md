@@ -21,7 +21,7 @@ bundle exec jekyll serve --trace --incremental
 
 If you don't want to install tools (or are running on windows where it's a pain), a command like the following helps bypass install issues (but runs more slowly):
 ```
-# (Get Docker Desktop running in the background first)
+# (Get Docker Desktop running in the background first) (described on my machine as Docker.app)
 docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyll serve --trace --incremental
 ```
 - You can then visit http://localhost:4000/ in your browser
@@ -29,12 +29,14 @@ docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyl
 
 ### Get docker working on your machine
 
-- You may need the following:
-- `brew install docker`
-- Install Docker Desktop: https://docs.docker.com/desktop/setup/install/mac-install/ 
+- You will need to install it...
+- ...start with this: `brew install docker`
+  - Not actually sure I needed this? Might have been superceded by the next step?
+- ...then go to website: https://docs.docker.com/desktop/setup/install/mac-install/ 
   - You can skip the bit about setting up an account
+- ...then get it running in the background
 - Once you have run Docker Desktop you should be able to see “Engine running” in green, bottom left
-- Then you should be able to run the `docker run` command above
+- Then you should be able to run the `docker run` command (see above for the full command - it's quite long).
 
 ### Deploy changes to the web
 
