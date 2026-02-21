@@ -29,7 +29,7 @@ We're currently beavering away on the precise details of the 2026 programme, but
 - [Jon Jagger](https://jonjagger.blogspot.com/) - Practising TDD with [Cyber-dojo](https://cyber-dojo.org)
 - [Duncan McGregor](https://youtube.com/@pairingwithduncan) - Extreme refactoring
 - [Nat Pryce](https://www.linkedin.com/in/natpryce/) - Extreme refactoring
-- [Tim Ottinger](https://agileotter.blogspot.com/) - Value stream mapping (tbc)
+- [Tim Ottinger](https://agileotter.blogspot.com/) - Value stream mapping
 
 To get an idea of how the day might take shape, you can have a look at the [programme from the last time we ran the Training Day](https://github.com/SoCraTesUK/socrates-uk/wiki/z2024-Training-Day) (in 2024).
 
