@@ -55,19 +55,19 @@ We sell tickets for the **open space at £675**. This will likely be reduced by 
 
 The **training day is £375**. There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
 
-Want to **come with your loved ones**? We also have:
+Want to **come with your loved ones? Or a friend? Or a colleague?** We also have:
 - a `+1` option to share a room (twin beds available on request): £66 per 24h for accommodation and food for an adult.\
-So, for example, an extra £198 (3 * £66) will cover from the opening of the Open Space Thursday before diner until Sunday after lunch.\
-Or, another example, an extra £264 (4 * £66) will cover from Wednesday evening before diner (ahead of the training day) until Sunday after lunch.
+So, for example, an extra £198 (3 * £66) will cover from the opening of the Open Space Thursday before dinner until Sunday after lunch.\
+Or, another example, an extra £264 (4 * £66) will cover from Wednesday evening before dinner (ahead of the training day) until Sunday after lunch.
 - a `+1` special rate for also attending the Open Space: an additional £175, on top of the £66 per night for accommodation & food.\
-So, for example, a total of £373 for a `+1` arriving Thursday before diner, leaving Sunday after lunch and attending the open space.
+So, for example, a total of £373 for a `+1` arriving Thursday before dinner, leaving Sunday after lunch and attending the open space.
 
 For either of these, book your ticket via the regular registration form, choose "Pay by Invoice" and let us know which combination you are interested in:
 - with/without attending the conference
 - twin beds or double bed
 - which arrival/departure date & roughly what time of day
 
-*Note 1*: If you have a +1 for the training day, they should buy their own training day ticket at the standard rate. If they are not attending the training day but wish to arrive on the Wednesday evening, it will be £66 extra for dinner, bed, and breakfast.
+*Note 1*: If you have a `+1` for the training day, they should buy their own training day ticket at the standard rate.
 
 *Note 2*: If you would prefer keeping the `+1` costs out of your invoice, you can also let us know they are coming but pay the extras directly with the venue.
 
