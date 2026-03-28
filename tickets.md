@@ -22,7 +22,7 @@ Scroll down for more information, especially our [Code of Conduct][coc_page] and
 
 ### What’s included in the price?
 
-The ticket includes the booked room, breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks at the bar are **not** included.
+The ticket includes the booked room for a single person, breakfast, lunch and dinner. Biscuits, coffee, tea and water will be available throughout the day. Drinks at the bar are **not** included.
 
 We do not make any profit from the ticket price. The price might be reduced by [sponsorships][sponsorship_page], so make sure to spread the word so all attendees can benefit from cheaper tickets!
 
@@ -51,9 +51,37 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 ### How much does it cost?
 
-We sell tickets for the open space at £675. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will give back a rebate for the difference. For reference, in the 2024 edition, the rebate was £125, and in 2025, there was no rebate.
+We sell tickets for the **open space at £675**. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will give back a rebate for the difference. For reference, in the 2024 edition, the rebate was £125, and in 2025, there was no rebate.
 
-The training day is £375. There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
+The **training day is £375**. There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
+
+Want to **come with your loved ones? Or a friend? Or a colleague?** We also have:
+- a `+1` option to share a room (twin beds available on request): £66 per 24h for accommodation and food for an adult.\
+So, for example, an extra £198 (3 * £66) will cover from the opening of the Open Space Thursday before dinner until Sunday after lunch.\
+Or, another example, an extra £264 (4 * £66) will cover from Wednesday evening before dinner (ahead of the training day) until Sunday after lunch.
+- a `+1` special rate for also attending the Open Space: an additional £175, on top of the £66 per night for accommodation & food.\
+So, for example, a total of £373 for a `+1` arriving Thursday before dinner, leaving Sunday after lunch and attending the open space.
+
+For either of these, book your ticket via the regular registration form, choose "Pay by Invoice" and let us know which combination you are interested in:
+- with/without attending the conference
+- twin beds or double bed
+- which arrival/departure date & roughly what time of day
+
+*Note 1*: If you have a `+1` for the training day, they should buy their own training day ticket at the standard rate.
+
+*Note 2*: If you would prefer keeping the `+1` costs out of your invoice, you can also let us know they are coming but pay the extras directly with the venue.
+
+For people with children, there are a few family rooms at the venue that accommodate up to 2 adults and 2 children (though they are not reserved for us: book early!). They incur extra charges that you'll settle directly with the venue:
+- For accommodation: £20 per night
+- For food:
+  - Under 5s: Free
+  - 6 – 11 Years: £33 per person per day
+  - 12+ Years: £66 per person per day (includes young adults)
+
+Process to book these family rooms:
+1. [Let us know][contact] you're interested in one (and how many children/adults) so we confirm availability with the venue
+1. Buy your ticket via the regular registration form, below - we'll upgrade to a family room properly with the venue
+1. When arriving at the conference, settle the extra charges with the venue
 
 <br>
 
