@@ -105,7 +105,9 @@ If you combine tests and XP rigour with the efforts of an AI coding assistant, w
 
 #### Jon Jagger
 
-[Jon Jagger](https://jonjagger.blogspot.com/)
+[Jon Jagger](https://jonjagger.blogspot.com/) is an independent software trainer, designer, and consultant specializing in Visual C# .NET, C++, Java, C, OO, patterns, design, and general programming. 
+
+Jon is a U.K. C++ standards panel member and a regular contributor to the ACCU Overload journal. His interests include training excellence, design, simplicity, problem solving, and Monty Python (which he says is required knowledge for all software developers). Jon, his wife, and their three children live in a delightful 104-year-old house overlooking a seven-acre field of barley in a village called Trull (population 300).
 
 #### Gemma Cameron
 
@@ -123,7 +125,9 @@ He has tried almost anything in his quest for better software, including, but no
 
 #### Nat Pryce
 
-[Nat Pryce](https://www.linkedin.com/in/natpryce/)
+[Nat Pryce](https://www.linkedin.com/in/natpryce/) is the co-author of [Growing Object­-Oriented Software Guided by Tests](https://growing-object-oriented-software.com/). An early adopter of XP, he has written or contributed to several open source libraries and tools that support TDD and was one of the founding organizers of the London XP Day conference. 
+
+He works as programmer, architect, trainer, and consultant in a variety of industries, including e-commerce, media, telecoms, finance, retail and marketing communications. He has delivered business-critical systems that range from embedded devices to large compute farms supporting global business.
 
 #### Lisi Hocke
 
