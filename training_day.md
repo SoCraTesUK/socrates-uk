@@ -30,13 +30,13 @@ Sessions will cover foundational topics - the roots of what our community is abo
 | Time | Track A | Track B |
 |<img width=150/> | <img width=500/> | <img width=500/> |
 | *09:30 - 09:45* | *Welcome* |
-|  09:45 - 10:45  | [TDD game with Cyber-Dojo](#jon-jagger-tdd-game-with-cyber-dojo) <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](https://jonjagger.blogspot.com/) |
+|  09:45 - 10:45  | [TDD game with Cyber-Dojo](#jon-jagger-tdd-game-with-cyber-dojo) <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](#jon-jagger) |
 | *10:45 - 11:00* | *Break* |
-|  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](https://www.linkedin.com/in/rubygem/) | [I Suppose This Is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](https://youtube.com/@pairingwithduncan) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](https://www.linkedin.com/in/natpryce/) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
+|  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](#gemma-cameron) | [I Suppose This Is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](#duncan-mcgregor) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](#nat-pryce) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
 | *13:00 - 14:15* | *Lunch* |
-|  14:15 - 15:15  | [How to create a secure development lifecycle](#lisi-hocke-how-to-create-a-secure-development-lifecycle) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](https://www.lisihocke.com/) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) |
+|  14:15 - 15:15  | [How to create a secure development lifecycle](#lisi-hocke-how-to-create-a-secure-development-lifecycle) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](#lisi-hocke) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](#emily-bache) |
 | *15:15 - 15:30* | *Break* |
-|  15:30 - 17:30  | [Value stream mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](https://agileotter.blogspot.com/) | [Using TDD to get better results from LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](https://queen-of-questions.kit.com/) |
+|  15:30 - 17:30  | [Value stream mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](#tim-ottinger) | [Using TDD to get better results from LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](#clare-sudbery) |
 | Time | Track A | Track B |
 {:.table-striped}
 
@@ -105,35 +105,35 @@ If you combine tests and XP rigour with the efforts of an AI coding assistant, w
 
 #### Jon Jagger
 
-blah blah
+[Jon Jagger](https://jonjagger.blogspot.com/)
 
 #### Gemma Cameron
 
-blah blah
+[Gemma Cameron](https://www.linkedin.com/in/rubygem/)
 
 #### Duncan McGregor
 
-blah blah
+[Duncan McGregor](https://youtube.com/@pairingwithduncan)
 
 #### Nat Pryce
 
-blah blah
+[Nat Pryce](https://www.linkedin.com/in/natpryce/)
 
 #### Lisi Hocke
 
-blah blah
+[Lisi Hocke](https://www.lisihocke.com/)
 
 #### Emily Bache
 
-blah blah
+[Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach)
 
 #### Tim Ottinger
 
-blah blah
+[Tim Ottinger](https://agileotter.blogspot.com/)
 
 #### Clare Sudbery
 
-blah blah
+[Clare Sudbery](https://queen-of-questions.kit.com/)
 
 ## What are the COVID mitigations?
 
