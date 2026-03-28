@@ -22,7 +22,7 @@ Sessions will cover foundational topics - the roots of what our community is abo
 - [Session Details](#session-details)
 - [Our Trainers](#our-trainers)
 - [Covid Mitigations](#what-are-the-covid-mitigations)
-- [How the Training Day Connects with the Main Event](#can-i-still-join-the-openspace)
+- [Can I still join the OpenSpace?](#can-i-still-join-the-openspace)
 - [Prices](#cost)
 
 ## Programme
