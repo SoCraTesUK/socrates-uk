@@ -105,9 +105,18 @@ If you combine tests and XP rigour with the efforts of an AI coding assistant, w
 
 #### Jon Jagger
 
-[Jon Jagger](https://jonjagger.blogspot.com/) is an independent software trainer, designer, and consultant specializing in Visual C# .NET, C++, Java, C, OO, patterns, design, and general programming. 
-
-Jon is a U.K. C++ standards panel member and a regular contributor to the ACCU Overload journal. His interests include training excellence, design, simplicity, problem solving, and Monty Python (which he says is required knowledge for all software developers). Jon, his wife, and their three children live in a delightful 104-year-old house overlooking a seven-acre field of barley in a village called Trull (population 300).
+[Jon Jagger](https://jonjagger.blogspot.com/) is head of software at [Kosli](https://www.kosli.com/). 
+<br/>He specialises in [practice](http://jonjagger.blogspot.co.uk/2013/10/practice.html), process, test driven development, and complex-adaptive systems-thinking.
+<br/>He's 39 years old (hex) and has loved software since he was 10 (decimal).
+<br/>He's married to the beautiful Natalie, and proud father of Ellie, Penny and Patrick, and grandfather to Kobi.
+<br/>He built [Cyber-dojo.org](https://cyber-dojo.org/) to promote [deliberate practice](http://jonjagger.blogspot.co.uk/2013/10/practice.html) for software developers.
+<br/>He was a self-employed consultant for 20+ years. He's worked with Accenture, Aviva, Cisco, Ericsson, Friends Provident, HP, Microsoft, Opera, Ordnance Survey, RBS, Reuters, Renault F1, Schlumberger, Tandberg and many many more.
+<br/>He's the co-author (with [Olve Maudal](http://olvemaudal.com/)) of the [Deep C/C++ slide deck](http://www.slideshare.net/olvemaudal/deep-c) (over 1,000,000 views). 
+<br/>He's the ex ECMA Task Group 2 C# convenor.
+<br/>He's had some C# [books published](http://amazon.co.uk/Annotated-C-Standard-Jon-Jagger/dp/0123725119).
+<br/>He's the ex [ACCU](http://accu.org/) [conference](http://accu.org/index.php/conferences/accu_conference_2015) chairman.
+<br/>He loves [coarse fishing](http://jonjagger.blogspot.com/2010/09/barbel-fishing-on-river-wye.html) and [salmon fishing](http://jonjagger.blogspot.co.uk/2015/05/spring-salmon.html).
+<br/>He lives in Somerset, England.
 
 #### Gemma Cameron
 
