@@ -20,29 +20,16 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-We're currently beavering away on the precise details of the 2026 programme, but we can already confirm this outstanding lineup of internationally-recognised trainers:
-
-- [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) - Controlling legacy code with approval tests
-- [Lisi Hocke](https://www.lisihocke.com/) - How to create a secure development lifecycle
-- [Gemma Cameron](https://www.linkedin.com/in/rubygem/) - Topic tbc
-- [Clare Sudbery](https://queen-of-questions.kit.com/) - Using Test Driven Development (TDD) to get better results from LLMs/AI
-- [Jon Jagger](https://jonjagger.blogspot.com/) - Practising TDD with [Cyber-dojo](https://cyber-dojo.org)
-- [Duncan McGregor](https://youtube.com/@pairingwithduncan) - Extreme refactoring
-- [Nat Pryce](https://www.linkedin.com/in/natpryce/) - Extreme refactoring
-- [Tim Ottinger](https://agileotter.blogspot.com/) - Value stream mapping
-
-To get an idea of how the day might take shape, you can have a look at the [programme from the last time we ran the Training Day](https://github.com/SoCraTesUK/socrates-uk/wiki/z2024-Training-Day) (in 2024).
-
 | Time | Track A | Track B |
 |<img width=150/> | <img width=500/> | <img width=500/> |
 | *09:30 - 09:45* | *Welcome* |
-|  09:45 - 10:45  | TDD game with Cyber-Dojo <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> Jon Jagger |
+|  09:45 - 10:45  | TDD game with Cyber-Dojo <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](https://jonjagger.blogspot.com/) |
 | *10:45 - 11:00* | *Break* |
-|  11:00 - 13:00  | Hands-on: Bringing User Stories to Life <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> Gemma Cameron | I Suppose This Is My Life Now - Mercilessly Refactoring AI Code <br/> Duncan McGregor ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
+|  11:00 - 13:00  | Hands-on: Bringing User Stories to Life <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](https://www.linkedin.com/in/rubygem/) | I Suppose This Is My Life Now - Mercilessly Refactoring AI Code <br/> [Duncan McGregor](https://youtube.com/@pairingwithduncan) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](https://www.linkedin.com/in/natpryce/) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
 | *13:00 - 14:15* | *Lunch* |
-|  14:15 - 15:15  | How to create a secure development lifecycle <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> Lisi Hocke | Legacy Code - Characterization Testing with Approvals <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> Emily Bache |
+|  14:15 - 15:15  | How to create a secure development lifecycle <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](https://www.lisihocke.com/) | Legacy Code - Characterization Testing with Approvals <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) |
 | *15:15 - 15:30* | *Break* |
-|  15:30 - 17:30  | Value stream mapping <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> Tim Ottinger | Using TDD to get better results from LLMs/AI <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> Clare Sudbery |
+|  15:30 - 17:30  | Value stream mapping <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](https://agileotter.blogspot.com/) | Using TDD to get better results from LLMs/AI <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](https://queen-of-questions.kit.com/) |
 | Time | Track A | Track B |
 {:.table-striped}
 
