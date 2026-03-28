@@ -23,17 +23,74 @@ Sessions will cover foundational topics - the roots of what our community is abo
 | Time | Track A | Track B |
 |<img width=150/> | <img width=500/> | <img width=500/> |
 | *09:30 - 09:45* | *Welcome* |
-|  09:45 - 10:45  | TDD game with Cyber-Dojo <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](https://jonjagger.blogspot.com/) |
+|  09:45 - 10:45  | [TDD game with Cyber-Dojo](#jon-jagger-tdd-game-with-cyber-dojo) <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](https://jonjagger.blogspot.com/) |
 | *10:45 - 11:00* | *Break* |
-|  11:00 - 13:00  | Hands-on: Bringing User Stories to Life <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](https://www.linkedin.com/in/rubygem/) | I Suppose This Is My Life Now - Mercilessly Refactoring AI Code <br/> [Duncan McGregor](https://youtube.com/@pairingwithduncan) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](https://www.linkedin.com/in/natpryce/) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
+|  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](https://www.linkedin.com/in/rubygem/) | [I Suppose This Is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](https://youtube.com/@pairingwithduncan) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](https://www.linkedin.com/in/natpryce/) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
 | *13:00 - 14:15* | *Lunch* |
-|  14:15 - 15:15  | How to create a secure development lifecycle <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](https://www.lisihocke.com/) | Legacy Code - Characterization Testing with Approvals <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) |
+|  14:15 - 15:15  | [How to create a secure development lifecycle](#lisi-hocke-how-to-create-a-secure-development-lifecycle) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](https://www.lisihocke.com/) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) |
 | *15:15 - 15:30* | *Break* |
-|  15:30 - 17:30  | Value stream mapping <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](https://agileotter.blogspot.com/) | Using TDD to get better results from LLMs/AI <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](https://queen-of-questions.kit.com/) |
+|  15:30 - 17:30  | [Value stream mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](https://agileotter.blogspot.com/) | [Using TDD to get better results from LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](https://queen-of-questions.kit.com/) |
 | Time | Track A | Track B |
 {:.table-striped}
 
 <br />
+
+### Jon Jagger: TDD game with Cyber-Dojo
+
+You will be practicing test driven development away from the pressures of getting things done. You will be using the innovative, open source, browser based [Cyber-dojo](https://cyber-dojo.org) which provides a highly effective environment designed specifically for reflection and improvement. This is a hands-on intense but fun workshop. There are no slides.
+
+### Gemma Cameron: Bringing User Stories to Life
+
+The hardest thing about software development is sharing ideas and understanding your users. What are we making, who is it for, what problems do they currently have, how can we fix them, how will they feel? What could go wrong for them? 
+User stories have become boring tasks written in gherkin syntax. How can the ideas and feelings be shared in such a simple way that even your family and friends will understand your product and its benefits? How can you understand the context the user is operating in? How can you build a system for them that helps rather than hinders in their workflow? How can you plan your system for when things go wrong?
+
+I've got a fun thing for you to try in this workshop: Comics!
+
+Bring a few of your own users stories and we’ll bring them to life in a very short amount of time, with no drawing skills required! 
+
+Please bring a laptop to this workshop.
+
+### Duncan McGregor & Nat Pryce: I Suppose This Is My Life Now - Mercilessly Refactoring AI Code
+
+This is SoCraTes. We’re all about the craft. But for some reason the code generated by guessing the next thing the average developer would type doesn’t meet our standards. And sometimes we just like to have a bit of fun.
+
+Join Nat and Duncan in this two-hour workshop where we’ll let the AI do the initial grunt work so that we have more time to polish. First we’ll generate a game of snake; maybe even the tests. We could ship that, but it’s beneath us. How good could the code be? Duncan has a theory that Snake could be really pure, with only the single side effect of drawing the game state to the screen. Let’s refactor to find out.
+
+### Lisi Hocke: How to create a secure development lifecycle
+
+Building valuable solutions is a complex endeavor that requires a breadth of knowledge. That not being enough, we’re also getting asked to build secure solutions in a secure way - yet what does that even mean? How do we incorporate such a vast area of expertise into our everyday workflows?
+
+In this hands-on workshop, I will introduce you to core security concepts, like the CIA triad or defense in depth - and how we can apply them in everyday work. Based on a practical example, we will go through the development lifecycle with security in mind. You will learn about threat modeling to uncover risks early on, secure coding principles to bake security in, security testing approaches to make informed decisions depending on your risk appetite, and ways of detecting potentially malicious activity to protect against. Interactive exercises at each step will let you experience how security can neatly fit with what you’re already doing without adding artificial gates.
+
+Whether you want to keep your system secure or get a neglected one back in shape, this session is for you. Join us to gain fundamental security knowledge, hone your security skills, and get tactical advice to secure your development lifecycle. Let’s make things a bit more secure than yesterday every day!
+
+### Emily Bache: Legacy Code - Characterization Testing with Approvals
+
+In this hands-on session we’ll introduce a commonly-used [Approval testing framework](https://approvaltests.com/) and learn to get control of some example code. The principles of Approval test design are in focus. Code demonstrations will be in Java, but exercises are available in several other languages including Python and C#.
+
+After the workshop, participants should be able to:
+
+- Describe the characteristics of Approval Testing and how it differs from ordinary assertion-based testing
+- Use the Approvals framework to write test cases for existing code
+- Inspect differences when a test fails and approve a new result
+
+Participants should bring a laptop and expect to work on some coding exercises during the workshop.
+
+### Tim Ottinger: Value stream mapping
+
+Often teams have trouble delivering software, even though they are working as fast as possible, and turning over tickets quickly. They are asked to work harder, but they are already at their maximum. Adding people doesn't help, and seems to make the problem worse.
+
+The problem is often that their way of work is full of hidden waits and waste. If they could see those issues, they would solve them.
+
+Want to see how you can see your issues? Come see how we adopt a lean practice for agile software development that may change how you see your team's interactions, and possibly may make it possible to 10x your delivery WITHOUT working harder. 
+
+We may even throw in some AI, just for fun.
+
+### Clare Sudbery: Using TDD to get better results from LLMs/AI
+
+How can you use an LLM to build reliable software? Is it even possible? Are the extravagant claims, both for and against, realistic? 
+
+If you combine tests and XP rigour with the efforts of an AI coding assistant, what you can get is something very powerful. This workshop will give you the to start building a very simple app using tests, process files and AI… as well as show some of the potential pitfalls.
 
 ## What are the COVID mitigations?
 
