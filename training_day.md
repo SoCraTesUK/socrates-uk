@@ -36,13 +36,14 @@ To get an idea of how the day might take shape, you can have a look at the [prog
 | Time | Track A | Track B |
 |<img width=150/> | <img width=500/> | <img width=500/> |
 | *09:30 - 09:45* | *Welcome* |
-|  09:45 - 10:45  | TDD game with Cyber-Dojo, by Jon Jagger ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") |
+|  09:45 - 10:45  | TDD game with Cyber-Dojo <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> Jon Jagger |
 | *10:45 - 11:00* | *Break* |
-|  11:00 - 13:00  | Hands-on: Bringing User Stories to Life, by Gemma Cameron ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") | I Suppose This Is My Life Now - Mercilessly Refactoring AI Code, by Duncan McGregor ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
+|  11:00 - 13:00  | Hands-on: Bringing User Stories to Life <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> Gemma Cameron | I Suppose This Is My Life Now - Mercilessly Refactoring AI Code <br/> Duncan McGregor ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
 | *13:00 - 14:15* | *Lunch* |
-|  14:15 - 15:15  | How to create a secure development lifecycle, by Lisi Hocke ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") | Legacy Code - Characterization Testing with Approvals by Emily Bache ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") |
+|  14:15 - 15:15  | How to create a secure development lifecycle <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> Lisi Hocke | Legacy Code - Characterization Testing with Approvals <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> Emily Bache |
 | *15:15 - 15:30* | *Break* |
-|  15:30 - 17:30  | Value stream mapping by Tim Ottinger ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") | Using TDD to get better results from LLMs/AI by Clare Sudbery ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") |
+|  15:30 - 17:30  | Value stream mapping <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> Tim Ottinger | Using TDD to get better results from LLMs/AI <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> Clare Sudbery |
+| Time | Track A | Track B |
 {:.table-striped}
 
 <br />
