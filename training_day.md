@@ -109,11 +109,17 @@ If you combine tests and XP rigour with the efforts of an AI coding assistant, w
 
 #### Gemma Cameron
 
-[Gemma Cameron](https://www.linkedin.com/in/rubygem/)
+[Gemma Cameron](https://www.linkedin.com/in/rubygem/) is a tech and business consultant, software developer, and experienced speaker based in Manchester. She has been an active member of the UK tech community for over a decade, speaking at conferences including SPAConf, Agile Manchester and DDD Europe.
+
+Her work focuses on bridging the gap between business and engineering teams, with a particular interest in people, ways of working, and making complex ideas practical and usable. Alongside her consulting work, she writes about engineering culture, hiring, and team development on rubygem.blog
+
+If that doesn't interest you, she has a whole cheese joke routine and a wealth of ferret facts.
 
 #### Duncan McGregor
 
-[Duncan McGregor](https://youtube.com/@pairingwithduncan)
+[Duncan McGregor](https://youtube.com/@pairingwithduncan) has been a professional software developer for 35 years. He was lucky enough to be an early adopter of Object Oriented programming, which was the gateway drug to patterns, Extreme Programming, agile and lean. He coauthored [Java to Kotlin: A Refactoring Guidebook](https://java-to-kotlin.dev/), published by O’Reilly. These days he is mostly retired, but still produces a weekly [YouTube video](https://youtube.com/@pairingwithduncan) on something that interests him.
+
+He has tried almost anything in his quest for better software, including, but not limited to, actually talking to people.
 
 #### Nat Pryce
 
@@ -121,19 +127,29 @@ If you combine tests and XP rigour with the efforts of an AI coding assistant, w
 
 #### Lisi Hocke
 
-[Lisi Hocke](https://www.lisihocke.com/)
+[Lisi Hocke](https://www.lisihocke.com/) found tech as her place to be in 2009 and has grown as a specialized generalist ever since. Building great products that deliver value together with great people motivates her and lets her thrive. 
+
+As a security engineer, she’s now fully focusing on all things product security to help build more secure solutions. She's committed to testing and quality, passionate about whole-team approaches to increase effectiveness and resilience, and enjoys experimenting and learning continuously. Having received a lot from communities, Lisi is paying it forward by sharing her stories and learning in public. 
+
+She posts on Mastodon as [@lisihocke@mastodon.social](https://mastodon.social/@lisihocke) and blogs at [www.lisihocke.com](https://www.lisihocke.com/). In her free time, she plays indoor volleyball or delves into computer games and stories of all kinds.
 
 #### Emily Bache
 
-[Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach)
+[Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) is an independent consultant, [YouTuber](https://www.youtube.com/@EmilyBache-tech-coach) and Technical Coach. She works with developers, training and coaching effective agile practices like Refactoring and Test-Driven Development. Emily has written two books about software development and contributed to several others. 
+
+A frequent conference speaker, Emily has been invited to keynote at prestigious developer events including EuroPython, Craft and ACCU. Emily founded the [Samman Technical Coaching Society](https://sammancoaching.org/) in order to promote technical excellence and support coaches everywhere.
 
 #### Tim Ottinger
 
-[Tim Ottinger](https://agileotter.blogspot.com/)
+[Tim Ottinger](https://agileotter.blogspot.com/) is a long-time software developer, manager, consultant, author, coach, blogger, speaker, and podcast guest. He is a methods-agnostic agilist with a bias toward Continuous Delivery and XP. He has taught thousands of people how to build software in safer, smarter, faster ways.
+
+He works with frontline developers all the way up to executives as a "full stack" consultant and advisor. He plays guitar a bit, and mandolin, bass, and harmonica a bit less than that. He includes continuous learning, developing trust, and engaging curiosity as side dishes in his technical training. He loves simple formalities that get work done.
 
 #### Clare Sudbery
 
-[Clare Sudbery](https://queen-of-questions.kit.com/)
+[Clare Sudbery](https://queen-of-questions.kit.com/) is a software trainer with over 25 years of software experience. She curates and delivers training for early-career developers at [Autotrader UK](https://careers.autotrader.co.uk/), and specialises in technical leadership, Test Driven Development (TDD), combining TDD with genAI, refactoring, continuous integration and other eXtreme Programming (XP) practices.  
+
+She’s an ex high school maths teacher, taught the Coding Black Females’ Return to Tech programme and co-ran Made Tech’s academy. She has a passion for helping under-represented groups to flourish in tech.
 
 ## What are the COVID mitigations?
 
