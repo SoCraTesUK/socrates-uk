@@ -34,9 +34,9 @@ Sessions will cover foundational topics - the roots of what our community is abo
 | *10:45 - 11:00* | *Break* |
 |  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](#gemma-cameron) | [I Suppose This is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](#duncan-mcgregor) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](#nat-pryce) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
 | *13:00 - 14:15* | *Lunch* |
-|  14:15 - 15:15  | [How to Create a Secure Development Lifecycle](#lisi-hocke-how-to-create-a-secure-development-lifecycle) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](#lisi-hocke) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](#emily-bache) |
+|  14:15 - 15:15  | [Using TDD to Get Better Results From LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](#clare-sudbery) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](#emily-bache) |
 | *15:15 - 15:30* | *Break* |
-|  15:30 - 17:30  | [Value Stream Mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](#tim-ottinger) | [Using TDD to Get Better Results From LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](#clare-sudbery) |
+|  15:30 - 17:30  | [Value Stream Mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](#tim-ottinger) | [Secure Development Lifecycle Applied <br/>- How to Make Things a Bit More Secure than Yesterday Every Day](#lisi-hocke-secure-development-lifecycle-applied---how-to-make-things-a-bit-more-secure-than-yesterday-every-day) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](#lisi-hocke) |
 | Time | Track A (Practical Skills) | Track B (Coding) |
 {:.table-striped}
 
@@ -65,13 +65,11 @@ This is SoCraTes. We’re all about the craft. But for some reason the code gene
 
 Join Nat and Duncan in this two-hour workshop where we’ll let the AI do the initial grunt work so that we have more time to polish. First we’ll generate a game of snake; maybe even the tests. We could ship that, but it’s beneath us. How good could the code be? Duncan has a theory that Snake could be really pure, with only the single side effect of drawing the game state to the screen. Let’s refactor to find out.
 
-#### Lisi Hocke: How to Create a Secure Development Lifecycle
+#### Clare Sudbery: Using TDD to Get Better Results From LLMs/AI
 
-Building valuable solutions is a complex endeavor that requires a breadth of knowledge. That not being enough, we’re also getting asked to build secure solutions in a secure way - yet what does that even mean? How do we incorporate such a vast area of expertise into our everyday workflows?
+How can you use an LLM to build reliable software? Is it even possible? Are the extravagant claims, both for and against, realistic? 
 
-In this hands-on workshop, I will introduce you to core security concepts, like the CIA triad or defense in depth - and how we can apply them in everyday work. Based on a practical example, we will go through the development lifecycle with security in mind. You will learn about threat modeling to uncover risks early on, secure coding principles to bake security in, security testing approaches to make informed decisions depending on your risk appetite, and ways of detecting potentially malicious activity to protect against. Interactive exercises at each step will let you experience how security can neatly fit with what you’re already doing without adding artificial gates.
-
-Whether you want to keep your system secure or get a neglected one back in shape, this session is for you. Join us to gain fundamental security knowledge, hone your security skills, and get tactical advice to secure your development lifecycle. Let’s make things a bit more secure than yesterday every day!
+If you combine tests and XP rigour with the efforts of an AI coding assistant, what you can get is something very powerful. This workshop will give you the to start building a very simple app using tests, process files and AI… as well as show some of the potential pitfalls.
 
 #### Emily Bache: Legacy Code - Characterization Testing with Approvals
 
@@ -95,11 +93,13 @@ Want to see how you can see your issues? Come see how we adopt a lean practice f
 
 We may even throw in some AI, just for fun.
 
-#### Clare Sudbery: Using TDD to Get Better Results From LLMs/AI
+#### Lisi Hocke: Secure Development Lifecycle Applied - How to Make Things a Bit More Secure than Yesterday Every Day
 
-How can you use an LLM to build reliable software? Is it even possible? Are the extravagant claims, both for and against, realistic? 
+Building valuable solutions is a complex endeavor that requires a breadth of knowledge. That not being enough, we’re also getting asked to build secure solutions in a secure way - yet what does that even mean? How do we incorporate such a vast area of expertise into our everyday workflows?
 
-If you combine tests and XP rigour with the efforts of an AI coding assistant, what you can get is something very powerful. This workshop will give you the to start building a very simple app using tests, process files and AI… as well as show some of the potential pitfalls.
+In this hands-on workshop, I will introduce you to core security concepts, like the CIA triad or defense in depth - and how we can apply them in everyday work. Based on a practical example, we will go through the development lifecycle with security in mind. You will learn about threat modeling to uncover risks early on, secure coding principles to bake security in, security testing approaches to make informed decisions depending on your risk appetite, and ways of detecting potentially malicious activity to protect against. Interactive exercises at each step will let you experience how security can neatly fit with what you’re already doing without adding artificial gates.
+
+Whether you want to keep your system secure or get a neglected one back in shape, this session is for you. Join us to gain fundamental security knowledge, hone your security skills, and get tactical advice to secure your development lifecycle. Let’s make things a bit more secure than yesterday every day!
 
 ## Our Trainers
 
