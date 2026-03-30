@@ -27,17 +27,17 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-| Time | Track A (Practical Skills) | Track B (Coding) |
+| Time | Track A (Coding) | Track B (Practical Skills) |
 |<img width=150/> | <img width=500/> | <img width=500/> |
-| *09:30 - 09:45* | *Welcome* |
-|  09:45 - 10:45  | [TDD Game with Cyber-Dojo](#jon-jagger-tdd-game-with-cyber-dojo) <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](#jon-jagger) |
-| *10:45 - 11:00* | *Break* |
-|  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-hands-on-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](#gemma-cameron) | [I Suppose This is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](#duncan-mcgregor) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](#nat-pryce) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
-| *13:00 - 14:15* | *Lunch* |
-|  14:15 - 15:15  | [Using TDD to Get Better Results From LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](#clare-sudbery) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](#emily-bache) |
-| *15:15 - 15:30* | *Break* |
-|  15:30 - 17:30  | [Value Stream Mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](#tim-ottinger) | [Secure Development Lifecycle Applied <br/>- How to Make Things a Bit More Secure than Yesterday Every Day](#lisi-hocke-secure-development-lifecycle-applied---how-to-make-things-a-bit-more-secure-than-yesterday-every-day) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](#lisi-hocke) |
-| Time | Track A (Practical Skills) | Track B (Coding) |
+| *09:15 - 09:30* | *Welcome* |
+|  09:30 - 10:30  | [TDD Game with Cyber-Dojo](#jon-jagger-tdd-game-with-cyber-dojo) <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](#jon-jagger) |
+| *10:30 - 10:45* | *Break* |
+|  10:45 - 12:45  | [I Suppose This is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](#duncan-mcgregor) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](#nat-pryce) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") | [Secure Development Lifecycle Applied <br/>- How to Make Things a Bit More Secure than Yesterday Every Day](#lisi-hocke-secure-development-lifecycle-applied---how-to-make-things-a-bit-more-secure-than-yesterday-every-day) <br/> ![Lisi Hocke](img/2026/trainers/lisi-hocke.png "Photo of Lisi Hocke") <br/> [Lisi Hocke](#lisi-hocke) |
+| *12:45 - 14:00* | *Lunch* |
+|  14:00 - 15:30  | [Using TDD to Get Better Results From LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](#clare-sudbery) | [Hands-on: Bringing User Stories to Life](#gemma-cameron-hands-on-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](#gemma-cameron) |
+| *15:30 - 15:45* | *Break* |
+|  15:45 - 17:45  | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](#emily-bache) | [Value Stream Mapping](#tim-ottinger-value-stream-mapping) <br/> ![Tim Ottinger](img/2026/trainers/tim-ottinger.png "Photo of Tim Ottinger") <br/> [Tim Ottinger](#tim-ottinger) |
+| Time | Track A (Coding) | Track B (Practical Skills) |
 {:.table-striped}
 
 <br />
