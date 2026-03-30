@@ -32,7 +32,7 @@ Sessions will cover foundational topics - the roots of what our community is abo
 | *09:30 - 09:45* | *Welcome* |
 |  09:45 - 10:45  | [TDD Game with Cyber-Dojo](#jon-jagger-tdd-game-with-cyber-dojo) <br/> ![Jon Jagger](img/2026/trainers/jon-jagger.png "Photo of Jon Jagger") <br/> [Jon Jagger](#jon-jagger) |
 | *10:45 - 11:00* | *Break* |
-|  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](#gemma-cameron) | [I Suppose This is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](#duncan-mcgregor) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](#nat-pryce) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
+|  11:00 - 13:00  | [Hands-on: Bringing User Stories to Life](#gemma-cameron-hands-on-bringing-user-stories-to-life) <br/> ![Gemma Cameron](img/2026/trainers/gemma-cameron.png "Photo of Gemma Cameron") <br/> [Gemma Cameron](#gemma-cameron) | [I Suppose This is My Life Now - Mercilessly Refactoring AI Code](#duncan-mcgregor--nat-pryce-i-suppose-this-is-my-life-now---mercilessly-refactoring-ai-code) <br/> [Duncan McGregor](#duncan-mcgregor) ![Duncan McGregor](img/2026/trainers/duncan-mcgregor.png "Photo of Duncan McGregor") and [Nat Pryce](#nat-pryce) ![Nat Pryce](img/2026/trainers/nat-pryce.png "Photo of Nat Pryce") |
 | *13:00 - 14:15* | *Lunch* |
 |  14:15 - 15:15  | [Using TDD to Get Better Results From LLMs/AI](#clare-sudbery-using-tdd-to-get-better-results-from-llmsai) <br/> ![Clare Sudbery](img/2026/trainers/clare-sudbery.png "Photo of Clare Sudbery") <br/> [Clare Sudbery](#clare-sudbery) | [Legacy Code - Characterization Testing with Approvals](#emily-bache-legacy-code---characterization-testing-with-approvals) <br/> ![Emily Bache](img/2026/trainers/emily-bache.png "Photo of Emily Bache") <br/> [Emily Bache](#emily-bache) |
 | *15:15 - 15:30* | *Break* |
@@ -48,12 +48,13 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 You will be practicing test driven development away from the pressures of getting things done. You will be using the innovative, open source, browser based [Cyber-dojo](https://cyber-dojo.org) which provides a highly effective environment designed specifically for reflection and improvement. This is a hands-on intense but fun workshop. There are no slides.
 
-#### Gemma Cameron: Bringing User Stories to Life
+#### Gemma Cameron: Hands-on: Bringing User Stories to Life
 
 The hardest thing about software development is sharing ideas and understanding your users. What are we making, who is it for, what problems do they currently have, how can we fix them, how will they feel? What could go wrong for them? 
+
 User stories have become boring tasks written in gherkin syntax. How can the ideas and feelings be shared in such a simple way that even your family and friends will understand your product and its benefits? How can you understand the context the user is operating in? How can you build a system for them that helps rather than hinders in their workflow? How can you plan your system for when things go wrong?
 
-I've got a fun thing for you to try in this workshop: Comics!
+We've got a fun thing for you to try in this workshop: Comics!
 
 Bring a few of your own users stories and we’ll bring them to life in a very short amount of time, with no drawing skills required! 
 
