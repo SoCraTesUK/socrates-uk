@@ -134,9 +134,7 @@ He has tried almost anything in his quest for better software, including, but no
 
 #### Nat Pryce
 
-[Nat Pryce](https://www.linkedin.com/in/natpryce/) is the co-author of [Growing Object­-Oriented Software Guided by Tests](https://growing-object-oriented-software.com/). An early adopter of XP, he has written or contributed to several open source libraries and tools that support TDD and was one of the founding organizers of the London XP Day conference. 
-
-He works as programmer, architect, trainer, and consultant in a variety of industries, including e-commerce, media, telecoms, finance, retail and marketing communications. He has delivered business-critical systems that range from embedded devices to large compute farms supporting global business.
+[Nat Pryce](https://www.linkedin.com/in/natpryce/) has been programming for \<coughty-cough\> years, across many languages, platforms, application domains and industries. He enjoys sharing programming tips, tricks and techniques. He co-authored the books "[Java to Kotlin: A Refactoring Guidebook](https://java-to-kotlin.dev/)" and "[Growing Object­-Oriented Software Guided by Tests](https://growing-object-oriented-software.com/)".
 
 #### Lisi Hocke
 
