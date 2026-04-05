@@ -23,7 +23,7 @@ Sessions will cover foundational topics - the roots of what our community is abo
 - [Our Trainers](#our-trainers)
 - [Covid Mitigations](#what-are-the-covid-mitigations)
 - [Can I still join the OpenSpace?](#can-i-still-join-the-openspace)
-- [Prices](#cost)
+- [Prices and tickets](#cost)
 
 ## Programme
 
@@ -192,3 +192,5 @@ So yes, you can join the OpenSpace whatever your level, and whether or not you h
 The training day is not part of the regular SoCraTes UK programme. It requires both extra preparation - especially for the session hosts - and additional cost. As a consequence, you will have to pay a cover charge of £375 to attend.
 
 There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
+
+Visit [our tickets page](https://socratesuk.org/tickets.html) to secure your place (scroll down to the "Buy a ticket" button in the middle of the page).
