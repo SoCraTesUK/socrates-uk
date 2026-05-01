@@ -51,7 +51,7 @@ docker run -it --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll jekyl
 ### To upgrade jekyll
 
 - Look at the [available versions](https://jekyllrb.com/news/releases/).
-- Check the [latest version](https://pages.github.com/versions/) that github pages supports
+- Check the [latest version](https://pages.github.com/versions.json) that github pages supports
 - Edit the jekyll version in the [Gemfile](Gemfile)
 - Apply the update
 ```
