@@ -21,10 +21,10 @@ others who are vulnerable.
 
 - **Lateral flow tests** will be provided for each day and are **mandatory** to perform (conference organisers should be
 notified if the test is positive).
-- In additional, it is **strongly recommended** that you take a test **before travelling to the conference** if possible.
+- In addition, it is **strongly recommended** that you take a test **before travelling to the conference** if possible.
 
 (One person arrived at SoCraTes UK 2025 with COVID, and it was testing that enabled us to discover this early and to 
-prevent other participants from catching it.)
+prevent other participants from catching it whilst still allowing the affected party to take part in the event.)
 
 ### Air fitering
 
@@ -36,5 +36,5 @@ Air filtering will be provided in meeting rooms that don't have windows to the o
 sessions that you want to attend.
 - You must avoid the restaurant for breakfast/lunch/dinner (we’ll arrange for hotel staff to deliver meals to your
 room).
-- Outdoor sessions: feel free to organise and attend outdoor sessions; wear a mask when attending and keep a safe
+- Outdoor sessions: Feel free to organise and attend outdoor sessions; wear a mask when attending and keep a safe
 distance from others whilst attending them.
