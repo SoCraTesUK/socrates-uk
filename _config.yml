@@ -1,7 +1,7 @@
 sponsors:
   - name: Codurance
     url: https://codurance.com/
-    logo: codurance.png 
+    logo: codurance.png
 
   - name: Armakuni
     url: https://armakuni.com/
@@ -96,14 +96,14 @@ partner_events:
     date: October 3rd - 5th  2025
     location: Amherst, Canada
 
-  - title: SoCraTes BE
+  - title: SoCraTes Belgium
     website: https://socratesbe.org/
-    date: October 9th - 12th 2025
+    date: October 22nd - 25th 2026
     location: La Roche-en-Ardenne, Belgium
 
   - title: SoCraTes Crete
     website: https://socrates-crete.org
-    date: October 24th - 27th 2025
+    date: October 22nd - 25th 2026
     location: Rethymno, Crete
 
   - title: FroGS (Friends of Good Software)
