@@ -112,3 +112,9 @@ partner_events:
     location: Online
 
 markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - CLAUDE.md
