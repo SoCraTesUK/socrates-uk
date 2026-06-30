@@ -28,7 +28,7 @@ partner_events:
 
   - title: SoCraTes Switzerland
     website: https://www.socrates-ch.org/
-    date: January 29th - February 1st 2026
+    date: January 28th - 31st 2027
     location: Ilanz, Switzerland
 
   - title: SoCraTes France
@@ -53,12 +53,12 @@ partner_events:
 
   - title: JS CraftCamp
     website: http://jscraftcamp.org/
-    date: June 27th - 28th 2025
+    date: June 12th - 13th 2026
     location: Munich, Germany
 
   - title: SoCraTes Germany
     website: https://www.socrates-conference.de/
-    date: July 17th - 20th  2025
+    date: August 27th - 30th 2026
     location: Soltau, Germany
 
   - title: SoCraTes Maroc
@@ -78,17 +78,17 @@ partner_events:
 
   - title: SoCraTes Austria
     website: https://socrates-conference.at/
-    date: September 26th - 27th 2025
+    date: September 25th - 26th 2026
     location: Linz, Austria
 
   - title: CITCON (Continuous Integration and Testing unConference)
     website: https://citconf.com/
-    date: September 26th - 27th 2025
-    location: London (Woking), UK
+    date: May 22nd - 23rd 2026
+    location: Helsinki, Finland
 
   - title: SoCraTes Italy
     website: https://www.socrates-conference.it/
-    date:  October 2nd - 4th 2025
+    date: September 17th - 19th 2026
     location: Rimini, Italy
 
   - title: SoCraTes Canada
