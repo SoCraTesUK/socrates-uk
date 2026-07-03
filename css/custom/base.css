@@ -71,6 +71,24 @@
 	margin: auto;
 }
 
+/** new to socrates **/
+
+.front-page-introduction {
+	padding-bottom: 0;
+}
+
+.front-page-new-to-socrates {
+	padding-top: 3rem;
+}
+
+.front-page-new-to-socrates .nts-copy p {
+	margin-bottom: 1.75rem;
+}
+
+.front-page-new-to-socrates .nts-copy p:last-child {
+	margin-bottom: 0;
+}
+
 /** what happens **/
 
 .front-page-what-happens {
