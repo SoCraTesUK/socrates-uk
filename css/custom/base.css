@@ -49,6 +49,19 @@
 	text-shadow: 3px 3px black;
 }
 
+.front-page-header .lead {
+	font-size: 2rem;
+	font-weight: 600;
+	text-shadow: 2px 2px 4px black, 0 0 6px black;
+}
+
+.front-page-header h3,
+.front-page-header h4 {
+	font-size: 1.15rem;
+	font-weight: 400;
+	text-shadow: 1px 1px 3px black, 0 0 4px black;
+}
+
 .front-page-header .socrates-brand {
 	font-family: 'PT Serif Caption', serif;
 }
