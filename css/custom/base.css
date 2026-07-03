@@ -140,13 +140,20 @@
 	padding-bottom: 1rem;
 }
 
+.bg-bluesky {
+	background-color: #0085ff;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
 .email-logo {
 	font-size: 100px;
 }
 
 .twitter-logo,
 .slack-logo,
-.mastodon-logo {
+.mastodon-logo,
+.bluesky-logo {
 	height: 100px;
 	width: auto;
 	vertical-align: bottom;
@@ -158,6 +165,13 @@
 	font-size: 2rem;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
+}
+
+.bluesky-handle {
+	font-size: 1.3rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	word-break: break-word;
 }
 
 /** partner events **/
