@@ -64,6 +64,18 @@
 	background-color: lightgrey;
 }
 
+.front-page-what-happens .carousel-caption {
+	background-color: rgba(0, 0, 0, 0.55);
+	border-radius: 0.5rem;
+	padding: 0.75rem 1.25rem;
+	bottom: 1.5rem;
+}
+
+.front-page-what-happens .carousel-caption h5,
+.front-page-what-happens .carousel-caption p {
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+}
+
 /** sponsors **/
 
 .sponsor-company-logo {
