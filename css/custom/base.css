@@ -98,6 +98,8 @@
 .front-page-social {
 	background-color: #666666;
 	color: #ffffff;
+	padding-top: 6rem;
+	padding-bottom: 6rem;
 }
 
 .front-page-social a,
@@ -146,6 +148,29 @@
 	padding-bottom: 1rem;
 }
 
+.bg-linkedin {
+	background-color: #0a66c2;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.bg-linkedin.linkedin-banner {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.75rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+.linkedin-banner .linkedin-logo {
+	height: 28px;
+}
+
+.linkedin-banner p {
+	margin-bottom: 0;
+}
+
 .email-logo {
 	font-size: 100px;
 }
@@ -153,7 +178,8 @@
 .twitter-logo,
 .slack-logo,
 .mastodon-logo,
-.bluesky-logo {
+.bluesky-logo,
+.linkedin-logo {
 	height: 100px;
 	width: auto;
 	vertical-align: bottom;
@@ -161,7 +187,8 @@
 
 .twitter-hashtag,
 .slack-channel,
-.mastodon-hashtag {
+.mastodon-hashtag,
+.linkedin-name {
 	font-size: 2rem;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
