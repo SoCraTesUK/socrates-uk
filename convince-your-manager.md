@@ -6,6 +6,8 @@ title: Convince your manager
 
 {% include_relative links.md %}
 
+## Convince your manager
+
 Thinking about coming to SoCraTes UK but need to square it with work first? This page
 is here to help. Below you will find the case for attending, an honest summary of the
 costs, and an email you are welcome to adapt and send to your manager. There is also a
