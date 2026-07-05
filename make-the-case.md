@@ -1,12 +1,12 @@
 ---
 layout: page
-name: Convince Your Manager
-title: Convince your manager
+name: Make The Case
+title: Make the case
 ---
 
 {% include_relative links.md %}
 
-## Convince your manager
+## Make the case
 
 Thinking about coming to SoCraTes UK but need to square it with work first? This page
 is here to help. Below you will find the case for attending, an honest summary of the

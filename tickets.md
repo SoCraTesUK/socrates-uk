@@ -17,7 +17,7 @@ Four possible days of exchanging with fellow crafters:
 
 We will allocate tickets on a first-come first-serve basis.
 
-Need to square it with work first? Our [guide to convincing your manager][convince_your_manager_page] lays out the case, the costs and an email you can adapt.
+Need to square it with work first? Here's how to [make the case][make_the_case_page] — the reasons, the costs, and an email you can adapt.
 
 Scroll down for more information, especially our [Code of Conduct][coc_page] and Priority Tickets.
 
