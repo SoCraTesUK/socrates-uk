@@ -69,6 +69,11 @@ and tea, coffee and biscuits throughout are all included. Because sponsorship is
 equally across every ticket, the final cost is often lower than the headline — in 2024,
 for example, attendees received a £125 rebate.
 
+If you would like to bring a partner, friend or colleague who is not attending the Open
+Space, there is a `+1` option covering their room and meals. Colleagues who want to join
+the Open Space itself simply need their own ticket. The [tickets page][tickets_page] has
+the various combinations, and if you are not sure what fits, just [get in touch][contact].
+
 <br>
 
 ### An email you can send
@@ -97,23 +102,6 @@ Feel free to copy, cut down and make this your own.
 >
 > Thanks,
 > [your name]
-
-<br>
-
-### Bring a colleague
-
-SoCraTes is better with company, and coming as a pair or a small group means you can
-split up to cover more sessions and compare notes in the evening. It also makes the case
-to your manager stronger: more of the team learning, for a shared trip.
-
-If you would like to bring a partner, friend or colleague who is not attending the Open
-Space, there is a `+1` option covering their room and meals. Colleagues who want to join
-the Open Space itself simply need their own ticket. The [tickets page][tickets_page] has
-the various combinations, and if you are not sure what fits, just [get in touch][contact].
-
-And if you are worried about not knowing anyone — please do not be. The community works
-hard to be welcoming, and we hope to pair newcomers with a
-[Conference Buddy][conference_buddies] so no one arrives on their own.
 
 <br>
 
