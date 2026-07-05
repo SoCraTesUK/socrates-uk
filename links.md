@@ -1,5 +1,6 @@
 [infomail]: mailto:socratesuk-info@googlegroups.com
 [twitter]: https://twitter.com/socrates_uk
+[bluesky]: https://bsky.app/profile/socratesuk.bsky.social
 [mastodon]: https://discuss.systems/@SoCraTes_UK
 [twitter_socrates_hashtag]: https://twitter.com/hashtag/SoCraTesUK
 [software_crafters_slack]: https://slack.softwarecrafters.org/
