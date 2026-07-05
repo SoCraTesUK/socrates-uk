@@ -59,9 +59,9 @@ An honest summary, so there are no surprises when you ask. Prices are for SoCraT
 
 | Item | Cost |
 | --- | --- |
-| Open Space ticket (2 days, incl. private room, all meals and refreshments) | £675 |
-| Optional [training day][training_day_page] the day before | £375 |
-| Optional Wednesday-evening arrival (room, dinner and breakfast) | £110 |
+| Open Space ticket (2 days, incl. private room, all meals and refreshments) | £{{ site.pricing.open_space }} |
+| Optional [training day][training_day_page] the day before | £{{ site.pricing.training_day }} |
+| Optional Wednesday-evening arrival (room, dinner and breakfast) | £{{ site.pricing.wednesday_arrival }} |
 | Travel to Milton Hill House, Abingdon, Oxfordshire | Varies |
 
 The ticket price is all-in for the event itself: your room, breakfast, lunch and dinner,
@@ -92,7 +92,7 @@ Feel free to copy, cut down and make this your own.
 > problems we are working on and get practical input from experienced developers and
 > testers from other organisations.
 >
-> The ticket is £675, which includes accommodation and all meals. It is run by
+> The ticket is £{{ site.pricing.open_space }}, which includes accommodation and all meals. It is run by
 > volunteers at cost, so there is no profit built in, and the price is often reduced by
 > sponsorship. I would expect to come back with concrete techniques I can share with the
 > team, and I am happy to write up what I learn or run an internal session afterwards.

@@ -20,6 +20,13 @@ event_details:
   date: June 18th - 21st
   location: Milton Hill House, Abingdon, OX13 6AF
 
+# Ticket prices in GBP. Update here yearly — referenced from tickets.md
+# and make-the-case.md so the figures stay in sync across the site.
+pricing:
+  open_space: 675
+  training_day: 375
+  wednesday_arrival: 110
+
 partner_events:
   - title: CodeFreeze
     website: https://codefreeze.fi/

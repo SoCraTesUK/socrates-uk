@@ -53,9 +53,9 @@ We will have some priority tickets reserved and free for under-indexed groups in
 
 ### How much does it cost?
 
-We sell tickets for the **open space at £675**. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will give back a rebate for the difference. For reference, in the 2024 edition, the rebate was £125, and in 2025, there was no rebate.
+We sell tickets for the **open space at £{{ site.pricing.open_space }}**. This will likely be reduced by [sponsorships][sponsorship_page], which will be equally applied to all tickets. We will give back a rebate for the difference. For reference, in the 2024 edition, the rebate was £125, and in 2025, there was no rebate.
 
-The **training day is £375**. There is an option to arrive the Wednesday evening for an extra £110 (accommodation + dinner & breakfast).
+The **training day is £{{ site.pricing.training_day }}**. There is an option to arrive the Wednesday evening for an extra £{{ site.pricing.wednesday_arrival }} (accommodation + dinner & breakfast).
 
 Want to **come with your loved ones? Or a friend? Or a colleague?** We also have:
 - a `+1` option to share a room (twin beds available on request): £66 per 24h for accommodation and food for an adult.\
