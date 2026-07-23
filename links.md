@@ -1,6 +1,7 @@
 [infomail]: mailto:socratesuk-info@googlegroups.com
 [bluesky]: https://bsky.app/profile/socratesuk.bsky.social
 [mastodon]: https://discuss.systems/@SoCraTes_UK
+[linkedin]: https://www.linkedin.com/company/socrates-uk
 [software_crafters_slack]: https://slack.softwarecrafters.org/
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
 [open_space_unconference]: https://en.wikipedia.org/wiki/Open_Space_Technology
