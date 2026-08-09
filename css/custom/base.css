@@ -284,6 +284,31 @@
 	margin: auto;
 }
 
+/** content tables (from markdown) **/
+
+.container table:not([class]) {
+	width: 100%;
+	margin: 1.5rem 0 2rem;
+	border-collapse: collapse;
+}
+
+.container table:not([class]) th,
+.container table:not([class]) td {
+	padding: 0.6rem 0.9rem;
+	border: 1px solid #dee2e6;
+	text-align: left;
+	vertical-align: top;
+}
+
+.container table:not([class]) thead th {
+	background-color: #f2f2f2;
+	border-bottom: 2px solid #cccccc;
+}
+
+.container table:not([class]) tbody tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
 /** Misc. **/
 
 .page-footer {
